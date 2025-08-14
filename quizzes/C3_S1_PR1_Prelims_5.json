@@ -1,0 +1,208 @@
+{
+  "quizInfo": {
+    "Subject": "Practical Research 1",
+    "Term": "First Quarter",
+    "Title": "Module 3 - Lesson 2",
+    "LastModified": "14 August 2025",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "Module 3 - Lesson 2.pdf"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "What guideline for choosing a topic suggests you should be interested in it because you have experienced it?",
+      "answer": "Interest in the subject matter",
+      "choices": [
+        "Availability of information",
+        "Timeliness and relevance of the topic",
+        "Personal resources",
+        "Interest in the subject matter"
+      ],
+      "reference": "Writing a Research Title",
+      "term": "Module 3 Lesson 2"
+    },
+    {
+      "question": "What guideline is important so that when you decide on a topic, sources of information are accessible?",
+      "answer": "Availability of information",
+      "choices": [
+        "Availability of information",
+        "Limitations on the subject",
+        "Personal resources",
+        "Interest in the subject matter"
+      ],
+      "reference": "Writing a Research Title",
+      "term": "Module 3 Lesson 2"
+    },
+    {
+      "question": "What must be considered to ensure a research topic is current and significant?",
+      "answer": "Timeliness and relevance of the topic",
+      "choices": [
+        "Timeliness and relevance of the topic",
+        "Personal resources",
+        "Limitations on the subject",
+        "Interest in the subject matter"
+      ],
+      "reference": "Writing a Research Title",
+      "term": "Module 3 Lesson 2"
+    },
+    {
+      "question": "What guideline considers if a topic is limited to what the teacher suggests?",
+      "answer": "Limitations on the subject",
+      "choices": [
+        "Availability of information",
+        "Timeliness and relevance of the topic",
+        "Limitations on the subject",
+        "Personal resources"
+      ],
+      "reference": "Writing a Research Title",
+      "term": "Module 3 Lesson 2"
+    },
+    {
+      "question": "What guideline requires you to consider if you can finish the research in terms of your intellectual and financial capabilities?",
+      "answer": "Personal resources",
+      "choices": [
+        "Interest in the subject matter",
+        "Personal resources",
+        "Limitations on the subject",
+        "Availability of information"
+      ],
+      "reference": "Writing a Research Title",
+      "term": "Module 3 Lesson 2"
+    },
+    {
+      "question": "What type of topic should be avoided because it is highly opinionated?",
+      "answer": "Controversial topics",
+      "choices": [
+        "Controversial topics",
+        "Highly technical subjects",
+        "Hard to investigate subjects",
+        "Too broad subjects"
+      ],
+      "reference": "Writing a Research Title",
+      "term": "Module 3 Lesson 2"
+    },
+    {
+      "question": "What kind of topic should be avoided as it sparks disagreement or debate?",
+      "answer": "Controversial topics",
+      "choices": [
+        "Highly technical subjects",
+        "Controversial topics",
+        "Too broad subjects",
+        "Hard to investigate subjects"
+      ],
+      "reference": "Writing a Research Title",
+      "term": "Module 3 Lesson 2"
+    },
+    {
+      "question": "What type of topic requires expertise and should be avoided if you don't have enough knowledge about it?",
+      "answer": "Highly technical subjects",
+      "choices": [
+        "Too broad subjects",
+        "Hard to investigate subjects",
+        "Highly technical subjects",
+        "Controversial topics"
+      ],
+      "reference": "Writing a Research Title",
+      "term": "Module 3 Lesson 2"
+    },
+    {
+      "question": "What subjects are made difficult by the unavailability of updated reading materials?",
+      "answer": "Hard to investigate subjects",
+      "choices": [
+        "Highly technical subjects",
+        "Too broad subjects",
+        "Controversial topics",
+        "Hard to investigate subjects"
+      ],
+      "reference": "Writing a Research Title",
+      "term": "Module 3 Lesson 2"
+    },
+    {
+      "question": "What is the result if you deal with topics that lack focus?",
+      "answer": "Too broad subjects",
+      "choices": [
+        "Too broad subjects",
+        "Hard to investigate subjects",
+        "Highly technical subjects",
+        "Controversial topics"
+      ],
+      "reference": "Writing a Research Title",
+      "term": "Module 3 Lesson 2"
+    },
+    {
+      "question": "What is the remedy if you lack focus because you deal with broad topics?",
+      "answer": "narrow it down",
+      "choices": [
+        "make it controversial",
+        "add personal resources",
+        "make it technical",
+        "narrow it down"
+      ],
+      "reference": "Writing a Research Title",
+      "term": "Module 3 Lesson 2"
+    },
+    {
+      "question": "What is considered the most important element of your research as it clearly expresses the problem to be explored?",
+      "answer": "Research title",
+      "choices": [
+        "Research title",
+        "Subject matter",
+        "Respondents",
+        "Time period"
+      ],
+      "reference": "Writing a Research Title",
+      "term": "Module 3 Lesson 2"
+    },
+    {
+      "question": "In formulating a research title, what contains the subject matter or topic to be investigated?",
+      "answer": "What",
+      "choices": [
+        "Where",
+        "Who",
+        "When",
+        "What"
+      ],
+      "reference": "Writing a Research Title",
+      "term": "Module 3 Lesson 2"
+    },
+    {
+      "question": "In formulating a research title, what contains the place or locale where the research is to be conducted?",
+      "answer": "Where",
+      "choices": [
+        "Where",
+        "What",
+        "Who",
+        "When"
+      ],
+      "reference": "Writing a Research Title",
+      "term": "Module 3 Lesson 2"
+    },
+    {
+      "question": "In formulating a research title, what contains the participants or respondents of the study?",
+      "answer": "Who",
+      "choices": [
+        "What",
+        "Where",
+        "Who",
+        "When"
+      ],
+      "reference": "Writing a Research Title",
+      "term": "Module 3 Lesson 2"
+    },
+    {
+      "question": "In formulating a research title, what contains the time period of the conduct of the study?",
+      "answer": "When",
+      "choices": [
+        "Where",
+        "What",
+        "Who",
+        "When"
+      ],
+      "reference": "Writing a Research Title",
+      "term": "Module 3 Lesson 2"
+    }
+  ]
+}

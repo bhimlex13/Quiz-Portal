@@ -1,0 +1,196 @@
+{
+  "quizInfo": {
+    "Subject": "Practical Research 1",
+    "Term": "First Quarter",
+    "Title": "Module 3 - Lesson 3",
+    "LastModified": "14 August 2025",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "Module 3 - Lesson 3.pdf"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "What is a question that a research project sets out to answer?",
+      "answer": "Writing Research Questions",
+      "choices": [
+        "Writing Scope and Delimitation",
+        "Writing Significance of the Study",
+        "Writing Research Questions",
+        "Writing a Research Title"
+      ],
+      "reference": "Designing Research Questions and Scope",
+      "term": "Module 3 Lesson 3"
+    },
+    {
+      "question": "What is the initial step in a research project?",
+      "answer": "Writing Research Questions",
+      "choices": [
+        "Writing a Research Title",
+        "Writing Scope and Delimitation",
+        "Writing Significance of the Study",
+        "Writing Research Questions"
+      ],
+      "reference": "Designing Research Questions and Scope",
+      "term": "Module 3 Lesson 3"
+    },
+    {
+      "question": "What characteristic of a research question provides enough specifics that one's audience can easily understand its purpose without needing additional explanation?",
+      "answer": "Clear",
+      "choices": [
+        "Focused",
+        "Clear",
+        "Concise",
+        "Complex"
+      ],
+      "reference": "Designing Research Questions and Scope",
+      "term": "Module 3 Lesson 3"
+    },
+    {
+      "question": "What characteristic of a research question means it is narrow enough that it can be answered thoroughly?",
+      "answer": "Focused",
+      "choices": [
+        "Arguable",
+        "Complex",
+        "Focused",
+        "Clear"
+      ],
+      "reference": "Designing Research Questions and Scope",
+      "term": "Module 3 Lesson 3"
+    },
+    {
+      "question": "What characteristic of a research question means it is expressed in the fewest possible words?",
+      "answer": "Concise",
+      "choices": [
+        "Concise",
+        "Complex",
+        "Arguable",
+        "Focused"
+      ],
+      "reference": "Designing Research Questions and Scope",
+      "term": "Module 3 Lesson 3"
+    },
+    {
+      "question": "What characteristic of a research question is not answerable with a simple 'yes' or 'no', but requires synthesis and analysis of ideas?",
+      "answer": "Complex",
+      "choices": [
+        "Clear",
+        "Complex",
+        "Concise",
+        "Arguable"
+      ],
+      "reference": "Designing Research Questions and Scope",
+      "term": "Module 3 Lesson 3"
+    },
+    {
+      "question": "What characteristic of a research question has potential answers that are open to debate rather than accepted facts?",
+      "answer": "Arguable",
+      "choices": [
+        "Focused",
+        "Clear",
+        "Arguable",
+        "Complex"
+      ],
+      "reference": "Designing Research Questions and Scope",
+      "term": "Module 3 Lesson 3"
+    },
+    {
+      "question": "What type of research problem is the opening statement of your Statement of the Problem (S.O.P.)?",
+      "answer": "General Problem",
+      "choices": [
+        "Specific Problem",
+        "Scope",
+        "Delimitation",
+        "General Problem"
+      ],
+      "reference": "Designing Research Questions and Scope",
+      "term": "Module 3 Lesson 3"
+    },
+    {
+      "question": "What type of research problem reflects the title of your research study?",
+      "answer": "General Problem",
+      "choices": [
+        "General Problem",
+        "Significance of the Study",
+        "Specific Problem",
+        "Scope"
+      ],
+      "reference": "Designing Research Questions and Scope",
+      "term": "Module 3 Lesson 3"
+    },
+    {
+      "question": "What type of research problem are the questions that you want to be answered in your study?",
+      "answer": "Specific Problem",
+      "choices": [
+        "General Problem",
+        "Delimitation",
+        "Specific Problem",
+        "Scope"
+      ],
+      "reference": "Designing Research Questions and Scope",
+      "term": "Module 3 Lesson 3"
+    },
+    {
+      "question": "What is the description of the scope of the study?",
+      "answer": "Delimitation of study",
+      "choices": [
+        "Significance of the Study",
+        "Delimitation of study",
+        "General Problem",
+        "Scope"
+      ],
+      "reference": "Designing Research Questions and Scope",
+      "term": "Module 3 Lesson 3"
+    },
+    {
+      "question": "What will explain why definite aspects of a subject were chosen and why others were excluded?",
+      "answer": "Delimitation of study",
+      "choices": [
+        "Specific Problem",
+        "Scope",
+        "Delimitation of study",
+        "General Problem"
+      ],
+      "reference": "Designing Research Questions and Scope",
+      "term": "Module 3 Lesson 3"
+    },
+    {
+      "question": "What are the parameters of your study?",
+      "answer": "Scope",
+      "choices": [
+        "Delimitation",
+        "Scope",
+        "Significance of the Study",
+        "General Problem"
+      ],
+      "reference": "Designing Research Questions and Scope",
+      "term": "Module 3 Lesson 3"
+    },
+    {
+      "question": "What are the factors not included in your research study?",
+      "answer": "Delimitation",
+      "choices": [
+        "Scope",
+        "Specific Problem",
+        "General Problem",
+        "Delimitation"
+      ],
+      "reference": "Designing Research Questions and Scope",
+      "term": "Module 3 Lesson 3"
+    },
+    {
+      "question": "What part of a research paper identifies the beneficiaries and the benefits that it will give when the problem is solved?",
+      "answer": "Significance of the Study",
+      "choices": [
+        "Scope",
+        "Delimitation",
+        "Significance of the Study",
+        "General Problem"
+      ],
+      "reference": "Designing Research Questions and Scope",
+      "term": "Module 3 Lesson 3"
+    }
+  ]
+}

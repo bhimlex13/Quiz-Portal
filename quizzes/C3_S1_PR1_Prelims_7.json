@@ -1,0 +1,1306 @@
+{
+  "quizInfo": {
+    "Subject": "Practical Research 1",
+    "Term": "First Quarter",
+    "Title": "PR1 Reviewer Pro Max",
+    "LastModified": "15 August 2025",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "Week-1",
+      "Week-2",
+      "Week-3",
+      "Week-4",
+      "Module 3 - Lesson 1.pdf",
+      "Module 3 - Lesson 2.pdf",
+      "Module 3 - Lesson 3.pdf"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "What came from the prefix 're' meaning again and 'search' meaning to look for?",
+      "answer": "Research",
+      "choices": [
+        "Etymology",
+        "Scrutiny Process",
+        "Basic Research",
+        "Research"
+      ],
+      "reference": "Defining Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is not only about the discovery of something unknown, but also coming up with a new explanation of something that is known?",
+      "answer": "Research",
+      "choices": [
+        "Applied Research",
+        "Etymology",
+        "Scrutiny Process",
+        "Research"
+      ],
+      "reference": "Defining Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is a process of searching for something to solve?",
+      "answer": "Research",
+      "choices": [
+        "Basic Research",
+        "Applied Research",
+        "Etymology",
+        "Research"
+      ],
+      "reference": "Defining Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What has come up with developing appropriate solutions to improve the individual's quality of life?",
+      "answer": "Research",
+      "choices": [
+        "Scrutiny Process",
+        "Basic Research",
+        "Applied Research",
+        "Research"
+      ],
+      "reference": "Defining Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is universally a systematic and objective search for reliable knowledge?",
+      "answer": "Research",
+      "choices": [
+        "Etymology",
+        "Basic Research",
+        "Applied Research",
+        "Research"
+      ],
+      "reference": "Defining Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is a verified approach to thinking and employing legalized instruments and steps to obtain a more adequate solution to a problem?",
+      "answer": "Research",
+      "choices": [
+        "Scrutiny Process",
+        "Basic Research",
+        "Applied Research",
+        "Research"
+      ],
+      "reference": "Defining Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is the process of discovering new knowledge?",
+      "answer": "Research",
+      "choices": [
+        "Etymology",
+        "Basic Research",
+        "Applied Research",
+        "Research"
+      ],
+      "reference": "Defining Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is defined by the National Academy of Sciences as 'a systematic investigation designed to develop or contribute to generalizable knowledge?'",
+      "answer": "Research",
+      "choices": [
+        "Scrutiny Process",
+        "Basic Research",
+        "Applied Research",
+        "Research"
+      ],
+      "reference": "Defining Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What means the origin of a word and the historical development of its meaning?",
+      "answer": "Etymology",
+      "choices": [
+        "Research",
+        "Scrutiny Process",
+        "Basic Research",
+        "Etymology"
+      ],
+      "reference": "Types and Processes of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What systematic process does research employ that differs it from other forms of discovering knowledge?",
+      "answer": "Scrutiny Process",
+      "choices": [
+        "Research",
+        "Etymology",
+        "Applied Research",
+        "Scrutiny Process"
+      ],
+      "reference": "Types and Processes of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What type of research is a purely direct application but increases the nature of understanding about the problem?",
+      "answer": "Basic Research",
+      "choices": [
+        "Applied Research",
+        "Research",
+        "Etymology",
+        "Basic Research"
+      ],
+      "reference": "Types and Processes of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What develops the scientific theories to be more understandable to the readers?",
+      "answer": "Basic Research",
+      "choices": [
+        "Applied Research",
+        "Scrutiny Process",
+        "Research",
+        "Basic Research"
+      ],
+      "reference": "Types and Processes of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is a type of research that needs an answer to a specific question?",
+      "answer": "Applied Research",
+      "choices": [
+        "Basic Research",
+        "Research",
+        "Etymology",
+        "Applied Research"
+      ],
+      "reference": "Types and Processes of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What provides solutions and validation to apply to the real setting?",
+      "answer": "Applied Research",
+      "choices": [
+        "Basic Research",
+        "Scrutiny Process",
+        "Research",
+        "Applied Research"
+      ],
+      "reference": "Types and Processes of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What type of research aims to create a new theory based on the gathered data?",
+      "answer": "Qualitative",
+      "choices": [
+        "Quantitative",
+        "Data Description",
+        "Sample size",
+        "Qualitative"
+      ],
+      "reference": "Objectives & Description",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What type of research aims to test a hypothesis or theory?",
+      "answer": "Quantitative",
+      "choices": [
+        "Qualitative",
+        "Data Description",
+        "Sample size",
+        "Quantitative"
+      ],
+      "reference": "Objectives & Description",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What data description is in a natural setting, making stories out of a certain phenomenon?",
+      "answer": "Qualitative",
+      "choices": [
+        "Quantitative",
+        "Measurement setting",
+        "Sample size",
+        "Qualitative"
+      ],
+      "reference": "Objectives & Description",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What data description is a measurement setting, that performs measures out of a certain phenomenon?",
+      "answer": "Quantitative",
+      "choices": [
+        "Qualitative",
+        "Natural setting",
+        "Sample size",
+        "Quantitative"
+      ],
+      "reference": "Objectives & Description",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What type of research uses pictures, words, sentences, paragraphs, compositions, narrations and short stories for its data?",
+      "answer": "Qualitative",
+      "choices": [
+        "Quantitative",
+        "Statistical tools",
+        "Computations",
+        "Qualitative"
+      ],
+      "reference": "Objectives & Description",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What type of research uses numbers, scales, hypotheses, calculations, computations, and statistics tools?",
+      "answer": "Quantitative",
+      "choices": [
+        "Qualitative",
+        "Narrations",
+        "Short stories",
+        "Quantitative"
+      ],
+      "reference": "Objectives & Description",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What type of research uses a small sample size, typically 5-10 respondents, based on judgment?",
+      "answer": "Qualitative",
+      "choices": [
+        "Quantitative",
+        "Large sample",
+        "Population",
+        "Qualitative"
+      ],
+      "reference": "Sample Size & Activities",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What type of research uses a large sample size, typically 150-200+ respondents, representative of the population?",
+      "answer": "Quantitative",
+      "choices": [
+        "Qualitative",
+        "Small sample",
+        "Judgment",
+        "Quantitative"
+      ],
+      "reference": "Sample Size & Activities",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What type of research activity is inductive, starting with observations and forming a new theory at the end?",
+      "answer": "Qualitative",
+      "choices": [
+        "Quantitative",
+        "Deductive",
+        "Hypothesis",
+        "Qualitative"
+      ],
+      "reference": "Sample Size & Activities",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What type of research activity is deductive, starting from a hypothesis or already created theory?",
+      "answer": "Quantitative",
+      "choices": [
+        "Qualitative",
+        "Inductive",
+        "Observations",
+        "Quantitative"
+      ],
+      "reference": "Sample Size & Activities",
+      "term": "First Quarter"
+    },
+    {
+      "question": "In what type of research are opinions based on experience or observation with no criteria used in data discussions?",
+      "answer": "Qualitative",
+      "choices": [
+        "Quantitative",
+        "Laws",
+        "Rules",
+        "Qualitative"
+      ],
+      "reference": "Data Discussion, Analysis & Outcome",
+      "term": "First Quarter"
+    },
+    {
+      "question": "In what type of research are opinions based on laws, rules, or other recognized principles?",
+      "answer": "Quantitative",
+      "choices": [
+        "Qualitative",
+        "Experience",
+        "Observation",
+        "Quantitative"
+      ],
+      "reference": "Data Discussion, Analysis & Outcome",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What type of data analysis is subjective and influenced by personal experiences and views?",
+      "answer": "Qualitative",
+      "choices": [
+        "Quantitative",
+        "Statistical",
+        "Objective",
+        "Qualitative"
+      ],
+      "reference": "Data Discussion, Analysis & Outcome",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What type of data analysis is statistical and objective, employing standard criteria?",
+      "answer": "Quantitative",
+      "choices": [
+        "Qualitative",
+        "Subjective",
+        "Personal experiences",
+        "Quantitative"
+      ],
+      "reference": "Data Discussion, Analysis & Outcome",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What research outcome cultivates understanding with high validity and formulates no conclusions?",
+      "answer": "Qualitative",
+      "choices": [
+        "Quantitative",
+        "High output replicability",
+        "Development endorsement",
+        "Qualitative"
+      ],
+      "reference": "Data Discussion, Analysis & Outcome",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What research outcome endorses a development, has high output replicability, and formulates a conclusion?",
+      "answer": "Quantitative",
+      "choices": [
+        "Qualitative",
+        "High validity",
+        "No conclusions",
+        "Quantitative"
+      ],
+      "reference": "Data Discussion, Analysis & Outcome",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What characteristic of research is based on observations and experiments of theories?",
+      "answer": "EMPIRICAL",
+      "choices": [
+        "SYSTEMATIC",
+        "CONTROLLED",
+        "ANALYTICAL",
+        "EMPIRICAL"
+      ],
+      "reference": "Characteristics of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What characteristic of research follows orderly and sequential procedures, based on valid procedures and principles?",
+      "answer": "SYSTEMATIC",
+      "choices": [
+        "EMPIRICAL",
+        "CONTROLLED",
+        "ANALYTICAL",
+        "SYSTEMATIC"
+      ],
+      "reference": "Characteristics of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What characteristic of research keeps all variables, except those that are tested/experimented on, constant?",
+      "answer": "CONTROLLED",
+      "choices": [
+        "EMPIRICAL",
+        "SYSTEMATIC",
+        "ANALYTICAL",
+        "CONTROLLED"
+      ],
+      "reference": "Characteristics of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What characteristic of research refers to a search for facts, answers to questions and solutions to problems?",
+      "answer": "EMPLOYS HYPOTHESIS",
+      "choices": [
+        "OBJECTIVE",
+        "ORIGINAL WORK",
+        "CYCLICAL",
+        "EMPLOYS HYPOTHESIS"
+      ],
+      "reference": "Characteristics of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What characteristic of research shows analytical procedures in gathering the data, whether historical, descriptive, and or case study?",
+      "answer": "ANALYTICAL",
+      "choices": [
+        "EMPIRICAL",
+        "SYSTEMATIC",
+        "CONTROLLED",
+        "ANALYTICAL"
+      ],
+      "reference": "Characteristics of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What characteristic of research is unbiased and logical?",
+      "answer": "OBJECTIVE",
+      "choices": [
+        "EMPLOYS HYPOTHESIS",
+        "ORIGINAL WORK",
+        "CYCLICAL",
+        "OBJECTIVE"
+      ],
+      "reference": "Characteristics of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What characteristic of research ensures all findings are logically based on real-life situations?",
+      "answer": "OBJECTIVE",
+      "choices": [
+        "EMPLOYS HYPOTHESIS",
+        "ORIGINAL WORK",
+        "CYCLICAL",
+        "OBJECTIVE"
+      ],
+      "reference": "Characteristics of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What characteristic of research requires its own examination and produces the data needed to complete the study?",
+      "answer": "ORIGINAL WORK",
+      "choices": [
+        "EMPLOYS HYPOTHESIS",
+        "OBJECTIVE",
+        "CYCLICAL",
+        "ORIGINAL WORK"
+      ],
+      "reference": "Characteristics of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What characteristic of research starts with a problem and ends with a problem?",
+      "answer": "CYCLICAL",
+      "choices": [
+        "EMPLOYS HYPOTHESIS",
+        "OBJECTIVE",
+        "ORIGINAL WORK",
+        "CYCLICAL"
+      ],
+      "reference": "Characteristics of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What ethical code for research means to maintain all communication and not fake data?",
+      "answer": "Honesty",
+      "choices": [
+        "Objectivity",
+        "Integrity",
+        "Carefulness",
+        "Honesty"
+      ],
+      "reference": "Ethical Codes and Policies for Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What ethical code for research means to avoid biases in experimental designs, data analysis, interpretation, and expert testimony?",
+      "answer": "Objectivity",
+      "choices": [
+        "Honesty",
+        "Integrity",
+        "Carefulness",
+        "Objectivity"
+      ],
+      "reference": "Ethical Codes and Policies for Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What ethical code for research means to keep your promises and agreements?",
+      "answer": "Integrity",
+      "choices": [
+        "Honesty",
+        "Objectivity",
+        "Carefulness",
+        "Integrity"
+      ],
+      "reference": "Ethical Codes and Policies for Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What ethical code for research means to avoid careless errors and negligence?",
+      "answer": "Carefulness",
+      "choices": [
+        "Honesty",
+        "Objectivity",
+        "Integrity",
+        "Carefulness"
+      ],
+      "reference": "Ethical Codes and Policies for Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What ethical code for research means to share data, results, ideas and tools and be open to criticism and new ideas?",
+      "answer": "Openness",
+      "choices": [
+        "Confidentiality",
+        "Responsible Publication",
+        "Responsible Mentoring",
+        "Openness"
+      ],
+      "reference": "Ethical Codes and Policies for Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What ethical code for research means to protect confidential communication?",
+      "answer": "Confidentiality",
+      "choices": [
+        "Openness",
+        "Responsible Publication",
+        "Responsible Mentoring",
+        "Confidentiality"
+      ],
+      "reference": "Ethical Codes and Policies for Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What ethical code for research means that research should have been conducted in an ethical and responsible manner?",
+      "answer": "Responsible Publication",
+      "choices": [
+        "Openness",
+        "Confidentiality",
+        "Responsible Mentoring",
+        "Responsible Publication"
+      ],
+      "reference": "Ethical Codes and Policies for Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What ethical code for research means to help educate, mentor, and advise others?",
+      "answer": "Responsible Mentoring",
+      "choices": [
+        "Openness",
+        "Confidentiality",
+        "Responsible Publication",
+        "Responsible Mentoring"
+      ],
+      "reference": "Ethical Codes and Policies for Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What ethical code for research means to treat all peers fairly?",
+      "answer": "Respect Colleagues",
+      "choices": [
+        "Social Responsibility",
+        "Non-Discrimination",
+        "Legality",
+        "Respect Colleagues"
+      ],
+      "reference": "Ethical Codes and Policies for Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What ethical code for research means to strive to promote social good and avoid social harm?",
+      "answer": "Social Responsibility",
+      "choices": [
+        "Respect Colleagues",
+        "Non-Discrimination",
+        "Legality",
+        "Social Responsibility"
+      ],
+      "reference": "Ethical Codes and Policies for Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What ethical code for research means to avoid discrimination against colleagues or students on the basis of sex, races, ethnicity, and or others?",
+      "answer": "Non-Discrimination",
+      "choices": [
+        "Respect Colleagues",
+        "Social Responsibility",
+        "Legality",
+        "Non-Discrimination"
+      ],
+      "reference": "Ethical Codes and Policies for Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What ethical code for research means to be informed and obey relevant laws and institutional and governmental policies?",
+      "answer": "Legality",
+      "choices": [
+        "Respect Colleagues",
+        "Social Responsibility",
+        "Non-Discrimination",
+        "Legality"
+      ],
+      "reference": "Ethical Codes and Policies for Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What ethical code for research means to give proper acknowledgment or credits to all researchers?",
+      "answer": "Respect of Intellectual Property",
+      "choices": [
+        "Human Subject",
+        "Legality",
+        "Non-Discrimination",
+        "Respect of Intellectual Property"
+      ],
+      "reference": "Ethical Codes and Policies for Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What ethical code for research means to minimize risks that involve human lives, dignity, and privacy?",
+      "answer": "Human Subject",
+      "choices": [
+        "Respect of Intellectual Property",
+        "Legality",
+        "Non-Discrimination",
+        "Human Subject"
+      ],
+      "reference": "Ethical Codes and Policies for Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What kind of research describes the phenomena being studied?",
+      "answer": "Descriptive Research",
+      "choices": [
+        "Correlational Research",
+        "Experimental Research",
+        "Historical Research",
+        "Descriptive Research"
+      ],
+      "reference": "Kinds of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What kind of research considers one variable at a time and is typically the entry-level type of research in a new area of inquiry?",
+      "answer": "Descriptive Research",
+      "choices": [
+        "Correlational Research",
+        "Experimental Research",
+        "Historical Research",
+        "Descriptive Research"
+      ],
+      "reference": "Kinds of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What kind of research typically describes what appears to be happening and what the important variables seem to be?",
+      "answer": "Descriptive Research",
+      "choices": [
+        "Correlational Research",
+        "Experimental Research",
+        "Historical Research",
+        "Descriptive Research"
+      ],
+      "reference": "Kinds of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What kind of research analyzes the relationship between two or more variables?",
+      "answer": "Correlational Research",
+      "choices": [
+        "Descriptive Research",
+        "Experimental Research",
+        "Historical Research",
+        "Correlational Research"
+      ],
+      "reference": "Kinds of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "In what kind of research are you testing something?",
+      "answer": "Experimental Research",
+      "choices": [
+        "Descriptive Research",
+        "Correlational Research",
+        "Historical Research",
+        "Experimental Research"
+      ],
+      "reference": "Kinds of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What kind of research deals with cause and effect?",
+      "answer": "Experimental Research",
+      "choices": [
+        "Descriptive Research",
+        "Correlational Research",
+        "Historical Research",
+        "Experimental Research"
+      ],
+      "reference": "Kinds of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What kind of research is employed by researchers who are interested in reporting events and/or conditions that occurred in the past?",
+      "answer": "Historical Research",
+      "choices": [
+        "Descriptive Research",
+        "Correlational Research",
+        "Experimental Research",
+        "Historical Research"
+      ],
+      "reference": "Kinds of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What kind of research is for the purpose of establishing facts in order to arrive at conclusions concerning part events or predict future events?",
+      "answer": "Historical Research",
+      "choices": [
+        "Descriptive Research",
+        "Correlational Research",
+        "Experimental Research",
+        "Historical Research"
+      ],
+      "reference": "Kinds of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is any organized effort to gather information about target markets or customers?",
+      "answer": "Market Research",
+      "choices": [
+        "Feasibility Study",
+        "Historical Research",
+        "Experimental Research",
+        "Market Research"
+      ],
+      "reference": "Kinds of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What provides important information to identify and analyze customer satisfaction, market needs, market size, and competition?",
+      "answer": "Market Research",
+      "choices": [
+        "Feasibility Study",
+        "Historical Research",
+        "Experimental Research",
+        "Market Research"
+      ],
+      "reference": "Kinds of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What allows the researchers to investigate the possible negative and positive outcomes of a project before investing too much time and money?",
+      "answer": "Feasibility Study",
+      "choices": [
+        "Market Research",
+        "Historical Research",
+        "Experimental Research",
+        "Feasibility Study"
+      ],
+      "reference": "Kinds of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is similar to making a house, car, or cake which needs appropriate materials and a necessary process?",
+      "answer": "Designing research",
+      "choices": [
+        "Grounded Theory",
+        "Case Study",
+        "Ethnographic",
+        "Designing research"
+      ],
+      "reference": "Designing a Research Topic",
+      "term": "Module 3 Lesson 1"
+    },
+    {
+      "question": "What is an example of a research topic that can be formulated based on issues encountered inside the classroom?",
+      "answer": "“Parental involvement in student achievement”",
+      "choices": [
+        "“Parental involvement in student achievement”",
+        "“Home environment on student learning”",
+        "“Community outreach programs on youth behavior”",
+        "“Parental discipline styles on child Behavior”"
+      ],
+      "reference": "Designing a Research Topic",
+      "term": "Module 3 Lesson 1"
+    },
+    {
+      "question": "What is an example of a research topic about learners' attitudes and hindrances?",
+      "answer": "“Stress and time management among students”",
+      "choices": [
+        "“School cleanliness and student health”",
+        "“Stress and time management among students”",
+        "“Youth participation in community development”",
+        "“Home environment on student learning”"
+      ],
+      "reference": "Designing a Research Topic",
+      "term": "Module 3 Lesson 1"
+    },
+    {
+      "question": "What is an example of a research topic based on observations of problems inside the classroom?",
+      "answer": "“School cleanliness and student health”",
+      "choices": [
+        "“Parental discipline styles on child Behavior”",
+        "“Community outreach programs on youth behavior”",
+        "“School cleanliness and student health”",
+        "“Stress and time management among students”"
+      ],
+      "reference": "Designing a Research Topic",
+      "term": "Module 3 Lesson 1"
+    },
+    {
+      "question": "What is an example of a research topic that might bother you on a daily basis at home?",
+      "answer": "“Home environment on student learning”",
+      "choices": [
+        "“Home environment on student learning”",
+        "“Parental involvement in student achievement”",
+        "“School cleanliness and student health”",
+        "“Community outreach programs on youth behavior”"
+      ],
+      "reference": "Designing a Research Topic",
+      "term": "Module 3 Lesson 1"
+    },
+    {
+      "question": "What is an example of a research topic that considers things that bother you at home?",
+      "answer": "“Parental discipline styles on child Behavior”",
+      "choices": [
+        "“Stress and time management among students”",
+        "“Parental discipline styles on child Behavior”",
+        "“Youth participation in community development”",
+        "“Parental involvement in student achievement”"
+      ],
+      "reference": "Designing a Research Topic",
+      "term": "Module 3 Lesson 1"
+    },
+    {
+      "question": "What is an example of a research topic that can come from the usual complaints of a neighbor regarding practices in the barangay?",
+      "answer": "“Community outreach programs on youth behavior”",
+      "choices": [
+        "“Community outreach programs on youth behavior”",
+        "“Home environment on student learning”",
+        "“Parental involvement in student achievement”",
+        "“School cleanliness and student health”"
+      ],
+      "reference": "Designing a Research Topic",
+      "term": "Module 3 Lesson 1"
+    },
+    {
+      "question": "What is an example of a research topic based on situations in the community that need to be improved?",
+      "answer": "“Youth participation in community development”",
+      "choices": [
+        "“Parental discipline styles on child Behavior”",
+        "“Stress and time management among students”",
+        "“Youth participation in community development”",
+        "“Home environment on student learning”"
+      ],
+      "reference": "Designing a Research Topic",
+      "term": "Module 3 Lesson 1"
+    },
+    {
+      "question": "What research design is appropriate for the topic “Parental involvement in student achievement”?",
+      "answer": "Case Study",
+      "choices": [
+        "Phenomenological",
+        "Grounded Theory",
+        "Historical",
+        "Case Study"
+      ],
+      "reference": "Designing a Research Topic",
+      "term": "Module 3 Lesson 1"
+    },
+    {
+      "question": "What research design can be used for the topic “Stress and time management among students”?",
+      "answer": "Phenomenological",
+      "choices": [
+        "Ethnographic",
+        "Phenomenological",
+        "Historical",
+        "Grounded Theory"
+      ],
+      "reference": "Designing a Research Topic",
+      "term": "Module 3 Lesson 1"
+    },
+    {
+      "question": "What is another research design that can be used for the topic “Stress and time management among students”?",
+      "answer": "Case Study",
+      "choices": [
+        "Case Study",
+        "Grounded Theory",
+        "Ethnographic",
+        "Historical"
+      ],
+      "reference": "Designing a Research Topic",
+      "term": "Module 3 Lesson 1"
+    },
+    {
+      "question": "What research design can be used for the topic “Youth participation in community development”?",
+      "answer": "Phenomenological",
+      "choices": [
+        "Phenomenological",
+        "Case Study",
+        "Ethnographic",
+        "Grounded Theory"
+      ],
+      "reference": "Designing a Research Topic",
+      "term": "Module 3 Lesson 1"
+    },
+    {
+      "question": "What guideline for choosing a topic suggests you should be interested in it because you have experienced it?",
+      "answer": "Interest in the subject matter",
+      "choices": [
+        "Availability of information",
+        "Timeliness and relevance of the topic",
+        "Personal resources",
+        "Interest in the subject matter"
+      ],
+      "reference": "Writing a Research Title",
+      "term": "Module 3 Lesson 2"
+    },
+    {
+      "question": "What guideline is important so that when you decide on a topic, sources of information are accessible?",
+      "answer": "Availability of information",
+      "choices": [
+        "Availability of information",
+        "Limitations on the subject",
+        "Personal resources",
+        "Interest in the subject matter"
+      ],
+      "reference": "Writing a Research Title",
+      "term": "Module 3 Lesson 2"
+    },
+    {
+      "question": "What must be considered to ensure a research topic is current and significant?",
+      "answer": "Timeliness and relevance of the topic",
+      "choices": [
+        "Timeliness and relevance of the topic",
+        "Personal resources",
+        "Limitations on the subject",
+        "Interest in the subject matter"
+      ],
+      "reference": "Writing a Research Title",
+      "term": "Module 3 Lesson 2"
+    },
+    {
+      "question": "What guideline considers if a topic is limited to what the teacher suggests?",
+      "answer": "Limitations on the subject",
+      "choices": [
+        "Availability of information",
+        "Timeliness and relevance of the topic",
+        "Limitations on the subject",
+        "Personal resources"
+      ],
+      "reference": "Writing a Research Title",
+      "term": "Module 3 Lesson 2"
+    },
+    {
+      "question": "What guideline requires you to consider if you can finish the research in terms of your intellectual and financial capabilities?",
+      "answer": "Personal resources",
+      "choices": [
+        "Interest in the subject matter",
+        "Personal resources",
+        "Limitations on the subject",
+        "Availability of information"
+      ],
+      "reference": "Writing a Research Title",
+      "term": "Module 3 Lesson 2"
+    },
+    {
+      "question": "What type of topic should be avoided because it is highly opinionated?",
+      "answer": "Controversial topics",
+      "choices": [
+        "Controversial topics",
+        "Highly technical subjects",
+        "Hard to investigate subjects",
+        "Too broad subjects"
+      ],
+      "reference": "Writing a Research Title",
+      "term": "Module 3 Lesson 2"
+    },
+    {
+      "question": "What kind of topic should be avoided as it sparks disagreement or debate?",
+      "answer": "Controversial topics",
+      "choices": [
+        "Highly technical subjects",
+        "Controversial topics",
+        "Too broad subjects",
+        "Hard to investigate subjects"
+      ],
+      "reference": "Writing a Research Title",
+      "term": "Module 3 Lesson 2"
+    },
+    {
+      "question": "What type of topic requires expertise and should be avoided if you don't have enough knowledge about it?",
+      "answer": "Highly technical subjects",
+      "choices": [
+        "Too broad subjects",
+        "Hard to investigate subjects",
+        "Highly technical subjects",
+        "Controversial topics"
+      ],
+      "reference": "Writing a Research Title",
+      "term": "Module 3 Lesson 2"
+    },
+    {
+      "question": "What subjects are made difficult by the unavailability of updated reading materials?",
+      "answer": "Hard to investigate subjects",
+      "choices": [
+        "Highly technical subjects",
+        "Too broad subjects",
+        "Controversial topics",
+        "Hard to investigate subjects"
+      ],
+      "reference": "Writing a Research Title",
+      "term": "Module 3 Lesson 2"
+    },
+    {
+      "question": "What is the result if you deal with topics that lack focus?",
+      "answer": "Too broad subjects",
+      "choices": [
+        "Too broad subjects",
+        "Hard to investigate subjects",
+        "Highly technical subjects",
+        "Controversial topics"
+      ],
+      "reference": "Writing a Research Title",
+      "term": "Module 3 Lesson 2"
+    },
+    {
+      "question": "What is the remedy if you lack focus because you deal with broad topics?",
+      "answer": "narrow it down",
+      "choices": [
+        "make it controversial",
+        "add personal resources",
+        "make it technical",
+        "narrow it down"
+      ],
+      "reference": "Writing a Research Title",
+      "term": "Module 3 Lesson 2"
+    },
+    {
+      "question": "What is considered the most important element of your research as it clearly expresses the problem to be explored?",
+      "answer": "Research title",
+      "choices": [
+        "Research title",
+        "Subject matter",
+        "Respondents",
+        "Time period"
+      ],
+      "reference": "Writing a Research Title",
+      "term": "Module 3 Lesson 2"
+    },
+    {
+      "question": "In formulating a research title, what contains the subject matter or topic to be investigated?",
+      "answer": "What",
+      "choices": [
+        "Where",
+        "Who",
+        "When",
+        "What"
+      ],
+      "reference": "Writing a Research Title",
+      "term": "Module 3 Lesson 2"
+    },
+    {
+      "question": "In formulating a research title, what contains the place or locale where the research is to be conducted?",
+      "answer": "Where",
+      "choices": [
+        "Where",
+        "What",
+        "Who",
+        "When"
+      ],
+      "reference": "Writing a Research Title",
+      "term": "Module 3 Lesson 2"
+    },
+    {
+      "question": "In formulating a research title, what contains the participants or respondents of the study?",
+      "answer": "Who",
+      "choices": [
+        "What",
+        "Where",
+        "Who",
+        "When"
+      ],
+      "reference": "Writing a Research Title",
+      "term": "Module 3 Lesson 2"
+    },
+    {
+      "question": "In formulating a research title, what contains the time period of the conduct of the study?",
+      "answer": "When",
+      "choices": [
+        "Where",
+        "What",
+        "Who",
+        "When"
+      ],
+      "reference": "Writing a Research Title",
+      "term": "Module 3 Lesson 2"
+    },
+    {
+      "question": "What is a question that a research project sets out to answer?",
+      "answer": "Writing Research Questions",
+      "choices": [
+        "Writing Scope and Delimitation",
+        "Writing Significance of the Study",
+        "Writing Research Questions",
+        "Writing a Research Title"
+      ],
+      "reference": "Designing Research Questions and Scope",
+      "term": "Module 3 Lesson 3"
+    },
+    {
+      "question": "What is the initial step in a research project?",
+      "answer": "Writing Research Questions",
+      "choices": [
+        "Writing a Research Title",
+        "Writing Scope and Delimitation",
+        "Writing Significance of the Study",
+        "Writing Research Questions"
+      ],
+      "reference": "Designing Research Questions and Scope",
+      "term": "Module 3 Lesson 3"
+    },
+    {
+      "question": "What characteristic of a research question provides enough specifics that one's audience can easily understand its purpose without needing additional explanation?",
+      "answer": "Clear",
+      "choices": [
+        "Focused",
+        "Clear",
+        "Concise",
+        "Complex"
+      ],
+      "reference": "Designing Research Questions and Scope",
+      "term": "Module 3 Lesson 3"
+    },
+    {
+      "question": "What characteristic of a research question means it is narrow enough that it can be answered thoroughly?",
+      "answer": "Focused",
+      "choices": [
+        "Arguable",
+        "Complex",
+        "Focused",
+        "Clear"
+      ],
+      "reference": "Designing Research Questions and Scope",
+      "term": "Module 3 Lesson 3"
+    },
+    {
+      "question": "What characteristic of a research question means it is expressed in the fewest possible words?",
+      "answer": "Concise",
+      "choices": [
+        "Concise",
+        "Complex",
+        "Arguable",
+        "Focused"
+      ],
+      "reference": "Designing Research Questions and Scope",
+      "term": "Module 3 Lesson 3"
+    },
+    {
+      "question": "What characteristic of a research question is not answerable with a simple 'yes' or 'no', but requires synthesis and analysis of ideas?",
+      "answer": "Complex",
+      "choices": [
+        "Clear",
+        "Complex",
+        "Concise",
+        "Arguable"
+      ],
+      "reference": "Designing Research Questions and Scope",
+      "term": "Module 3 Lesson 3"
+    },
+    {
+      "question": "What characteristic of a research question has potential answers that are open to debate rather than accepted facts?",
+      "answer": "Arguable",
+      "choices": [
+        "Focused",
+        "Clear",
+        "Arguable",
+        "Complex"
+      ],
+      "reference": "Designing Research Questions and Scope",
+      "term": "Module 3 Lesson 3"
+    },
+    {
+      "question": "What type of research problem is the opening statement of your Statement of the Problem (S.O.P.)?",
+      "answer": "General Problem",
+      "choices": [
+        "Specific Problem",
+        "Scope",
+        "Delimitation",
+        "General Problem"
+      ],
+      "reference": "Designing Research Questions and Scope",
+      "term": "Module 3 Lesson 3"
+    },
+    {
+      "question": "What type of research problem reflects the title of your research study?",
+      "answer": "General Problem",
+      "choices": [
+        "General Problem",
+        "Significance of the Study",
+        "Specific Problem",
+        "Scope"
+      ],
+      "reference": "Designing Research Questions and Scope",
+      "term": "Module 3 Lesson 3"
+    },
+    {
+      "question": "What type of research problem are the questions that you want to be answered in your study?",
+      "answer": "Specific Problem",
+      "choices": [
+        "General Problem",
+        "Delimitation",
+        "Specific Problem",
+        "Scope"
+      ],
+      "reference": "Designing Research Questions and Scope",
+      "term": "Module 3 Lesson 3"
+    },
+    {
+      "question": "What is the description of the scope of the study?",
+      "answer": "Delimitation of study",
+      "choices": [
+        "Significance of the Study",
+        "Delimitation of study",
+        "General Problem",
+        "Scope"
+      ],
+      "reference": "Designing Research Questions and Scope",
+      "term": "Module 3 Lesson 3"
+    },
+    {
+      "question": "What will explain why definite aspects of a subject were chosen and why others were excluded?",
+      "answer": "Delimitation of study",
+      "choices": [
+        "Specific Problem",
+        "Scope",
+        "Delimitation of study",
+        "General Problem"
+      ],
+      "reference": "Designing Research Questions and Scope",
+      "term": "Module 3 Lesson 3"
+    },
+    {
+      "question": "What are the parameters of your study?",
+      "answer": "Scope",
+      "choices": [
+        "Delimitation",
+        "Scope",
+        "Significance of the Study",
+        "General Problem"
+      ],
+      "reference": "Designing Research Questions and Scope",
+      "term": "Module 3 Lesson 3"
+    },
+    {
+      "question": "What are the factors not included in your research study?",
+      "answer": "Delimitation",
+      "choices": [
+        "Scope",
+        "Specific Problem",
+        "General Problem",
+        "Delimitation"
+      ],
+      "reference": "Designing Research Questions and Scope",
+      "term": "Module 3 Lesson 3"
+    },
+    {
+      "question": "What part of a research paper identifies the beneficiaries and the benefits that it will give when the problem is solved?",
+      "answer": "Significance of the Study",
+      "choices": [
+        "Scope",
+        "Delimitation",
+        "Significance of the Study",
+        "General Problem"
+      ],
+      "reference": "Designing Research Questions and Scope",
+      "term": "Module 3 Lesson 3"
+    }
+  ]
+}
