@@ -1,0 +1,148 @@
+{
+  "quizInfo": {
+    "Subject": "Entrepreneur",
+    "Term": "First Quarter",
+    "Title": "Week-4",
+    "LastModified": "14 August 2025",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "Week-4"
+    ]
+  },
+"quizData": [
+    {
+      "question": "What is the process of gathering, analyzing and interpreting the information about the products or the services to be offered for sale to the potential consumers in the market?",
+      "answer": "Market Research",
+      "choices": [
+        "Data Collection",
+        "Survey",
+        "Interview",
+        "Market Research"
+      ],
+      "reference": "Market Research and Data Collection",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is the most valuable tool in any type of research study?",
+      "answer": "Data Collection",
+      "choices": [
+        "Market Research",
+        "Survey",
+        "Interview",
+        "Data Collection"
+      ],
+      "reference": "Market Research and Data Collection",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What are the most common way to gather primary research with the use of questionnaires or interview schedule?",
+      "answer": "Surveys",
+      "choices": [
+        "Interview",
+        "Focus Group Discussion",
+        "Data Collection",
+        "Surveys"
+      ],
+      "reference": "Data Gathering Techniques",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is one of the most reliable and credible ways of getting relevant information from target customers?",
+      "answer": "Interview",
+      "choices": [
+        "Surveys",
+        "Focus Group Discussion",
+        "Data Collection",
+        "Interview"
+      ],
+      "reference": "Data Gathering Techniques",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is typically done in person between the researcher/entrepreneur and a respondent where the researcher asks pertinent questions?",
+      "answer": "Interview",
+      "choices": [
+        "Surveys",
+        "Focus Group Discussion",
+        "Data Collection",
+        "Interview"
+      ],
+      "reference": "Data Gathering Techniques",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What are the traditional method of conducting an interview?",
+      "answer": "Personal interviews",
+      "choices": [
+        "Telephone interviews",
+        "Focus Group Discussion",
+        "Surveys",
+        "Personal interviews"
+      ],
+      "reference": "Data Gathering Techniques",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What allows the researcher to establish relationship with potential participants and therefore gain their cooperation?",
+      "answer": "Personal interviews",
+      "choices": [
+        "Telephone interviews",
+        "Focus Group Discussion",
+        "Surveys",
+        "Personal interviews"
+      ],
+      "reference": "Data Gathering Techniques",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What generates the highest response rates in survey research?",
+      "answer": "Personal interviews",
+      "choices": [
+        "Telephone interviews",
+        "Focus Group Discussion",
+        "Surveys",
+        "Personal interviews"
+      ],
+      "reference": "Data Gathering Techniques",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What are less expensive and less time-consuming interviews?",
+      "answer": "Telephone interviews",
+      "choices": [
+        "Personal interviews",
+        "Focus Group Discussion",
+        "Surveys",
+        "Telephone interviews"
+      ],
+      "reference": "Data Gathering Techniques",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is an excellent method for generating and screening ideas and concepts?",
+      "answer": "Focus Group Discussion",
+      "choices": [
+        "Interview",
+        "Surveys",
+        "Data Collection",
+        "Focus Group Discussion"
+      ],
+      "reference": "Data Gathering Techniques",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What can be moderated group interviews and brainstorming sessions that provide information on user's needs and behaviors?",
+      "answer": "Focus Group Discussion",
+      "choices": [
+        "Interview",
+        "Surveys",
+        "Data Collection",
+        "Focus Group Discussion"
+      ],
+      "reference": "Data Gathering Techniques",
+      "term": "First Quarter"
+    }
+  ]
+}
