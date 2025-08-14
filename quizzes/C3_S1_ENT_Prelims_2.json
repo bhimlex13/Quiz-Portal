@@ -1,0 +1,328 @@
+{
+  "quizInfo": {
+    "Subject": "Entrepreneur",
+    "Term": "First Quarter",
+    "Title": "Week-2",
+    "LastModified": "14 August 2025",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "Week-2"
+    ]
+  },
+ "quizData": [
+    {
+      "question": "What allows the entrepreneur to see things in a very positive and optimistic way in the midst of difficult situation?",
+      "answer": "Entrepreneurial mind frame",
+      "choices": [
+        "Entrepreneurial heart flame",
+        "Entrepreneurial gut game",
+        "Passion",
+        "Entrepreneurial mind frame"
+      ],
+      "reference": "Essentials in Entrepreneur's Opportunity Seeking",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is the entrepreneur's driven passion, where they are attracted to discover satisfaction in the act and process of discovery?",
+      "answer": "Entrepreneurial heart flame",
+      "choices": [
+        "Entrepreneurial mind frame",
+        "Entrepreneurial gut game",
+        "Passion",
+        "Entrepreneurial heart flame"
+      ],
+      "reference": "Essentials in Entrepreneur's Opportunity Seeking",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is the great desire of an entrepreneur to achieve his/her goals?",
+      "answer": "Passion",
+      "choices": [
+        "Entrepreneurial mind frame",
+        "Entrepreneurial heart flame",
+        "Entrepreneurial gut game",
+        "Passion"
+      ],
+      "reference": "Essentials in Entrepreneur's Opportunity Seeking",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What refers to the ability of the entrepreneur of being intuitive?",
+      "answer": "Entrepreneurial gut game",
+      "choices": [
+        "Entrepreneurial mind frame",
+        "Entrepreneurial heart flame",
+        "Entrepreneurial Intuition",
+        "Entrepreneurial gut game"
+      ],
+      "reference": "Essentials in Entrepreneur's Opportunity Seeking",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is another term for the ability of the entrepreneur of being intuitive?",
+      "answer": "Intuition",
+      "choices": [
+        "Entrepreneurial mind frame",
+        "Entrepreneurial heart flame",
+        "Entrepreneurial gut game",
+        "Intuition"
+      ],
+      "reference": "Essentials in Entrepreneur's Opportunity Seeking",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What includes the weather conditions?",
+      "answer": "Climate",
+      "choices": [
+        "Natural resources",
+        "Wildlife",
+        "Physical environment",
+        "Climate"
+      ],
+      "reference": "Sources of Opportunities",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What includes minerals, forests, water, and fertile land that occur in nature and can be used for economic gain?",
+      "answer": "Natural resources",
+      "choices": [
+        "Climate",
+        "Wildlife",
+        "Physical environment",
+        "Natural resources"
+      ],
+      "reference": "Sources of Opportunities",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What includes all mammals, birds, reptiles, fish, etc., that live in the wild?",
+      "answer": "Wildlife",
+      "choices": [
+        "Climate",
+        "Natural resources",
+        "Physical environment",
+        "Wildlife"
+      ],
+      "reference": "Sources of Opportunities",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What includes all the laws, rules, and regulations that govern business practices as well as the permits, approvals, and licenses necessary to operate the business?",
+      "answer": "Political forces",
+      "choices": [
+        "Economic forces",
+        "Sociocultural forces",
+        "Technological environment",
+        "Political forces"
+      ],
+      "reference": "Sources of Opportunities",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What includes forces such as income level and employment rate?",
+      "answer": "Economic forces",
+      "choices": [
+        "Political forces",
+        "Sociocultural forces",
+        "Technological environment",
+        "Economic forces"
+      ],
+      "reference": "Sources of Opportunities",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What includes customs, lifestyles and values that characterize a society?",
+      "answer": "Sociocultural forces",
+      "choices": [
+        "Political forces",
+        "Economic forces",
+        "Technological environment",
+        "Sociocultural forces"
+      ],
+      "reference": "Sources of Opportunities",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What includes new inventions and technology innovations?",
+      "answer": "Technological environment",
+      "choices": [
+        "Political forces",
+        "Economic forces",
+        "Sociocultural forces",
+        "Technological environment"
+      ],
+      "reference": "Sources of Opportunities",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What arises when changes happen in the external environment?",
+      "answer": "Entrepreneurial ideas",
+      "choices": [
+        "Technological discovery",
+        "People's interest",
+        "Past experiences",
+        "Entrepreneurial ideas"
+      ],
+      "reference": "Sources of Opportunities",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What refers to the physical environment, societal environment, and industry environment where the business operates?",
+      "answer": "External environment",
+      "choices": [
+        "Internal environment",
+        "Competitive environment",
+        "Market environment",
+        "External environment"
+      ],
+      "reference": "Sources of Opportunities",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What sees the possibility of business opportunities in any new discovery or because of the use of latest technology?",
+      "answer": "A person with entrepreneurial interest",
+      "choices": [
+        "A government official",
+        "A regular consumer",
+        "A past employee",
+        "A person with entrepreneurial interest"
+      ],
+      "reference": "Sources of Opportunities",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What are also good sources of ideas from the government?",
+      "answer": "Priorities, projects, programs, and policies",
+      "choices": [
+        "Technological discoveries",
+        "People's interests",
+        "Past experiences",
+        "Priorities, projects, programs, and policies"
+      ],
+      "reference": "Sources of Opportunities",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What are a rich source of entrepreneurial ideas related to people?",
+      "answer": "The interest, hobbies, and preferences of people",
+      "choices": [
+        "Government policies",
+        "Technological advancements",
+        "Past experiences",
+        "The interest, hobbies, and preferences of people"
+      ],
+      "reference": "Sources of Opportunities",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What may lead to the opening of related business enterprise based on a person's history?",
+      "answer": "The expertise and skills developed by a person",
+      "choices": [
+        "Government programs",
+        "People's interests",
+        "Technological discoveries",
+        "The expertise and skills developed by a person"
+      ],
+      "reference": "Sources of Opportunities",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What source of opportunity comes from the expertise and skills developed by a person who has worked in a particular field?",
+      "answer": "Past experiences",
+      "choices": [
+        "Technological discovery and advancement",
+        "Government’s thrust, programs, and policies",
+        "People’s interest",
+        "Past experiences"
+      ],
+      "reference": "Sources of Opportunities",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is the act or process of trying to get or win something?",
+      "answer": "Competition",
+      "choices": [
+        "Rivalry",
+        "Substitute",
+        "Bargaining",
+        "Competition"
+      ],
+      "reference": "Forces of Competition Model",
+      "term": "First Quarter"
+    },
+    {
+      "question": "Who are the ones that pay cash in exchange to your goods and services?",
+      "answer": "Buyers",
+      "choices": [
+        "Suppliers",
+        "Competitors",
+        "New entrants",
+        "Buyers"
+      ],
+      "reference": "Forces of Competition Model",
+      "term": "First Quarter"
+    },
+    {
+      "question": "Who is defined as the one who enters something?",
+      "answer": "A new entrant",
+      "choices": [
+        "A buyer",
+        "A supplier",
+        "A competitor",
+        "A new entrant"
+      ],
+      "reference": "Forces of Competition Model",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is a state or situation in which people or groups are competing with each other?",
+      "answer": "Rivalry",
+      "choices": [
+        "Competition",
+        "Substitution",
+        "Supply",
+        "Rivalry"
+      ],
+      "reference": "Forces of Competition Model",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is anything that takes the place or function of another?",
+      "answer": "Substitute",
+      "choices": [
+        "Rivalry",
+        "Competition",
+        "Supply",
+        "Substitute"
+      ],
+      "reference": "Forces of Competition Model",
+      "term": "First Quarter"
+    },
+    {
+      "question": "Who are the ones that provide something that is needed or wanted?",
+      "answer": "Suppliers",
+      "choices": [
+        "Buyers",
+        "Competitors",
+        "New entrants",
+        "Suppliers"
+      ],
+      "reference": "Forces of Competition Model",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is another name for the Forces of Competition Model?",
+      "answer": "Five forces of competition",
+      "choices": [
+        "Sources of Opportunities",
+        "Entrepreneurial Process",
+        "Essentials in Seeking",
+        "Five forces of competition"
+      ],
+      "reference": "Forces of Competition Model",
+      "term": "First Quarter"
+    }
+  ]
+}

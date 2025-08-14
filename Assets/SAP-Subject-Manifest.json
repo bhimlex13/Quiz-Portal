@@ -8,7 +8,7 @@
             "Subject_Module": [
                 {
                     "Module_ID": "C3_S1_ENT_Prelims",
-                    "Module_Name": "Week 1",
+                    "Module_Name": "Week 1-5",
                     "Module_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_Prelims_1.png",
                     "Module_Status": "Active",
                     "Module_LastModified": "10 February 2025",
@@ -18,6 +18,17 @@
                             "Subfolder_Name": "Week 1",
                             "Subfolder_Description": "Description of the subfolder here",
                             "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_ENT_Prelims_1",
+                            "Subfolder_Author": [
+                                "Alexander Oro"
+                            ],
+                            "Subfolder_LastModified": "14 August 2025",
+                            "Subfolder_Status": "Active"
+                        },
+                                                {
+                            "Subfolder_ID": "C3_S1_ENT_Prelims_2",
+                            "Subfolder_Name": "Week 2",
+                            "Subfolder_Description": "Description of the subfolder here",
+                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_ENT_Prelims_2",
                             "Subfolder_Author": [
                                 "Alexander Oro"
                             ],
