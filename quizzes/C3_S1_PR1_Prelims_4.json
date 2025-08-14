@@ -1,0 +1,160 @@
+{
+  "quizInfo": {
+    "Subject": "Practical Research 1",
+    "Term": "First Quarter",
+    "Title": "Module 3 - Lesson 1",
+    "LastModified": "14 August 2025",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "Module 3 - Lesson 1.pdf"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "What is similar to making a house, car, or cake which needs appropriate materials and a necessary process?",
+      "answer": "Designing research",
+      "choices": [
+        "Grounded Theory",
+        "Case Study",
+        "Ethnographic",
+        "Designing research"
+      ],
+      "reference": "Designing a Research Topic",
+      "term": "Module 3 Lesson 1"
+    },
+    {
+      "question": "What is an example of a research topic that can be formulated based on issues encountered inside the classroom?",
+      "answer": "“Parental involvement in student achievement”",
+      "choices": [
+        "“Parental involvement in student achievement”",
+        "“Home environment on student learning”",
+        "“Community outreach programs on youth behavior”",
+        "“Parental discipline styles on child Behavior”"
+      ],
+      "reference": "Designing a Research Topic",
+      "term": "Module 3 Lesson 1"
+    },
+    {
+      "question": "What is an example of a research topic about learners' attitudes and hindrances?",
+      "answer": "“Stress and time management among students”",
+      "choices": [
+        "“School cleanliness and student health”",
+        "“Stress and time management among students”",
+        "“Youth participation in community development”",
+        "“Home environment on student learning”"
+      ],
+      "reference": "Designing a Research Topic",
+      "term": "Module 3 Lesson 1"
+    },
+    {
+      "question": "What is an example of a research topic based on observations of problems inside the classroom?",
+      "answer": "“School cleanliness and student health”",
+      "choices": [
+        "“Parental discipline styles on child Behavior”",
+        "“Community outreach programs on youth behavior”",
+        "“School cleanliness and student health”",
+        "“Stress and time management among students”"
+      ],
+      "reference": "Designing a Research Topic",
+      "term": "Module 3 Lesson 1"
+    },
+    {
+      "question": "What is an example of a research topic that might bother you on a daily basis at home?",
+      "answer": "“Home environment on student learning”",
+      "choices": [
+        "“Home environment on student learning”",
+        "“Parental involvement in student achievement”",
+        "“School cleanliness and student health”",
+        "“Community outreach programs on youth behavior”"
+      ],
+      "reference": "Designing a Research Topic",
+      "term": "Module 3 Lesson 1"
+    },
+    {
+      "question": "What is an example of a research topic that considers things that bother you at home?",
+      "answer": "“Parental discipline styles on child Behavior”",
+      "choices": [
+        "“Stress and time management among students”",
+        "“Parental discipline styles on child Behavior”",
+        "“Youth participation in community development”",
+        "“Parental involvement in student achievement”"
+      ],
+      "reference": "Designing a Research Topic",
+      "term": "Module 3 Lesson 1"
+    },
+    {
+      "question": "What is an example of a research topic that can come from the usual complaints of a neighbor regarding practices in the barangay?",
+      "answer": "“Community outreach programs on youth behavior”",
+      "choices": [
+        "“Community outreach programs on youth behavior”",
+        "“Home environment on student learning”",
+        "“Parental involvement in student achievement”",
+        "“School cleanliness and student health”"
+      ],
+      "reference": "Designing a Research Topic",
+      "term": "Module 3 Lesson 1"
+    },
+    {
+      "question": "What is an example of a research topic based on situations in the community that need to be improved?",
+      "answer": "“Youth participation in community development”",
+      "choices": [
+        "“Parental discipline styles on child Behavior”",
+        "“Stress and time management among students”",
+        "“Youth participation in community development”",
+        "“Home environment on student learning”"
+      ],
+      "reference": "Designing a Research Topic",
+      "term": "Module 3 Lesson 1"
+    },
+    {
+      "question": "What research design is appropriate for the topic “Parental involvement in student achievement”?",
+      "answer": "Case Study",
+      "choices": [
+        "Phenomenological",
+        "Grounded Theory",
+        "Historical",
+        "Case Study"
+      ],
+      "reference": "Designing a Research Topic",
+      "term": "Module 3 Lesson 1"
+    },
+    {
+      "question": "What research design can be used for the topic “Stress and time management among students”?",
+      "answer": "Phenomenological",
+      "choices": [
+        "Ethnographic",
+        "Phenomenological",
+        "Historical",
+        "Grounded Theory"
+      ],
+      "reference": "Designing a Research Topic",
+      "term": "Module 3 Lesson 1"
+    },
+    {
+      "question": "What is another research design that can be used for the topic “Stress and time management among students”?",
+      "answer": "Case Study",
+      "choices": [
+        "Case Study",
+        "Grounded Theory",
+        "Ethnographic",
+        "Historical"
+      ],
+      "reference": "Designing a Research Topic",
+      "term": "Module 3 Lesson 1"
+    },
+    {
+      "question": "What research design can be used for the topic “Youth participation in community development”?",
+      "answer": "Phenomenological",
+      "choices": [
+        "Phenomenological",
+        "Case Study",
+        "Ethnographic",
+        "Grounded Theory"
+      ],
+      "reference": "Designing a Research Topic",
+      "term": "Module 3 Lesson 1"
+    }
+  ]
+}

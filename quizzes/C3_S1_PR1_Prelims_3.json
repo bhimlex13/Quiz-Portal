@@ -1,0 +1,148 @@
+{
+  "quizInfo": {
+    "Subject": "Practical Research 1",
+    "Term": "First Quarter",
+    "Title": "Module 1 - Lesson 4",
+    "LastModified": "14 August 2025",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "Week-4"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "What kind of research describes the phenomena being studied?",
+      "answer": "Descriptive Research",
+      "choices": [
+        "Correlational Research",
+        "Experimental Research",
+        "Historical Research",
+        "Descriptive Research"
+      ],
+      "reference": "Kinds of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What kind of research considers one variable at a time and is typically the entry-level type of research in a new area of inquiry?",
+      "answer": "Descriptive Research",
+      "choices": [
+        "Correlational Research",
+        "Experimental Research",
+        "Historical Research",
+        "Descriptive Research"
+      ],
+      "reference": "Kinds of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What kind of research typically describes what appears to be happening and what the important variables seem to be?",
+      "answer": "Descriptive Research",
+      "choices": [
+        "Correlational Research",
+        "Experimental Research",
+        "Historical Research",
+        "Descriptive Research"
+      ],
+      "reference": "Kinds of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What kind of research analyzes the relationship between two or more variables?",
+      "answer": "Correlational Research",
+      "choices": [
+        "Descriptive Research",
+        "Experimental Research",
+        "Historical Research",
+        "Correlational Research"
+      ],
+      "reference": "Kinds of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "In what kind of research are you testing something?",
+      "answer": "Experimental Research",
+      "choices": [
+        "Descriptive Research",
+        "Correlational Research",
+        "Historical Research",
+        "Experimental Research"
+      ],
+      "reference": "Kinds of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What kind of research deals with cause and effect?",
+      "answer": "Experimental Research",
+      "choices": [
+        "Descriptive Research",
+        "Correlational Research",
+        "Historical Research",
+        "Experimental Research"
+      ],
+      "reference": "Kinds of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What kind of research is employed by researchers who are interested in reporting events and/or conditions that occurred in the past?",
+      "answer": "Historical Research",
+      "choices": [
+        "Descriptive Research",
+        "Correlational Research",
+        "Experimental Research",
+        "Historical Research"
+      ],
+      "reference": "Kinds of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What kind of research is for the purpose of establishing facts in order to arrive at conclusions concerning part events or predict future events?",
+      "answer": "Historical Research",
+      "choices": [
+        "Descriptive Research",
+        "Correlational Research",
+        "Experimental Research",
+        "Historical Research"
+      ],
+      "reference": "Kinds of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is any organized effort to gather information about target markets or customers?",
+      "answer": "Market Research",
+      "choices": [
+        "Feasibility Study",
+        "Historical Research",
+        "Experimental Research",
+        "Market Research"
+      ],
+      "reference": "Kinds of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What provides important information to identify and analyze customer satisfaction, market needs, market size, and competition?",
+      "answer": "Market Research",
+      "choices": [
+        "Feasibility Study",
+        "Historical Research",
+        "Experimental Research",
+        "Market Research"
+      ],
+      "reference": "Kinds of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What allows the researchers to investigate the possible negative and positive outcomes of a project before investing too much time and money?",
+      "answer": "Feasibility Study",
+      "choices": [
+        "Market Research",
+        "Historical Research",
+        "Experimental Research",
+        "Feasibility Study"
+      ],
+      "reference": "Kinds of Research",
+      "term": "First Quarter"
+    }
+  ]
+}
