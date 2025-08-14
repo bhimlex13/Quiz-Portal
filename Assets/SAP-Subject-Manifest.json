@@ -8,7 +8,7 @@
             "Subject_Module": [
                 {
                     "Module_ID": "C3_S1_ENT_Prelims",
-                    "Module_Name": "Week 1-5",
+                    "Module_Name": "First Quarter",
                     "Module_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_Prelims_1.png",
                     "Module_Status": "Active",
                     "Module_LastModified": "10 February 2025",
@@ -91,14 +91,14 @@
             "Subject_Module": [
                 {
                     "Module_ID": "C3_S1_PR1_Prelims",
-                    "Module_Name": "Prelims",
+                    "Module_Name": "First Quarter",
                     "Module_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_Prelims_1.png",
                     "Module_Status": "Active",
                     "Module_LastModified": "10 February 2025",
                     "Module_Subfolders": [
                         {
                             "Subfolder_ID": "C3_S1_PR1_Prelims_1",
-                            "Subfolder_Name": "01 Handout 1",
+                            "Subfolder_Name": "PR1-L1",
                             "Subfolder_Description": "Description of the subfolder here",
                             "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_PR1_Prelims_1",
                             "Subfolder_Author": [
