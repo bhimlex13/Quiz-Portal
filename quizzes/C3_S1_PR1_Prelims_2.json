@@ -1,0 +1,292 @@
+{
+  "quizInfo": {
+    "Subject": "Practical Research 1",
+    "Term": "First Quarter",
+    "Title": "PR2-L2",
+    "LastModified": "14 August 2025",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "Week-3"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "What characteristic of research is based on observations and experiments of theories?",
+      "answer": "EMPIRICAL",
+      "choices": [
+        "SYSTEMATIC",
+        "CONTROLLED",
+        "ANALYTICAL",
+        "EMPIRICAL"
+      ],
+      "reference": "Characteristics of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What characteristic of research follows orderly and sequential procedures, based on valid procedures and principles?",
+      "answer": "SYSTEMATIC",
+      "choices": [
+        "EMPIRICAL",
+        "CONTROLLED",
+        "ANALYTICAL",
+        "SYSTEMATIC"
+      ],
+      "reference": "Characteristics of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What characteristic of research keeps all variables, except those that are tested/experimented on, constant?",
+      "answer": "CONTROLLED",
+      "choices": [
+        "EMPIRICAL",
+        "SYSTEMATIC",
+        "ANALYTICAL",
+        "CONTROLLED"
+      ],
+      "reference": "Characteristics of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What characteristic of research refers to a search for facts, answers to questions and solutions to problems?",
+      "answer": "EMPLOYS HYPOTHESIS",
+      "choices": [
+        "OBJECTIVE",
+        "ORIGINAL WORK",
+        "CYCLICAL",
+        "EMPLOYS HYPOTHESIS"
+      ],
+      "reference": "Characteristics of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What characteristic of research shows analytical procedures in gathering the data, whether historical, descriptive, and or case study?",
+      "answer": "ANALYTICAL",
+      "choices": [
+        "EMPIRICAL",
+        "SYSTEMATIC",
+        "CONTROLLED",
+        "ANALYTICAL"
+      ],
+      "reference": "Characteristics of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What characteristic of research is unbiased and logical?",
+      "answer": "OBJECTIVE",
+      "choices": [
+        "EMPLOYS HYPOTHESIS",
+        "ORIGINAL WORK",
+        "CYCLICAL",
+        "OBJECTIVE"
+      ],
+      "reference": "Characteristics of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What characteristic of research ensures all findings are logically based on real-life situations?",
+      "answer": "OBJECTIVE",
+      "choices": [
+        "EMPLOYS HYPOTHESIS",
+        "ORIGINAL WORK",
+        "CYCLICAL",
+        "OBJECTIVE"
+      ],
+      "reference": "Characteristics of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What characteristic of research requires its own examination and produces the data needed to complete the study?",
+      "answer": "ORIGINAL WORK",
+      "choices": [
+        "EMPLOYS HYPOTHESIS",
+        "OBJECTIVE",
+        "CYCLICAL",
+        "ORIGINAL WORK"
+      ],
+      "reference": "Characteristics of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What characteristic of research starts with a problem and ends with a problem?",
+      "answer": "CYCLICAL",
+      "choices": [
+        "EMPLOYS HYPOTHESIS",
+        "OBJECTIVE",
+        "ORIGINAL WORK",
+        "CYCLICAL"
+      ],
+      "reference": "Characteristics of Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What ethical code for research means to maintain all communication and not fake data?",
+      "answer": "Honesty",
+      "choices": [
+        "Objectivity",
+        "Integrity",
+        "Carefulness",
+        "Honesty"
+      ],
+      "reference": "Ethical Codes and Policies for Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What ethical code for research means to avoid biases in experimental designs, data analysis, interpretation, and expert testimony?",
+      "answer": "Objectivity",
+      "choices": [
+        "Honesty",
+        "Integrity",
+        "Carefulness",
+        "Objectivity"
+      ],
+      "reference": "Ethical Codes and Policies for Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What ethical code for research means to keep your promises and agreements?",
+      "answer": "Integrity",
+      "choices": [
+        "Honesty",
+        "Objectivity",
+        "Carefulness",
+        "Integrity"
+      ],
+      "reference": "Ethical Codes and Policies for Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What ethical code for research means to avoid careless errors and negligence?",
+      "answer": "Carefulness",
+      "choices": [
+        "Honesty",
+        "Objectivity",
+        "Integrity",
+        "Carefulness"
+      ],
+      "reference": "Ethical Codes and Policies for Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What ethical code for research means to share data, results, ideas and tools and be open to criticism and new ideas?",
+      "answer": "Openness",
+      "choices": [
+        "Confidentiality",
+        "Responsible Publication",
+        "Responsible Mentoring",
+        "Openness"
+      ],
+      "reference": "Ethical Codes and Policies for Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What ethical code for research means to protect confidential communication?",
+      "answer": "Confidentiality",
+      "choices": [
+        "Openness",
+        "Responsible Publication",
+        "Responsible Mentoring",
+        "Confidentiality"
+      ],
+      "reference": "Ethical Codes and Policies for Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What ethical code for research means that research should have been conducted in an ethical and responsible manner?",
+      "answer": "Responsible Publication",
+      "choices": [
+        "Openness",
+        "Confidentiality",
+        "Responsible Mentoring",
+        "Responsible Publication"
+      ],
+      "reference": "Ethical Codes and Policies for Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What ethical code for research means to help educate, mentor, and advise others?",
+      "answer": "Responsible Mentoring",
+      "choices": [
+        "Openness",
+        "Confidentiality",
+        "Responsible Publication",
+        "Responsible Mentoring"
+      ],
+      "reference": "Ethical Codes and Policies for Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What ethical code for research means to treat all peers fairly?",
+      "answer": "Respect Colleagues",
+      "choices": [
+        "Social Responsibility",
+        "Non-Discrimination",
+        "Legality",
+        "Respect Colleagues"
+      ],
+      "reference": "Ethical Codes and Policies for Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What ethical code for research means to strive to promote social good and avoid social harm?",
+      "answer": "Social Responsibility",
+      "choices": [
+        "Respect Colleagues",
+        "Non-Discrimination",
+        "Legality",
+        "Social Responsibility"
+      ],
+      "reference": "Ethical Codes and Policies for Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What ethical code for research means to avoid discrimination against colleagues or students on the basis of sex, races, ethnicity, and or others?",
+      "answer": "Non-Discrimination",
+      "choices": [
+        "Respect Colleagues",
+        "Social Responsibility",
+        "Legality",
+        "Non-Discrimination"
+      ],
+      "reference": "Ethical Codes and Policies for Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What ethical code for research means to be informed and obey relevant laws and institutional and governmental policies?",
+      "answer": "Legality",
+      "choices": [
+        "Respect Colleagues",
+        "Social Responsibility",
+        "Non-Discrimination",
+        "Legality"
+      ],
+      "reference": "Ethical Codes and Policies for Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What ethical code for research means to give proper acknowledgment or credits to all researchers?",
+      "answer": "Respect of Intellectual Property",
+      "choices": [
+        "Human Subject",
+        "Legality",
+        "Non-Discrimination",
+        "Respect of Intellectual Property"
+      ],
+      "reference": "Ethical Codes and Policies for Research",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What ethical code for research means to minimize risks that involve human lives, dignity, and privacy?",
+      "answer": "Human Subject",
+      "choices": [
+        "Respect of Intellectual Property",
+        "Legality",
+        "Non-Discrimination",
+        "Human Subject"
+      ],
+      "reference": "Ethical Codes and Policies for Research",
+      "term": "First Quarter"
+    }
+  ]
+}
