@@ -1,0 +1,220 @@
+{
+  "quizInfo": {
+    "Subject": "Entrepreneur",
+    "Term": "First Quarter",
+    "Title": "Week-3",
+    "LastModified": "14 August 2025",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "Week-3"
+    ]
+  },
+"quizData": [
+    {
+      "question": "What is the means by which the exchange of goods and services takes place as a result of buyers and sellers being in contact with one another?",
+      "answer": "Market",
+      "choices": [
+        "Value Proposition",
+        "Unique Selling Proposition",
+        "Target Market",
+        "Market"
+      ],
+      "reference": "Market and Propositions",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is a business or marketing statement that summarizes why a consumer should buy a company's product or use its service?",
+      "answer": "Value Proposition",
+      "choices": [
+        "Unique Selling Proposition",
+        "Market Targeting",
+        "Customer Requirements",
+        "Value Proposition"
+      ],
+      "reference": "Market and Propositions",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What refers to how you sell your product or services to your customer?",
+      "answer": "Unique Selling Proposition",
+      "choices": [
+        "Value Proposition",
+        "Market Targeting",
+        "Customer Requirements",
+        "Unique Selling Proposition"
+      ],
+      "reference": "Market and Propositions",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is a stage in market identification process that aims to determine the buyers with common needs and characteristics?",
+      "answer": "Market Targeting",
+      "choices": [
+        "Geographic segmentation",
+        "Demographic Segmentation",
+        "Psychological Segmentation",
+        "Market Targeting"
+      ],
+      "reference": "Market Segmentation",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is the market segment that an entrepreneurial venture intends to serve?",
+      "answer": "Prospect customers",
+      "choices": [
+        "Target Market",
+        "Buyers",
+        "Suppliers",
+        "Prospect customers"
+      ],
+      "reference": "Market Segmentation",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What method for segmenting the market divides the total market according to geographical location?",
+      "answer": "Geographic segmentation",
+      "choices": [
+        "Demographic Segmentation",
+        "Psychological Segmentation",
+        "Behavioral Segmentation",
+        "Geographic segmentation"
+      ],
+      "reference": "Market Segmentation",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What method for segmenting the market is divided based on consumers?",
+      "answer": "Demographic Segmentation",
+      "choices": [
+        "Geographic segmentation",
+        "Psychological Segmentation",
+        "Behavioral Segmentation",
+        "Demographic Segmentation"
+      ],
+      "reference": "Market Segmentation",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What method for segmenting the market is divided in terms of what customers think and believe?",
+      "answer": "Psychological Segmentation",
+      "choices": [
+        "Geographic segmentation",
+        "Demographic Segmentation",
+        "Behavioral Segmentation",
+        "Psychological Segmentation"
+      ],
+      "reference": "Market Segmentation",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What method for segmenting the market is divided according to customers' behavior patterns as they interact with a company?",
+      "answer": "Behavioral Segmentation",
+      "choices": [
+        "Geographic segmentation",
+        "Demographic Segmentation",
+        "Psychological Segmentation",
+        "Behavioral Segmentation"
+      ],
+      "reference": "Market Segmentation",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What are the specific characteristics that customers need from a product or a service?",
+      "answer": "Customer requirements",
+      "choices": [
+        "Service Requirement",
+        "Output Requirement",
+        "Value Proposition",
+        "Customer requirements"
+      ],
+      "reference": "Customer Requirements",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What type of customer requirement consists of elements like on-time delivery, service with a smile, and easy-payment?",
+      "answer": "Service Requirement",
+      "choices": [
+        "Output Requirement",
+        "Customer requirements",
+        "Unique Selling Proposition",
+        "Service Requirement"
+      ],
+      "reference": "Customer Requirements",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What type of customer requirement encompasses all aspects of how a customer expects to be treated while purchasing a product?",
+      "answer": "Service Requirement",
+      "choices": [
+        "Output Requirement",
+        "Customer requirements",
+        "Unique Selling Proposition",
+        "Service Requirement"
+      ],
+      "reference": "Customer Requirements",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What type of customer requirement can take the form of product specifications like the loudness and clarity of a pair of speakers?",
+      "answer": "Output Requirement",
+      "choices": [
+        "Service Requirement",
+        "Customer requirements",
+        "Value Proposition",
+        "Output Requirement"
+      ],
+      "reference": "Customer Requirements",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is the approximate number of sellers and buyers in a particular market?",
+      "answer": "Market Size",
+      "choices": [
+        "Total Available Market",
+        "Served Available Market",
+        "Target Market",
+        "Market Size"
+      ],
+      "reference": "Market Size",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What part of the market size answers the question \"how big is the universe\"?",
+      "answer": "Total Available Market",
+      "choices": [
+        "Served Available Market",
+        "Target Market",
+        "Market Size",
+        "Total Available Market"
+      ],
+      "reference": "Market Size",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What part of the market size answers the question \"how many can I reach with my sales channel\"?",
+      "answer": "Served Available Market",
+      "choices": [
+        "Total Available Market",
+        "Target Market",
+        "Market Size",
+        "Served Available Market"
+      ],
+      "reference": "Market Size",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What part of the market size for a startup answers the question \"who will be the most likely buyers\"?",
+      "answer": "Target Market",
+      "choices": [
+        "Total Available Market",
+        "Served Available Market",
+        "Market Size",
+        "Target Market"
+      ],
+      "reference": "Market Size",
+      "term": "First Quarter"
+    }
+  ]
+}
