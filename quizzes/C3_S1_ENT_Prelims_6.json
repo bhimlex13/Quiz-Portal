@@ -1,0 +1,1412 @@
+{
+  "quizInfo": {
+    "Subject": "Entrepreneur",
+    "Term": "First Quarter",
+    "Title": "Prelims Reviewer Pro Max",
+    "LastModified": "14 August 2025",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "Week-1",
+      "Week-2",
+      "Week-3",
+      "Week-4",
+      "Week-5"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "What is the relevance of entrepreneurship where one of the benefits an entrepreneur gets is to develop his managerial skills?",
+      "answer": "Development of Managerial Capabilities",
+      "choices": [
+        "Creation of Organizations",
+        "Improving Standard of Living",
+        "Means of Economic Development",
+        "Development of Managerial Capabilities"
+      ],
+      "reference": "Relevance of Entrepreneurship",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is the relevance of entrepreneurship which means that because of it many organizations will exist?",
+      "answer": "Creation of Organizations",
+      "choices": [
+        "Development of Managerial Capabilities",
+        "Improving Standard of Living",
+        "Means of Economic Development",
+        "Creation of Organizations"
+      ],
+      "reference": "Relevance of Entrepreneurship",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is the relevance of entrepreneurship that can lift up the economic status of an individual?",
+      "answer": "Improving Standard of Living",
+      "choices": [
+        "Development of Managerial Capabilities",
+        "Creation of Organizations",
+        "Means of Economic Development",
+        "Improving Standard of Living"
+      ],
+      "reference": "Relevance of Entrepreneurship",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is the relevance of entrepreneurship where not only the life of the entrepreneur is improved but also the society where the business is located?",
+      "answer": "Means of Economic Development",
+      "choices": [
+        "Development of Managerial Capabilities",
+        "Creation of Organizations",
+        "Improving Standard of Living",
+        "Means of Economic Development"
+      ],
+      "reference": "Relevance of Entrepreneurship",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What was derived from the French verb entreprendre, which means “to undertake?”",
+      "answer": "Entrepreneur",
+      "choices": [
+        "Entrepreneurship",
+        "Enterprise",
+        "Innovators",
+        "Entrepreneur"
+      ],
+      "reference": "Concept of Entrepreneurship",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is the process called when an enterprise is created by an entrepreneur?",
+      "answer": "Entrepreneurship",
+      "choices": [
+        "Entrepreneur",
+        "Enterprise",
+        "Innovators",
+        "Entrepreneurship"
+      ],
+      "reference": "Concept of Entrepreneurship",
+      "term": "First Quarter"
+    },
+    {
+      "question": "Who are innovators?",
+      "answer": "Entrepreneurs",
+      "choices": [
+        "Business Consultant",
+        "Teacher",
+        "Researcher",
+        "Entrepreneurs"
+      ],
+      "reference": "Concept of Entrepreneurship",
+      "term": "First Quarter"
+    },
+    {
+      "question": "Who are willing to take the risks and generate unique ideas that can provide profitable solutions to the needs of the market and the society?",
+      "answer": "Entrepreneurs",
+      "choices": [
+        "Business Consultant",
+        "Teacher",
+        "Researcher",
+        "Entrepreneurs"
+      ],
+      "reference": "Concept of Entrepreneurship",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What personality factor is doing things even before being told?",
+      "answer": "Initiative",
+      "choices": [
+        "Proactive",
+        "Problem Solver",
+        "Perseverance",
+        "Initiative"
+      ],
+      "reference": "Factors Affecting Entrepreneurship",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What personality factor means he can classify opportunities and seize it?",
+      "answer": "Proactive",
+      "choices": [
+        "Initiative",
+        "Problem Solver",
+        "Perseverance",
+        "Proactive"
+      ],
+      "reference": "Factors Affecting Entrepreneurship",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What personality factor means he can retain good relations with other people?",
+      "answer": "Problem Solver",
+      "choices": [
+        "Initiative",
+        "Proactive",
+        "Perseverance",
+        "Problem Solver"
+      ],
+      "reference": "Factors Affecting Entrepreneurship",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What personality factor means he will pursue things to get done regardless of challenges?",
+      "answer": "Perseverance",
+      "choices": [
+        "Initiative",
+        "Proactive",
+        "Problem Solver",
+        "Perseverance"
+      ],
+      "reference": "Factors Affecting Entrepreneurship",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What personality factor means that he can entice people to buy even if they don’t want to?",
+      "answer": "Persuasion",
+      "choices": [
+        "A Planner",
+        "Risk-taker",
+        "Proactive",
+        "Persuasion"
+      ],
+      "reference": "Factors Affecting Entrepreneurship",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What personality factor means he makes plans before doing things and does not fail to monitor it?",
+      "answer": "A Planner",
+      "choices": [
+        "Persuasion",
+        "Risk-taker",
+        "Proactive",
+        "A Planner"
+      ],
+      "reference": "Factors Affecting Entrepreneurship",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What personality factor means that he is willing to gamble but he will calculate it first?",
+      "answer": "Risk-taker",
+      "choices": [
+        "Persuasion",
+        "A Planner",
+        "Proactive",
+        "Risk-taker"
+      ],
+      "reference": "Factors Affecting Entrepreneurship",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What factors include political, climate, legal system, economic and social conditions and market situations?",
+      "answer": "Environmental Factors",
+      "choices": [
+        "Personality Factors",
+        "Core Competencies",
+        "Common Competencies",
+        "Environmental Factors"
+      ],
+      "reference": "Factors Affecting Entrepreneurship",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What common competency means an entrepreneur must be firm in making decisions?",
+      "answer": "Decisive",
+      "choices": [
+        "Communicator",
+        "Leader",
+        "Opportunity seeker",
+        "Decisive"
+      ],
+      "reference": "Common Competencies in Entrepreneurship",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What common competency means an entrepreneur must have a convincing power?",
+      "answer": "Communicator",
+      "choices": [
+        "Decisive",
+        "Leader",
+        "Opportunity seeker",
+        "Communicator"
+      ],
+      "reference": "Common Competencies in Entrepreneurship",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What common competency means an entrepreneur must have the charisma to be obeyed by his employees?",
+      "answer": "Leader",
+      "choices": [
+        "Decisive",
+        "Communicator",
+        "Opportunity seeker",
+        "Leader"
+      ],
+      "reference": "Common Competencies in Entrepreneurship",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What common competency means an entrepreneur must have the ability to be the first to see business chances?",
+      "answer": "Opportunity seeker",
+      "choices": [
+        "Decisive",
+        "Communicator",
+        "Leader",
+        "Opportunity seeker"
+      ],
+      "reference": "Common Competencies in Entrepreneurship",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What common competency means an entrepreneur can control a situation by making things happen or by preparing for possible future problems?",
+      "answer": "Proactive",
+      "choices": [
+        "Risk Taker",
+        "Innovative",
+        "Leader",
+        "Proactive"
+      ],
+      "reference": "Common Competencies in Entrepreneurship",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What common competency means an entrepreneur has the courage to pursue business ideas?",
+      "answer": "Risk Taker",
+      "choices": [
+        "Proactive",
+        "Innovative",
+        "Leader",
+        "Risk Taker"
+      ],
+      "reference": "Common Competencies in Entrepreneurship",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What common competency means the entrepreneur has big business ideas and he does not stop improving and thinking of new worthwhile ideas for his business?",
+      "answer": "Innovative",
+      "choices": [
+        "Proactive",
+        "Risk Taker",
+        "Leader",
+        "Innovative"
+      ],
+      "reference": "Common Competencies in Entrepreneurship",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What core competency is an economic activity because it involves the creation and operation of an enterprise with a view to creating value or wealth by ensuring optimum utilization of limited resources?",
+      "answer": "Economic and Dynamic Activity",
+      "choices": [
+        "Innovative",
+        "Profit Potential",
+        "Risk bearing",
+        "Economic and Dynamic Activity"
+      ],
+      "reference": "Core Competencies in Entrepreneurship",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What core competency means the entrepreneur constantly looks for new ideas, thus he needs to be creative?",
+      "answer": "Innovative",
+      "choices": [
+        "Economic and Dynamic Activity",
+        "Profit Potential",
+        "Risk bearing",
+        "Innovative"
+      ],
+      "reference": "Core Competencies in Entrepreneurship",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What core competency means the entrepreneur can be compensated by his profit coming from the operation?",
+      "answer": "Profit Potential",
+      "choices": [
+        "Economic and Dynamic Activity",
+        "Innovative",
+        "Risk bearing",
+        "Profit Potential"
+      ],
+      "reference": "Core Competencies in Entrepreneurship",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What core competency means the entrepreneur needs to gamble but wise enough to offset the risk?",
+      "answer": "Risk bearing",
+      "choices": [
+        "Economic and Dynamic Activity",
+        "Innovative",
+        "Profit Potential",
+        "Risk bearing"
+      ],
+      "reference": "Core Competencies in Entrepreneurship",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What type of entrepreneurs are those who always make new things by thinking of new ideas?",
+      "answer": "Innovative Entrepreneurs",
+      "choices": [
+        "Imitating Entrepreneurs",
+        "Fabian Entrepreneurs",
+        "Drone Entrepreneurs",
+        "Innovative Entrepreneurs"
+      ],
+      "reference": "Types of Entrepreneurs",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What type of entrepreneurs have the ability to think newer, better and more economical ideas?",
+      "answer": "Innovative Entrepreneurs",
+      "choices": [
+        "Imitating Entrepreneurs",
+        "Fabian Entrepreneurs",
+        "Drone Entrepreneurs",
+        "Innovative Entrepreneurs"
+      ],
+      "reference": "Types of Entrepreneurs",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What type of entrepreneurs are those who don’t create new things but only follow the ideas of other entrepreneurs?",
+      "answer": "Imitating Entrepreneurs",
+      "choices": [
+        "Innovative Entrepreneurs",
+        "Fabian Entrepreneurs",
+        "Drone Entrepreneurs",
+        "Imitating Entrepreneurs"
+      ],
+      "reference": "Types of Entrepreneurs",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What type of entrepreneurs are skeptical about changes to be made in the organization?",
+      "answer": "Fabian Entrepreneurs",
+      "choices": [
+        "Innovative Entrepreneurs",
+        "Imitating Entrepreneurs",
+        "Drone Entrepreneurs",
+        "Fabian Entrepreneurs"
+      ],
+      "reference": "Types of Entrepreneurs",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What type of entrepreneurs don’t initiate but follow only after they are satisfied?",
+      "answer": "Fabian Entrepreneurs",
+      "choices": [
+        "Innovative Entrepreneurs",
+        "Imitating Entrepreneurs",
+        "Drone Entrepreneurs",
+        "Fabian Entrepreneurs"
+      ],
+      "reference": "Types of Entrepreneurs",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What type of entrepreneurs are those who live on the labor of others?",
+      "answer": "Drone Entrepreneurs",
+      "choices": [
+        "Innovative Entrepreneurs",
+        "Imitating Entrepreneurs",
+        "Fabian Entrepreneurs",
+        "Drone Entrepreneurs"
+      ],
+      "reference": "Types of Entrepreneurs",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What type of entrepreneurs are die-hard conservatives even ready to suffer the loss of business?",
+      "answer": "Drone Entrepreneurs",
+      "choices": [
+        "Innovative Entrepreneurs",
+        "Imitating Entrepreneurs",
+        "Fabian Entrepreneurs",
+        "Drone Entrepreneurs"
+      ],
+      "reference": "Types of Entrepreneurs",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What type of entrepreneurs are those who initiate changes and drive social innovation and transformation in the various fields such as education, health, human rights, environment and enterprise development?",
+      "answer": "Social Entrepreneurs",
+      "choices": [
+        "Innovative Entrepreneurs",
+        "Imitating Entrepreneurs",
+        "Drone Entrepreneurs",
+        "Social Entrepreneurs"
+      ],
+      "reference": "Types of Entrepreneurs",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What career opportunity means that with the expertise of in the field of entrepreneurship, he can be a very good source of advices to other entrepreneurs and would be businessmen?",
+      "answer": "Business Consultant",
+      "choices": [
+        "Teacher",
+        "Researcher",
+        "Sales",
+        "Business Consultant"
+      ],
+      "reference": "Career Opportunities of Entrepreneurship",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What career opportunity means a graduate of an entrepreneurship can use his knowledge in teaching?",
+      "answer": "Teacher",
+      "choices": [
+        "Business Consultant",
+        "Researcher",
+        "Sales",
+        "Teacher"
+      ],
+      "reference": "Career Opportunities of Entrepreneurship",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What career opportunity means the entrepreneur can be employed as a researcher by an enterprise?",
+      "answer": "Researcher",
+      "choices": [
+        "Business Consultant",
+        "Teacher",
+        "Sales",
+        "Researcher"
+      ],
+      "reference": "Career Opportunities of Entrepreneurship",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What career opportunity means the entrepreneurship graduate can apply as a salesman?",
+      "answer": "Sales",
+      "choices": [
+        "Business Consultant",
+        "Teacher",
+        "Researcher",
+        "Sales"
+      ],
+      "reference": "Career Opportunities of Entrepreneurship",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What career opportunity means the entrepreneur being expert in the field, can be employed as a business reporter?",
+      "answer": "Business Reporter",
+      "choices": [
+        "Business Consultant",
+        "Teacher",
+        "Researcher",
+        "Business Reporter"
+      ],
+      "reference": "Career Opportunities of Entrepreneurship",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What allows the entrepreneur to see things in a very positive and optimistic way in the midst of difficult situation?",
+      "answer": "Entrepreneurial mind frame",
+      "choices": [
+        "Entrepreneurial heart flame",
+        "Entrepreneurial gut game",
+        "Passion",
+        "Entrepreneurial mind frame"
+      ],
+      "reference": "Essentials in Entrepreneur's Opportunity Seeking",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is the entrepreneur's driven passion, where they are attracted to discover satisfaction in the act and process of discovery?",
+      "answer": "Entrepreneurial heart flame",
+      "choices": [
+        "Entrepreneurial mind frame",
+        "Entrepreneurial gut game",
+        "Passion",
+        "Entrepreneurial heart flame"
+      ],
+      "reference": "Essentials in Entrepreneur's Opportunity Seeking",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is the great desire of an entrepreneur to achieve his/her goals?",
+      "answer": "Passion",
+      "choices": [
+        "Entrepreneurial mind frame",
+        "Entrepreneurial heart flame",
+        "Entrepreneurial gut game",
+        "Passion"
+      ],
+      "reference": "Essentials in Entrepreneur's Opportunity Seeking",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What refers to the ability of the entrepreneur of being intuitive?",
+      "answer": "Entrepreneurial gut game",
+      "choices": [
+        "Entrepreneurial mind frame",
+        "Entrepreneurial heart flame",
+        "Entrepreneurial Intuition",
+        "Entrepreneurial gut game"
+      ],
+      "reference": "Essentials in Entrepreneur's Opportunity Seeking",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is another term for the ability of the entrepreneur of being intuitive?",
+      "answer": "Intuition",
+      "choices": [
+        "Entrepreneurial mind frame",
+        "Entrepreneurial heart flame",
+        "Entrepreneurial gut game",
+        "Intuition"
+      ],
+      "reference": "Essentials in Entrepreneur's Opportunity Seeking",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What includes the weather conditions?",
+      "answer": "Climate",
+      "choices": [
+        "Natural resources",
+        "Wildlife",
+        "Physical environment",
+        "Climate"
+      ],
+      "reference": "Sources of Opportunities",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What includes minerals, forests, water, and fertile land that occur in nature and can be used for economic gain?",
+      "answer": "Natural resources",
+      "choices": [
+        "Climate",
+        "Wildlife",
+        "Physical environment",
+        "Natural resources"
+      ],
+      "reference": "Sources of Opportunities",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What includes all mammals, birds, reptiles, fish, etc., that live in the wild?",
+      "answer": "Wildlife",
+      "choices": [
+        "Climate",
+        "Natural resources",
+        "Physical environment",
+        "Wildlife"
+      ],
+      "reference": "Sources of Opportunities",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What includes all the laws, rules, and regulations that govern business practices as well as the permits, approvals, and licenses necessary to operate the business?",
+      "answer": "Political forces",
+      "choices": [
+        "Economic forces",
+        "Sociocultural forces",
+        "Technological environment",
+        "Political forces"
+      ],
+      "reference": "Sources of Opportunities",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What includes forces such as income level and employment rate?",
+      "answer": "Economic forces",
+      "choices": [
+        "Political forces",
+        "Sociocultural forces",
+        "Technological environment",
+        "Economic forces"
+      ],
+      "reference": "Sources of Opportunities",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What includes customs, lifestyles and values that characterize a society?",
+      "answer": "Sociocultural forces",
+      "choices": [
+        "Political forces",
+        "Economic forces",
+        "Technological environment",
+        "Sociocultural forces"
+      ],
+      "reference": "Sources of Opportunities",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What includes new inventions and technology innovations?",
+      "answer": "Technological environment",
+      "choices": [
+        "Political forces",
+        "Economic forces",
+        "Sociocultural forces",
+        "Technological environment"
+      ],
+      "reference": "Sources of Opportunities",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What arises when changes happen in the external environment?",
+      "answer": "Entrepreneurial ideas",
+      "choices": [
+        "Technological discovery",
+        "People's interest",
+        "Past experiences",
+        "Entrepreneurial ideas"
+      ],
+      "reference": "Sources of Opportunities",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What refers to the physical environment, societal environment, and industry environment where the business operates?",
+      "answer": "External environment",
+      "choices": [
+        "Internal environment",
+        "Competitive environment",
+        "Market environment",
+        "External environment"
+      ],
+      "reference": "Sources of Opportunities",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What sees the possibility of business opportunities in any new discovery or because of the use of latest technology?",
+      "answer": "A person with entrepreneurial interest",
+      "choices": [
+        "A government official",
+        "A regular consumer",
+        "A past employee",
+        "A person with entrepreneurial interest"
+      ],
+      "reference": "Sources of Opportunities",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What are also good sources of ideas from the government?",
+      "answer": "Priorities, projects, programs, and policies",
+      "choices": [
+        "Technological discoveries",
+        "People's interests",
+        "Past experiences",
+        "Priorities, projects, programs, and policies"
+      ],
+      "reference": "Sources of Opportunities",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What are a rich source of entrepreneurial ideas related to people?",
+      "answer": "The interest, hobbies, and preferences of people",
+      "choices": [
+        "Government policies",
+        "Technological advancements",
+        "Past experiences",
+        "The interest, hobbies, and preferences of people"
+      ],
+      "reference": "Sources of Opportunities",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What may lead to the opening of related business enterprise based on a person's history?",
+      "answer": "The expertise and skills developed by a person",
+      "choices": [
+        "Government programs",
+        "People's interests",
+        "Technological discoveries",
+        "The expertise and skills developed by a person"
+      ],
+      "reference": "Sources of Opportunities",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What source of opportunity comes from the expertise and skills developed by a person who has worked in a particular field?",
+      "answer": "Past experiences",
+      "choices": [
+        "Technological discovery and advancement",
+        "Government’s thrust, programs, and policies",
+        "People’s interest",
+        "Past experiences"
+      ],
+      "reference": "Sources of Opportunities",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is the act or process of trying to get or win something?",
+      "answer": "Competition",
+      "choices": [
+        "Rivalry",
+        "Substitute",
+        "Bargaining",
+        "Competition"
+      ],
+      "reference": "Forces of Competition Model",
+      "term": "First Quarter"
+    },
+    {
+      "question": "Who are the ones that pay cash in exchange to your goods and services?",
+      "answer": "Buyers",
+      "choices": [
+        "Suppliers",
+        "Competitors",
+        "New entrants",
+        "Buyers"
+      ],
+      "reference": "Forces of Competition Model",
+      "term": "First Quarter"
+    },
+    {
+      "question": "Who is defined as the one who enters something?",
+      "answer": "A new entrant",
+      "choices": [
+        "A buyer",
+        "A supplier",
+        "A competitor",
+        "A new entrant"
+      ],
+      "reference": "Forces of Competition Model",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is a state or situation in which people or groups are competing with each other?",
+      "answer": "Rivalry",
+      "choices": [
+        "Competition",
+        "Substitution",
+        "Supply",
+        "Rivalry"
+      ],
+      "reference": "Forces of Competition Model",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is anything that takes the place or function of another?",
+      "answer": "Substitute",
+      "choices": [
+        "Rivalry",
+        "Competition",
+        "Supply",
+        "Substitute"
+      ],
+      "reference": "Forces of Competition Model",
+      "term": "First Quarter"
+    },
+    {
+      "question": "Who are the ones that provide something that is needed or wanted?",
+      "answer": "Suppliers",
+      "choices": [
+        "Buyers",
+        "Competitors",
+        "New entrants",
+        "Suppliers"
+      ],
+      "reference": "Forces of Competition Model",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is another name for the Forces of Competition Model?",
+      "answer": "Five forces of competition",
+      "choices": [
+        "Sources of Opportunities",
+        "Entrepreneurial Process",
+        "Essentials in Seeking",
+        "Five forces of competition"
+      ],
+      "reference": "Forces of Competition Model",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is the means by which the exchange of goods and services takes place as a result of buyers and sellers being in contact with one another?",
+      "answer": "Market",
+      "choices": [
+        "Value Proposition",
+        "Unique Selling Proposition",
+        "Target Market",
+        "Market"
+      ],
+      "reference": "Market and Propositions",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is a business or marketing statement that summarizes why a consumer should buy a company's product or use its service?",
+      "answer": "Value Proposition",
+      "choices": [
+        "Unique Selling Proposition",
+        "Market Targeting",
+        "Customer Requirements",
+        "Value Proposition"
+      ],
+      "reference": "Market and Propositions",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What refers to how you sell your product or services to your customer?",
+      "answer": "Unique Selling Proposition",
+      "choices": [
+        "Value Proposition",
+        "Market Targeting",
+        "Customer Requirements",
+        "Unique Selling Proposition"
+      ],
+      "reference": "Market and Propositions",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is a stage in market identification process that aims to determine the buyers with common needs and characteristics?",
+      "answer": "Market Targeting",
+      "choices": [
+        "Geographic segmentation",
+        "Demographic Segmentation",
+        "Psychological Segmentation",
+        "Market Targeting"
+      ],
+      "reference": "Market Segmentation",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is the market segment that an entrepreneurial venture intends to serve?",
+      "answer": "Prospect customers",
+      "choices": [
+        "Target Market",
+        "Buyers",
+        "Suppliers",
+        "Prospect customers"
+      ],
+      "reference": "Market Segmentation",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What method for segmenting the market divides the total market according to geographical location?",
+      "answer": "Geographic segmentation",
+      "choices": [
+        "Demographic Segmentation",
+        "Psychological Segmentation",
+        "Behavioral Segmentation",
+        "Geographic segmentation"
+      ],
+      "reference": "Market Segmentation",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What method for segmenting the market is divided based on consumers?",
+      "answer": "Demographic Segmentation",
+      "choices": [
+        "Geographic segmentation",
+        "Psychological Segmentation",
+        "Behavioral Segmentation",
+        "Demographic Segmentation"
+      ],
+      "reference": "Market Segmentation",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What method for segmenting the market is divided in terms of what customers think and believe?",
+      "answer": "Psychological Segmentation",
+      "choices": [
+        "Geographic segmentation",
+        "Demographic Segmentation",
+        "Behavioral Segmentation",
+        "Psychological Segmentation"
+      ],
+      "reference": "Market Segmentation",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What method for segmenting the market is divided according to customers' behavior patterns as they interact with a company?",
+      "answer": "Behavioral Segmentation",
+      "choices": [
+        "Geographic segmentation",
+        "Demographic Segmentation",
+        "Psychological Segmentation",
+        "Behavioral Segmentation"
+      ],
+      "reference": "Market Segmentation",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What are the specific characteristics that customers need from a product or a service?",
+      "answer": "Customer requirements",
+      "choices": [
+        "Service Requirement",
+        "Output Requirement",
+        "Value Proposition",
+        "Customer requirements"
+      ],
+      "reference": "Customer Requirements",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What type of customer requirement consists of elements like on-time delivery, service with a smile, and easy-payment?",
+      "answer": "Service Requirement",
+      "choices": [
+        "Output Requirement",
+        "Customer requirements",
+        "Unique Selling Proposition",
+        "Service Requirement"
+      ],
+      "reference": "Customer Requirements",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What type of customer requirement encompasses all aspects of how a customer expects to be treated while purchasing a product?",
+      "answer": "Service Requirement",
+      "choices": [
+        "Output Requirement",
+        "Customer requirements",
+        "Unique Selling Proposition",
+        "Service Requirement"
+      ],
+      "reference": "Customer Requirements",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What type of customer requirement can take the form of product specifications like the loudness and clarity of a pair of speakers?",
+      "answer": "Output Requirement",
+      "choices": [
+        "Service Requirement",
+        "Customer requirements",
+        "Value Proposition",
+        "Output Requirement"
+      ],
+      "reference": "Customer Requirements",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is the approximate number of sellers and buyers in a particular market?",
+      "answer": "Market Size",
+      "choices": [
+        "Total Available Market",
+        "Served Available Market",
+        "Target Market",
+        "Market Size"
+      ],
+      "reference": "Market Size",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What part of the market size answers the question \"how big is the universe\"?",
+      "answer": "Total Available Market",
+      "choices": [
+        "Served Available Market",
+        "Target Market",
+        "Market Size",
+        "Total Available Market"
+      ],
+      "reference": "Market Size",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What part of the market size answers the question \"how many can I reach with my sales channel\"?",
+      "answer": "Served Available Market",
+      "choices": [
+        "Total Available Market",
+        "Target Market",
+        "Market Size",
+        "Served Available Market"
+      ],
+      "reference": "Market Size",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What part of the market size for a startup answers the question \"who will be the most likely buyers\"?",
+      "answer": "Target Market",
+      "choices": [
+        "Total Available Market",
+        "Served Available Market",
+        "Market Size",
+        "Target Market"
+      ],
+      "reference": "Market Size",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is the process of gathering, analyzing and interpreting the information about the products or the services to be offered for sale to the potential consumers in the market?",
+      "answer": "Market Research",
+      "choices": [
+        "Data Collection",
+        "Survey",
+        "Interview",
+        "Market Research"
+      ],
+      "reference": "Market Research and Data Collection",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is the most valuable tool in any type of research study?",
+      "answer": "Data Collection",
+      "choices": [
+        "Market Research",
+        "Survey",
+        "Interview",
+        "Data Collection"
+      ],
+      "reference": "Market Research and Data Collection",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What are the most common way to gather primary research with the use of questionnaires or interview schedule?",
+      "answer": "Surveys",
+      "choices": [
+        "Interview",
+        "Focus Group Discussion",
+        "Data Collection",
+        "Surveys"
+      ],
+      "reference": "Data Gathering Techniques",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is one of the most reliable and credible ways of getting relevant information from target customers?",
+      "answer": "Interview",
+      "choices": [
+        "Surveys",
+        "Focus Group Discussion",
+        "Data Collection",
+        "Interview"
+      ],
+      "reference": "Data Gathering Techniques",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is typically done in person between the researcher/entrepreneur and a respondent where the researcher asks pertinent questions?",
+      "answer": "Interview",
+      "choices": [
+        "Surveys",
+        "Focus Group Discussion",
+        "Data Collection",
+        "Interview"
+      ],
+      "reference": "Data Gathering Techniques",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What are the traditional method of conducting an interview?",
+      "answer": "Personal interviews",
+      "choices": [
+        "Telephone interviews",
+        "Focus Group Discussion",
+        "Surveys",
+        "Personal interviews"
+      ],
+      "reference": "Data Gathering Techniques",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What allows the researcher to establish relationship with potential participants and therefore gain their cooperation?",
+      "answer": "Personal interviews",
+      "choices": [
+        "Telephone interviews",
+        "Focus Group Discussion",
+        "Surveys",
+        "Personal interviews"
+      ],
+      "reference": "Data Gathering Techniques",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What generates the highest response rates in survey research?",
+      "answer": "Personal interviews",
+      "choices": [
+        "Telephone interviews",
+        "Focus Group Discussion",
+        "Surveys",
+        "Personal interviews"
+      ],
+      "reference": "Data Gathering Techniques",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What are less expensive and less time-consuming interviews?",
+      "answer": "Telephone interviews",
+      "choices": [
+        "Personal interviews",
+        "Focus Group Discussion",
+        "Surveys",
+        "Telephone interviews"
+      ],
+      "reference": "Data Gathering Techniques",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is an excellent method for generating and screening ideas and concepts?",
+      "answer": "Focus Group Discussion",
+      "choices": [
+        "Interview",
+        "Surveys",
+        "Data Collection",
+        "Focus Group Discussion"
+      ],
+      "reference": "Data Gathering Techniques",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What can be moderated group interviews and brainstorming sessions that provide information on user's needs and behaviors?",
+      "answer": "Focus Group Discussion",
+      "choices": [
+        "Interview",
+        "Surveys",
+        "Data Collection",
+        "Focus Group Discussion"
+      ],
+      "reference": "Data Gathering Techniques",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is a set of controllable and connected variables that a company gathers to satisfy a customer better than its competitor?",
+      "answer": "Marketing Mix",
+      "choices": [
+        "Product",
+        "Price",
+        "Place",
+        "Marketing Mix"
+      ],
+      "reference": "The 7Ps of Marketing",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What refers to any goods or services that are produced to meet the consumers' wants, tastes and preferences?",
+      "answer": "Product",
+      "choices": [
+        "Place",
+        "Price",
+        "Promotion",
+        "Product"
+      ],
+      "reference": "The 7Ps of Marketing",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What represents the location where the buyer and seller exchange goods or services?",
+      "answer": "Place",
+      "choices": [
+        "Product",
+        "Price",
+        "Promotion",
+        "Place"
+      ],
+      "reference": "The 7Ps of Marketing",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is another name for the location where the buyer and seller exchange goods or services?",
+      "answer": "Distribution channel",
+      "choices": [
+        "Product",
+        "Price",
+        "Promotion",
+        "Distribution channel"
+      ],
+      "reference": "The 7Ps of Marketing",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What typically buys and stores large quantities of several producers' goods and then breaks into bulk deliveries to supply retailers with smaller quantities?",
+      "answer": "Wholesaler",
+      "choices": [
+        "Retailer",
+        "Producer",
+        "Consumer",
+        "Wholesaler"
+      ],
+      "reference": "The 7Ps of Marketing",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is a company that buys products from a manufacturer or wholesaler and sells them to end users or customers?",
+      "answer": "Retailer",
+      "choices": [
+        "Wholesaler",
+        "Producer",
+        "Consumer",
+        "Retailer"
+      ],
+      "reference": "The 7Ps of Marketing",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is another name for a channel that has no intermediary levels?",
+      "answer": "Direct-marketing channel",
+      "choices": [
+        "Wholesaler",
+        "Retailer",
+        "Producer",
+        "Direct-marketing channel"
+      ],
+      "reference": "The 7Ps of Marketing",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is the value of money in exchange for a product or service?",
+      "answer": "Price",
+      "choices": [
+        "Product",
+        "Place",
+        "Promotion",
+        "Price"
+      ],
+      "reference": "The 7Ps of Marketing",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What pricing strategy is used by businesses to attract customers to a new product or service by offering a lower price during its initial offering?",
+      "answer": "Penetration Pricing",
+      "choices": [
+        "Skimming Pricing",
+        "Cost-Plus Pricing",
+        "Value-Based Pricing",
+        "Penetration Pricing"
+      ],
+      "reference": "The 7Ps of Marketing",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What refers to the complete set of activities, which communicate the product, brand or service to the user?",
+      "answer": "Promotion",
+      "choices": [
+        "Product",
+        "Place",
+        "Price",
+        "Promotion"
+      ],
+      "reference": "The 7Ps of Marketing",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What consists of each person who is involved in the product or service whether directly or indirectly?",
+      "answer": "People",
+      "choices": [
+        "Product",
+        "Place",
+        "Price",
+        "People"
+      ],
+      "reference": "The 7Ps of Marketing",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What refers to the outside appearance of a product and how it is presented to the customers?",
+      "answer": "Packaging",
+      "choices": [
+        "Product",
+        "Place",
+        "Price",
+        "Packaging"
+      ],
+      "reference": "The 7Ps of Marketing",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What refers to a process used by marketers to create an image in the minds of a target market?",
+      "answer": "Positioning",
+      "choices": [
+        "Promotion",
+        "Packaging",
+        "People",
+        "Positioning"
+      ],
+      "reference": "The 7Ps of Marketing",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is a name, symbol, or other feature that distinguishes a seller's goods or services in the marketplace?",
+      "answer": "Brand Name",
+      "choices": [
+        "Brand",
+        "Branding Strategy",
+        "Purpose",
+        "Brand Name"
+      ],
+      "reference": "Branding",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is the customers' over-all experience of your business?",
+      "answer": "Brand",
+      "choices": [
+        "Brand Name",
+        "Branding Strategy",
+        "Purpose",
+        "Brand"
+      ],
+      "reference": "Branding",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What branding strategy focuses on financial success and value to the stakeholder?",
+      "answer": "Purpose",
+      "choices": [
+        "Consistency",
+        "Emotion",
+        "Flexibility",
+        "Purpose"
+      ],
+      "reference": "Branding",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is the significance of avoiding things that don't relate to or improve your brand?",
+      "answer": "Consistency",
+      "choices": [
+        "Purpose",
+        "Emotion",
+        "Flexibility",
+        "Consistency"
+      ],
+      "reference": "Branding",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What branding strategy allows the customers have a chance to feel that they are part of your brand?",
+      "answer": "Emotion",
+      "choices": [
+        "Purpose",
+        "Consistency",
+        "Flexibility",
+        "Emotion"
+      ],
+      "reference": "Brand",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What branding strategy allows you to adjust and differentiate your approach from your competition?",
+      "answer": "Flexibility",
+      "choices": [
+        "Purpose",
+        "Consistency",
+        "Emotion",
+        "Flexibility"
+      ],
+      "reference": "Branding",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is equally important for your employees to be well versed in how they communicate with customers and represent the brand of your product?",
+      "answer": "Employee Involvement",
+      "choices": [
+        "Loyalty",
+        "Competitive Awareness",
+        "Flexibility",
+        "Employee Involvement"
+      ],
+      "reference": "Branding",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is an important part of brand strategy that sets the tone for what potential customers can expect?",
+      "answer": "Loyalty",
+      "choices": [
+        "Employee Involvement",
+        "Competitive Awareness",
+        "Flexibility",
+        "Loyalty"
+      ],
+      "reference": "Branding",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What should you not be frightened of and instead take as a challenge to improve your branding strategy?",
+      "answer": "Competitive Awareness",
+      "choices": [
+        "Employee Involvement",
+        "Loyalty",
+        "Flexibility",
+        "Competitive Awareness"
+      ],
+      "reference": "Branding",
+      "term": "First Quarter"
+    }
+  ]
+}

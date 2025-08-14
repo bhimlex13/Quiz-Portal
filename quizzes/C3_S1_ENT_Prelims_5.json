@@ -1,0 +1,280 @@
+{
+  "quizInfo": {
+    "Subject": "Entrepreneur",
+    "Term": "First Quarter",
+    "Title": "Week-5",
+    "LastModified": "14 August 2025",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "Week-5"
+    ]
+  },
+"quizData": [
+    {
+      "question": "What is a set of controllable and connected variables that a company gathers to satisfy a customer better than its competitor?",
+      "answer": "Marketing Mix",
+      "choices": [
+        "Product",
+        "Price",
+        "Place",
+        "Marketing Mix"
+      ],
+      "reference": "The 7Ps of Marketing",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What refers to any goods or services that are produced to meet the consumers' wants, tastes and preferences?",
+      "answer": "Product",
+      "choices": [
+        "Place",
+        "Price",
+        "Promotion",
+        "Product"
+      ],
+      "reference": "The 7Ps of Marketing",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What represents the location where the buyer and seller exchange goods or services?",
+      "answer": "Place",
+      "choices": [
+        "Product",
+        "Price",
+        "Promotion",
+        "Place"
+      ],
+      "reference": "The 7Ps of Marketing",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is another name for the location where the buyer and seller exchange goods or services?",
+      "answer": "Distribution channel",
+      "choices": [
+        "Product",
+        "Price",
+        "Promotion",
+        "Distribution channel"
+      ],
+      "reference": "The 7Ps of Marketing",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What typically buys and stores large quantities of several producers' goods and then breaks into bulk deliveries to supply retailers with smaller quantities?",
+      "answer": "Wholesaler",
+      "choices": [
+        "Retailer",
+        "Producer",
+        "Consumer",
+        "Wholesaler"
+      ],
+      "reference": "The 7Ps of Marketing",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is a company that buys products from a manufacturer or wholesaler and sells them to end users or customers?",
+      "answer": "Retailer",
+      "choices": [
+        "Wholesaler",
+        "Producer",
+        "Consumer",
+        "Retailer"
+      ],
+      "reference": "The 7Ps of Marketing",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is another name for a channel that has no intermediary levels?",
+      "answer": "Direct-marketing channel",
+      "choices": [
+        "Wholesaler",
+        "Retailer",
+        "Producer",
+        "Direct-marketing channel"
+      ],
+      "reference": "The 7Ps of Marketing",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is the value of money in exchange for a product or service?",
+      "answer": "Price",
+      "choices": [
+        "Product",
+        "Place",
+        "Promotion",
+        "Price"
+      ],
+      "reference": "The 7Ps of Marketing",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What pricing strategy is used by businesses to attract customers to a new product or service by offering a lower price during its initial offering?",
+      "answer": "Penetration Pricing",
+      "choices": [
+        "Skimming Pricing",
+        "Cost-Plus Pricing",
+        "Value-Based Pricing",
+        "Penetration Pricing"
+      ],
+      "reference": "The 7Ps of Marketing",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What refers to the complete set of activities, which communicate the product, brand or service to the user?",
+      "answer": "Promotion",
+      "choices": [
+        "Product",
+        "Place",
+        "Price",
+        "Promotion"
+      ],
+      "reference": "The 7Ps of Marketing",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What consists of each person who is involved in the product or service whether directly or indirectly?",
+      "answer": "People",
+      "choices": [
+        "Product",
+        "Place",
+        "Price",
+        "People"
+      ],
+      "reference": "The 7Ps of Marketing",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What refers to the outside appearance of a product and how it is presented to the customers?",
+      "answer": "Packaging",
+      "choices": [
+        "Product",
+        "Place",
+        "Price",
+        "Packaging"
+      ],
+      "reference": "The 7Ps of Marketing",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What refers to a process used by marketers to create an image in the minds of a target market?",
+      "answer": "Positioning",
+      "choices": [
+        "Promotion",
+        "Packaging",
+        "People",
+        "Positioning"
+      ],
+      "reference": "The 7Ps of Marketing",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is a name, symbol, or other feature that distinguishes a seller's goods or services in the marketplace?",
+      "answer": "Brand Name",
+      "choices": [
+        "Brand",
+        "Branding Strategy",
+        "Purpose",
+        "Brand Name"
+      ],
+      "reference": "Branding",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is the customers' over-all experience of your business?",
+      "answer": "Brand",
+      "choices": [
+        "Brand Name",
+        "Branding Strategy",
+        "Purpose",
+        "Brand"
+      ],
+      "reference": "Branding",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What branding strategy focuses on financial success and value to the stakeholder?",
+      "answer": "Purpose",
+      "choices": [
+        "Consistency",
+        "Emotion",
+        "Flexibility",
+        "Purpose"
+      ],
+      "reference": "Branding",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is the significance of avoiding things that don't relate to or improve your brand?",
+      "answer": "Consistency",
+      "choices": [
+        "Purpose",
+        "Emotion",
+        "Flexibility",
+        "Consistency"
+      ],
+      "reference": "Branding",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What branding strategy allows the customers have a chance to feel that they are part of your brand?",
+      "answer": "Emotion",
+      "choices": [
+        "Purpose",
+        "Consistency",
+        "Flexibility",
+        "Emotion"
+      ],
+      "reference": "Brand",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What branding strategy allows you to adjust and differentiate your approach from your competition?",
+      "answer": "Flexibility",
+      "choices": [
+        "Purpose",
+        "Consistency",
+        "Emotion",
+        "Flexibility"
+      ],
+      "reference": "Branding",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is equally important for your employees to be well versed in how they communicate with customers and represent the brand of your product?",
+      "answer": "Employee Involvement",
+      "choices": [
+        "Loyalty",
+        "Competitive Awareness",
+        "Flexibility",
+        "Employee Involvement"
+      ],
+      "reference": "Branding",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What is an important part of brand strategy that sets the tone for what potential customers can expect?",
+      "answer": "Loyalty",
+      "choices": [
+        "Employee Involvement",
+        "Competitive Awareness",
+        "Flexibility",
+        "Loyalty"
+      ],
+      "reference": "Branding",
+      "term": "First Quarter"
+    },
+    {
+      "question": "What should you not be frightened of and instead take as a challenge to improve your branding strategy?",
+      "answer": "Competitive Awareness",
+      "choices": [
+        "Employee Involvement",
+        "Loyalty",
+        "Flexibility",
+        "Competitive Awareness"
+      ],
+      "reference": "Branding",
+      "term": "First Quarter"
+    }
+  ]
+}
