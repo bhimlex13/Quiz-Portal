@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Excel to JSON Converter</title>
+    <link rel="icon" type="image/x-icon" href="Assets/Icons/Logo.png">
+    <link rel="stylesheet" href="Scripts/SAP_Main.css">
+</head>
+
+<body>
+    <script src="https://elmerf5445.github.io/ERUMA-UI/Scripts/Javascript/App_Javascript_ERUMAUI.js"></script>
+    <script src="https://elmerf5445.github.io/ERUMA-UI/Scripts/Javascript/App_Javascript_ERUMAUI_Core.js"></script>
+    <div class="Page_Content">
+        <div class="MenuBar" State="Collapsed" id="Sidebar">
+          <div class="MenuBar_List">
+            <button class="MenuBar_List_Item" onclick="Page_ChangePage('index.html')">
+              <img class='MenuBar_List_Item_Icon' src='Assets/Icons/Home.png' draggable='false' loading='lazy' />
+              <span class="MenuBar_List_Item_Indicator">
+              </span>
+              <p class="MenuBar_List_Item_Text">
+                Home
+              </p>
+            </button>
+            <button class="MenuBar_List_Item" onclick="Page_ChangePage('about.html')">
+              <img class='MenuBar_List_Item_Icon' src='Assets/Icons/About_1.png' draggable='false' loading='lazy' />
+              <span class="MenuBar_List_Item_Indicator">
+              </span>
+              <p class="MenuBar_List_Item_Text">
+                About
+              </p>
+            </button>
+          </div>
+        </div>
+        <div class="Page_Content_Main" id="Content">
+            <div class="FC_Title">
+                <h1>Excel to JSON Converter</h1>
+            </div>        
+            <div class="FC">
+                <div class="FC_Controls">
+                    <button class="General_Button">
+                        <label for="fileInput">Choose Excel File</label>
+                    </button>
+                    <input class="FC_Controls_Input" style="display: none" type="file" id="fileInput" accept=".xls, .xlsx" onchange="displayFileName()">
+                    <button onclick="convertToJSON()" class="General_Button">Convert to JSON</button>
+                    <button id="copyButton" class="General_Button" onclick="copyToClipboard()">Copy</button>
+                    <h3 class="General_Title">
+                        Include:
+                    </h3>
+                    <label><input type="checkbox" id="questionCheckbox" checked>Question</label>
+                    <label><input type="checkbox" id="correctAnswerCheckbox" checked>Correct Answer</label>
+                    <label><input type="checkbox" id="choicesCheckbox" checked>Choices</label>
+                    <label><input type="checkbox" id="referenceCheckbox" checked>Reference</label>
+                    <label><input type="checkbox" id="termCheckbox" checked>Term</label>
+                    <label><input type="checkbox" id="statusCheckbox" unchecked>Status</label>
+                </div>
+                <div class="FC_Output">
+                    <div class="FC_Output_Status">
+                        <div id="fileLabel"></div>
+                        <div id="copyMessage" style="display: none;">Data copied successfully!</div>
+                    </div>
+                    <div class="FC_Output_Container">
+                        <div id="jsonOutputContainer">
+                            <pre id="jsonOutput"></pre>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <script>
+        
+function convertToJSON() {
+    const fileInput = document.getElementById('fileInput');
+    const file = fileInput.files[0];
+    const reader = new FileReader();
+
+    reader.onload = function (e) {
+        const data = new Uint8Array(e.target.result);
+        const workbook = XLSX.read(data, { type: 'array' });
+
+        // Assuming the first sheet is the one you want to convert
+        const sheetName = workbook.SheetNames[0];
+        const sheet = workbook.Sheets[sheetName];
+
+        // Convert sheet to JSON
+        const jsonData = XLSX.utils.sheet_to_json(sheet, { header: 1 });
+
+        // Define an array to store the converted data
+        const convertedData = [];
+
+        // Iterate through each row of the JSON data
+        for (let i = 1; i < jsonData.length; i++) {
+            const row = jsonData[i];
+
+            // Check if the row is empty
+            if (row.every(cell => cell === null || cell === undefined || cell === '')) {
+                continue; // Skip empty rows
+            }
+
+            // Preprocess answer and choices
+            const preprocessedRow = row.map(cell => {
+                if (typeof cell === 'string') {
+                    return cell.replace(/\b(TRUE|FALSE)\b/g, '$1 ');
+                }
+                return cell;
+            });
+
+            // Extract data based on checkbox selection
+            const convertedRow = {};
+            if (document.getElementById('questionCheckbox').checked) {
+                convertedRow["question"] = preprocessedRow[0];
+            }
+            if (document.getElementById('correctAnswerCheckbox').checked) {
+                convertedRow["answer"] = preprocessedRow[1];
+            }
+            if (document.getElementById('choicesCheckbox').checked) {
+                const choices = [];
+                for (let j = 2; j < 6; j++) {
+                    if (preprocessedRow[j]) {
+                        choices.push(preprocessedRow[j]);
+                    }
+                }
+                convertedRow["choices"] = choices;
+            }
+            if (document.getElementById('referenceCheckbox').checked) {
+                convertedRow["reference"] = preprocessedRow[6];
+            }
+            if (document.getElementById('termCheckbox').checked) {
+                convertedRow["term"] = preprocessedRow[7];
+            }
+            if (document.getElementById('statusCheckbox').checked) {
+                convertedRow["status"] = preprocessedRow[8];
+            }
+
+            // Push the converted row to the array
+            convertedData.push(convertedRow);
+        }
+
+        // Display JSON data
+        document.getElementById('jsonOutput').innerText = JSON.stringify(convertedData, null, 2);
+    };
+
+    reader.readAsArrayBuffer(file);
+}
+        function displayFileName() {
+            const fileLabel = document.getElementById('fileLabel');
+            const fileInput = document.getElementById('fileInput');
+            fileLabel.innerText = "Filename: " + fileInput.files[0].name;
+        }
+
+        function copyToClipboard() {
+            const jsonOutput = document.getElementById('jsonOutput');
+            if (!jsonOutput.innerText.trim()) {
+                // Display message indicating no data to copy
+                const copyMessage = document.getElementById('copyMessage');
+                copyMessage.innerText = 'No data to copy. Please convert an Excel file first.';
+                copyMessage.style.color = 'red';
+                copyMessage.style.display = 'block';
+                setTimeout(function () {
+                    copyMessage.style.display = 'none';
+                }, 2000); // Hide the message after 2 seconds
+                return;
+            }
+
+            const textArea = document.createElement('textarea');
+            textArea.value = jsonOutput.innerText;
+            document.body.appendChild(textArea);
+            textArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(textArea);
+
+            // Display success message
+            const copyMessage = document.getElementById('copyMessage');
+            copyMessage.innerText = 'Data copied successfully!';
+            copyMessage.style.color = 'green';
+            copyMessage.style.display = 'block';
+            setTimeout(function () {
+                copyMessage.style.display = 'none';
+            }, 2000); // Hide the message after 2 seconds
+        }
+
+
+    </script>
+    <!-- Include the XLSX library -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.1/xlsx.full.min.js"></script>
+</body>
+
+</html>
