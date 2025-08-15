@@ -1,0 +1,668 @@
+{
+  "quizInfo": {
+    "Subject": "21st Century Literature",
+    "Term": "First Quarter",
+    "Title": "21st Reviewer Pro Max",
+    "LastModified": "15 August 2025",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "FIGURE-OF-SPEECH-Simile-and-Metaphor.pptx.pdf",
+      "21ST-REVIEWER-WEEK1.docx.pdf",
+      "W4-PROMDIMANILA.pptx.pdf",
+      "2.1-FIVE-BROTHERS-ONE-MOTHER (1).pptx.pdf",
+      "2-ELEMENTS-OF-THE-STORY.pptx.pdf"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "What is 'a word or phrase used in a different way from its usual meaning in order to create a particular mental picture or effect'?",
+      "answer": "Figure of Speech",
+      "choices": [
+        "Simile",
+        "Metaphor",
+        "Figure of Speech",
+        "Comparison"
+      ],
+      "reference": "FIGURE-OF-SPEECH-Simile-and-Metaphor.pptx.pdf",
+      "term": "Figures of Speech"
+    },
+    {
+      "question": "What is 'an expression that uses words to mean something different from their ordinary meaning'?",
+      "answer": "Figure of Speech",
+      "choices": [
+        "Metaphor",
+        "Figure of Speech",
+        "Simile",
+        "Comparison"
+      ],
+      "reference": "FIGURE-OF-SPEECH-Simile-and-Metaphor.pptx.pdf",
+      "term": "Figures of Speech"
+    },
+    {
+      "question": "What is 'a figure of speech involving the comparison of one thing with another thing of a different kind'?",
+      "answer": "Simile",
+      "choices": [
+        "Simile",
+        "Figure of Speech",
+        "Metaphor",
+        "Comparison"
+      ],
+      "reference": "FIGURE-OF-SPEECH-Simile-and-Metaphor.pptx.pdf",
+      "term": "Figures of Speech"
+    },
+    {
+      "question": "What is 'used to make a description more emphatic or vivid, with the use of \"like or as\"'?",
+      "answer": "Simile",
+      "choices": [
+        "Figure of Speech",
+        "Simile",
+        "Metaphor",
+        "Comparison"
+      ],
+      "reference": "FIGURE-OF-SPEECH-Simile-and-Metaphor.pptx.pdf",
+      "term": "Figures of Speech"
+    },
+    {
+      "question": "What is a figure of speech that 'describes an object or action in a way that isn't literally true but helps explain an idea or make a comparison'?",
+      "answer": "Metaphor",
+      "choices": [
+        "Figure of Speech",
+        "Simile",
+        "Metaphor",
+        "Comparison"
+      ],
+      "reference": "FIGURE-OF-SPEECH-Simile-and-Metaphor.pptx.pdf",
+      "term": "Figures of Speech"
+    },
+    {
+      "question": "What came from the Latin word 'literatura' which means 'writing formed with letters'?",
+      "answer": "Literature",
+      "choices": [
+        "Fiction",
+        "Non-Fiction",
+        "Literature",
+        "Prose"
+      ],
+      "reference": "21ST-REVIEWER-WEEK1.docx.pdf",
+      "term": "Literature Basics"
+    },
+    {
+      "question": "What refers to artistic writings worthy of being remembered?",
+      "answer": "Literature",
+      "choices": [
+        "Prose",
+        "Fiction",
+        "Literature",
+        "Non-Fiction"
+      ],
+      "reference": "21ST-REVIEWER-WEEK1.docx.pdf",
+      "term": "Literature Basics"
+    },
+    {
+      "question": "What is it where the authors make up the entire story, they can choose to include information in a made-up story?",
+      "answer": "Fiction",
+      "choices": [
+        "Non-Fiction",
+        "Prose",
+        "Fiction",
+        "Literature"
+      ],
+      "reference": "21ST-REVIEWER-WEEK1.docx.pdf",
+      "term": "Branches of Literature"
+    },
+    {
+      "question": "What is also called 'informational materials', this type of literature provides information that is factual?",
+      "answer": "Non-Fiction",
+      "choices": [
+        "Fiction",
+        "Non-Fiction",
+        "Prose",
+        "Literature"
+      ],
+      "reference": "21ST-REVIEWER-WEEK1.docx.pdf",
+      "term": "Branches of Literature"
+    },
+    {
+      "question": "What is a form of language which implies ordinary grammatical structure and natural flow of speech rather than rhythmic structure?",
+      "answer": "Prose",
+      "choices": [
+        "Literature",
+        "Non-Fiction",
+        "Fiction",
+        "Prose"
+      ],
+      "reference": "21ST-REVIEWER-WEEK1.docx.pdf",
+      "term": "Types of Literature"
+    },
+    {
+      "question": "What is a fictitious prose narrative of book length, typically representing character and action with some degree of realism?",
+      "answer": "Novel",
+      "choices": [
+        "Short Story",
+        "Play",
+        "Novel",
+        "Essay"
+      ],
+      "reference": "21ST-REVIEWER-WEEK1.docx.pdf",
+      "term": "Types of Prose"
+    },
+    {
+      "question": "What is a story with a fully developed theme but significantly shorter and less elaborate than a novel?",
+      "answer": "Short Story",
+      "choices": [
+        "Novel",
+        "Short Story",
+        "Play",
+        "Legend"
+      ],
+      "reference": "21ST-REVIEWER-WEEK1.docx.pdf",
+      "term": "Types of Prose"
+    },
+    {
+      "question": "What is a work of drama, usually consisting mostly of dialogue between characters and intended for theatrical performance rather than just reading?",
+      "answer": "Plays",
+      "choices": [
+        "Novel",
+        "Fable",
+        "Plays",
+        "Short Story"
+      ],
+      "reference": "21ST-REVIEWER-WEEK1.docx.pdf",
+      "term": "Types of Prose"
+    },
+    {
+      "question": "What is a short piece of writing on a particular subject?",
+      "answer": "Essay",
+      "choices": [
+        "Essay",
+        "Biography",
+        "Anecdote",
+        "Myth"
+      ],
+      "reference": "21ST-REVIEWER-WEEK1.docx.pdf",
+      "term": "Types of Prose"
+    },
+    {
+      "question": "What is a traditional story sometimes popularly regarded as historical but unauthenticated?",
+      "answer": "Legends",
+      "choices": [
+        "Fables",
+        "Myth",
+        "Legends",
+        "Anecdotes"
+      ],
+      "reference": "21ST-REVIEWER-WEEK1.docx.pdf",
+      "term": "Types of Prose"
+    },
+    {
+      "question": "What is a short story, typically with animals as characters, conveying a moral?",
+      "answer": "Fables",
+      "choices": [
+        "Legends",
+        "Fables",
+        "Myth",
+        "Anecdotes"
+      ],
+      "reference": "21ST-REVIEWER-WEEK1.docx.pdf",
+      "term": "Types of Prose"
+    },
+    {
+      "question": "What is a short amusing or interesting story about a real incident or person?",
+      "answer": "Anecdotes",
+      "choices": [
+        "Myth",
+        "Fables",
+        "Legends",
+        "Anecdotes"
+      ],
+      "reference": "21ST-REVIEWER-WEEK1.docx.pdf",
+      "term": "Types of Prose"
+    },
+    {
+      "question": "What is a traditional story, especially one concerning the early history of a people or explaining some natural or social phenomenon and typically involving supernatural beings or events?",
+      "answer": "Myth",
+      "choices": [
+        "Myth",
+        "Fables",
+        "Legends",
+        "Anecdotes"
+      ],
+      "reference": "21ST-REVIEWER-WEEK1.docx.pdf",
+      "term": "Types of Prose"
+    },
+    {
+      "question": "What is an account of someone's life written by someone else?",
+      "answer": "Biography",
+      "choices": [
+        "News",
+        "Essay",
+        "Biography",
+        "Novel"
+      ],
+      "reference": "21ST-REVIEWER-WEEK1.docx.pdf",
+      "term": "Types of Prose"
+    },
+    {
+      "question": "What is newly received or noteworthy information, especially about recent or important events?",
+      "answer": "News",
+      "choices": [
+        "Biography",
+        "Essay",
+        "News",
+        "Short Story"
+      ],
+      "reference": "21ST-REVIEWER-WEEK1.docx.pdf",
+      "term": "Types of Prose"
+    },
+    {
+      "question": "What is the composition of a person or any form in a work of fiction?",
+      "answer": "Character",
+      "choices": [
+        "Dynamic/Round Character",
+        "Flat Character",
+        "Foil Character",
+        "Character"
+      ],
+      "reference": "W4-PROMDIMANILA.pptx.pdf",
+      "term": "Types of Characters"
+    },
+    {
+      "question": "What type of character usually dynamically changes or transforms by the end of the story?",
+      "answer": "Dynamic/Round Character",
+      "choices": [
+        "Flat Character",
+        "Dynamic/Round Character",
+        "Foil Character",
+        "Static Character"
+      ],
+      "reference": "W4-PROMDIMANILA.pptx.pdf",
+      "term": "Types of Characters"
+    },
+    {
+      "question": "What type of character stays the same at the end of the story and is considered static?",
+      "answer": "Flat Character",
+      "choices": [
+        "Dynamic/Round Character",
+        "Flat Character",
+        "Foil Character",
+        "Round Character"
+      ],
+      "reference": "W4-PROMDIMANILA.pptx.pdf",
+      "term": "Types of Characters"
+    },
+    {
+      "question": "What type of character stands in contrast to another character, usually emphasizing a particular attribute of a more prominently characterized figure?",
+      "answer": "Foil Character",
+      "choices": [
+        "Flat Character",
+        "Dynamic/Round Character",
+        "Foil Character",
+        "Main Character"
+      ],
+      "reference": "W4-PROMDIMANILA.pptx.pdf",
+      "term": "Types of Characters"
+    },
+    {
+      "question": "Who is a Filipino poet, novelist, translator and literary scholar in Kinaray-a, Hiligaynon and Filipino?",
+      "answer": "Genevieve L. Asenjo",
+      "choices": [
+        "Marcus Garvey",
+        "Juan C. Laya",
+        "Carlos Palanca",
+        "Genevieve L. Asenjo"
+      ],
+      "reference": "W4-PROMDIMANILA.pptx.pdf",
+      "term": "Author's Background"
+    },
+    {
+      "question": "Whose first novel, Lumbay ng Dila, received a citation for the Juan C. Laya Prize for Excellence in Fiction in a Philippine Language?",
+      "answer": "Genevieve L. Asenjo",
+      "choices": [
+        "Genevieve L. Asenjo",
+        "Marcus Garvey",
+        "Carlos Palanca",
+        "Juan C. Laya"
+      ],
+      "reference": "W4-PROMDIMANILA.pptx.pdf",
+      "term": "Author's Background"
+    },
+    {
+      "question": "Who is the author of \"PROMDI@MANILA\"?",
+      "answer": "Genevieve L. Asenjo",
+      "choices": [
+        "Marcus Garvey",
+        "Genevieve L. Asenjo",
+        "Juan C. Laya",
+        "Carlos Palanca"
+      ],
+      "reference": "W4-PROMDIMANILA.pptx.pdf",
+      "term": "Author's Background"
+    },
+    {
+      "question": "What was named for the large black ants found on the island called \"hantik-hantik\"?",
+      "answer": "Hantik",
+      "choices": [
+        "Antique",
+        "Aklan",
+        "Hantik",
+        "Capiz"
+      ],
+      "reference": "W4-PROMDIMANILA.pptx.pdf",
+      "term": "Setting Background"
+    },
+    {
+      "question": "What is the capital of Antique?",
+      "answer": "San Jose De Buenavista",
+      "choices": [
+        "Pandan Bay",
+        "Belison",
+        "Iloilo",
+        "San Jose De Buenavista"
+      ],
+      "reference": "W4-PROMDIMANILA.pptx.pdf",
+      "term": "Setting Background"
+    },
+    {
+      "question": "What is the language of Antique?",
+      "answer": "Kinaray-A",
+      "choices": [
+        "Hiligaynon",
+        "Filipino",
+        "Kinaray-A",
+        "Hamtic"
+      ],
+      "reference": "W4-PROMDIMANILA.pptx.pdf",
+      "term": "Setting Background"
+    },
+    {
+      "question": "Who has an MA in Creative Writing from UP Diliman?",
+      "answer": "Exie Abola",
+      "choices": [
+        "William J. Bennett",
+        "Carlos Palanca",
+        "Exie Abola",
+        "Alexis Abola"
+      ],
+      "reference": "2.1-FIVE-BROTHERS-ONE-MOTHER (1).pptx.pdf",
+      "term": "Author's Background"
+    },
+    {
+      "question": "Who currently teaches at the English Department at the Ateneo de Manila?",
+      "answer": "Exie Abola",
+      "choices": [
+        "William J. Bennett",
+        "Exie Abola",
+        "Carlos Palanca",
+        "Alexis Abola"
+      ],
+      "reference": "2.1-FIVE-BROTHERS-ONE-MOTHER (1).pptx.pdf",
+      "term": "Author's Background"
+    },
+    {
+      "question": "What is known as \"The Shoe Capital of the Philippines\"?",
+      "answer": "Marikina City",
+      "choices": [
+        "Metro Manila",
+        "Rizal",
+        "Marikina City",
+        "Bulacan"
+      ],
+      "reference": "2.1-FIVE-BROTHERS-ONE-MOTHER (1).pptx.pdf",
+      "term": "Setting"
+    },
+    {
+      "question": "Where did the story \"Five Brothers, One Mother\" take place?",
+      "answer": "Marikina City",
+      "choices": [
+        "Metro Manila",
+        "Marikina City",
+        "Rizal",
+        "Bulacan"
+      ],
+      "reference": "2.1-FIVE-BROTHERS-ONE-MOTHER (1).pptx.pdf",
+      "term": "Setting"
+    },
+    {
+      "question": "What conflict is presented because they can't sleep without electricity and the mosquito was biting them?",
+      "answer": "Man vs. Nature",
+      "choices": [
+        "Man vs. Self",
+        "Man vs. Nature",
+        "Man vs. Society",
+        "Man vs. Man"
+      ],
+      "reference": "2.1-FIVE-BROTHERS-ONE-MOTHER (1).pptx.pdf",
+      "term": "Plot Elements"
+    },
+    {
+      "question": "What conflict is presented because their mother start to get lonely as they grow up?",
+      "answer": "Man vs. Self",
+      "choices": [
+        "Man vs. Nature",
+        "Man vs. Man",
+        "Man vs. Self",
+        "Man vs. Society"
+      ],
+      "reference": "2.1-FIVE-BROTHERS-ONE-MOTHER (1).pptx.pdf",
+      "term": "Plot Elements"
+    },
+    {
+      "question": "What is the theme of the story \"Five Brothers, One Mother\"?",
+      "answer": "Mother's Love",
+      "choices": [
+        "Sibling Rivalry",
+        "Mother's Love",
+        "Family Conflict",
+        "Growing Up"
+      ],
+      "reference": "2.1-FIVE-BROTHERS-ONE-MOTHER (1).pptx.pdf",
+      "term": "Literary Analysis"
+    },
+    {
+      "question": "What is the person or even non human creature in a work of fiction?",
+      "answer": "Character/s",
+      "choices": [
+        "Protagonist",
+        "Antagonist",
+        "Character/s",
+        "Setting"
+      ],
+      "reference": "2-ELEMENTS-OF-THE-STORY.pptx.pdf",
+      "term": "Elements of the Story"
+    },
+    {
+      "question": "What are the characteristics of a person or any form?",
+      "answer": "Character/s",
+      "choices": [
+        "Protagonist",
+        "Antagonist",
+        "Character/s",
+        "Setting"
+      ],
+      "reference": "2-ELEMENTS-OF-THE-STORY.pptx.pdf",
+      "term": "Elements of the Story"
+    },
+    {
+      "question": "What is the main character of the story?",
+      "answer": "Protagonist",
+      "choices": [
+        "Antagonist",
+        "Protagonist",
+        "Foil Character",
+        "Dynamic Character"
+      ],
+      "reference": "2-ELEMENTS-OF-THE-STORY.pptx.pdf",
+      "term": "Types of Characters"
+    },
+    {
+      "question": "What opposes the main character?",
+      "answer": "Antagonist",
+      "choices": [
+        "Protagonist",
+        "Foil Character",
+        "Antagonist",
+        "Flat Character"
+      ],
+      "reference": "2-ELEMENTS-OF-THE-STORY.pptx.pdf",
+      "term": "Types of Characters"
+    },
+    {
+      "question": "What are the characters that normally do not undergo changes throughout the story?",
+      "answer": "Static or flat characters",
+      "choices": [
+        "Dynamic characters",
+        "Foil characters",
+        "Static or flat characters",
+        "Protagonist"
+      ],
+      "reference": "2-ELEMENTS-OF-THE-STORY.pptx.pdf",
+      "term": "Types of Characters"
+    },
+    {
+      "question": "What are the characters that are capable of undergoing changes?",
+      "answer": "Dynamic characters",
+      "choices": [
+        "Static or flat characters",
+        "Dynamic characters",
+        "Foil characters",
+        "Antagonist"
+      ],
+      "reference": "2-ELEMENTS-OF-THE-STORY.pptx.pdf",
+      "term": "Types of Characters"
+    },
+    {
+      "question": "What stands in contrast with another character, usually the main characters - to highlight the protagonist's personality and qualities?",
+      "answer": "Foil characters",
+      "choices": [
+        "Static or flat characters",
+        "Dynamic characters",
+        "Foil characters",
+        "Antagonist"
+      ],
+      "reference": "2-ELEMENTS-OF-THE-STORY.pptx.pdf",
+      "term": "Types of Characters"
+    },
+    {
+      "question": "What is the location of the plot, including the region, geography, climate, neighborhood, and interiors?",
+      "answer": "Setting",
+      "choices": [
+        "Plot",
+        "Climax",
+        "Setting",
+        "Theme"
+      ],
+      "reference": "2-ELEMENTS-OF-THE-STORY.pptx.pdf",
+      "term": "Elements of the Story"
+    },
+    {
+      "question": "What is the organized pattern or sequence of events that make up a story?",
+      "answer": "Plot",
+      "choices": [
+        "Setting",
+        "Plot",
+        "Theme",
+        "Climax"
+      ],
+      "reference": "2-ELEMENTS-OF-THE-STORY.pptx.pdf",
+      "term": "Elements of the Story"
+    },
+    {
+      "question": "What is the literary element that describes the structure of a story?",
+      "answer": "Plot",
+      "choices": [
+        "Setting",
+        "Theme",
+        "Climax",
+        "Plot"
+      ],
+      "reference": "2-ELEMENTS-OF-THE-STORY.pptx.pdf",
+      "term": "Elements of the Story"
+    },
+    {
+      "question": "What is the introduction to a story?",
+      "answer": "Exposition",
+      "choices": [
+        "Conflict",
+        "Climax",
+        "Exposition",
+        "Resolution"
+      ],
+      "reference": "2-ELEMENTS-OF-THE-STORY.pptx.pdf",
+      "term": "Plot Structure"
+    },
+    {
+      "question": "What is essential to the plot because if there's no conflict there would be no plot?",
+      "answer": "Conflict",
+      "choices": [
+        "Exposition",
+        "Conflict",
+        "Climax",
+        "Ending"
+      ],
+      "reference": "2-ELEMENTS-OF-THE-STORY.pptx.pdf",
+      "term": "Plot Structure"
+    },
+    {
+      "question": "What is the struggle between two or more opposing forces which is the center of the plot?",
+      "answer": "Conflict",
+      "choices": [
+        "Exposition",
+        "Climax",
+        "Conflict",
+        "Resolution"
+      ],
+      "reference": "2-ELEMENTS-OF-THE-STORY.pptx.pdf",
+      "term": "Plot Structure"
+    },
+    {
+      "question": "What is the point in the narrative where tension, excitement, or stakes reach the highest point?",
+      "answer": "Climax",
+      "choices": [
+        "Conflict",
+        "Resolution",
+        "Climax",
+        "Exposition"
+      ],
+      "reference": "2-ELEMENTS-OF-THE-STORY.pptx.pdf",
+      "term": "Plot Structure"
+    },
+    {
+      "question": "What is the part of the story's plot structure where the conflict is RESOLVED?",
+      "answer": "Resolution",
+      "choices": [
+        "Climax",
+        "Resolution",
+        "Exposition",
+        "Conflict"
+      ],
+      "reference": "2-ELEMENTS-OF-THE-STORY.pptx.pdf",
+      "term": "Plot Structure"
+    },
+    {
+      "question": "What refers to the main idea of a story it conveys to its readers?",
+      "answer": "Theme",
+      "choices": [
+        "Moral of the story",
+        "Plot",
+        "Theme",
+        "Setting"
+      ],
+      "reference": "2-ELEMENTS-OF-THE-STORY.pptx.pdf",
+      "term": "Elements of the Story"
+    },
+    {
+      "question": "What is the message, lesson, or insight that a story wants to tell to the reader?",
+      "answer": "Moral of the story",
+      "choices": [
+        "Theme",
+        "Plot",
+        "Moral of the story",
+        "Setting"
+      ],
+      "reference": "2-ELEMENTS-OF-THE-STORY.pptx.pdf",
+      "term": "Elements of the Story"
+    }
+  ]
+}

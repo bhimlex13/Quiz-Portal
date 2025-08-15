@@ -1,0 +1,100 @@
+{
+  "quizInfo": {
+    "Subject": "21st Century Literature",
+    "Term": "First Quarter",
+    "Title": "Five Brothers, One Mother by Exie Abola",
+    "LastModified": "15 August 2025",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "2.1-FIVE-BROTHERS-ONE-MOTHER (1).pptx.pdf"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "Who has an MA in Creative Writing from UP Diliman?",
+      "answer": "Exie Abola",
+      "choices": [
+        "William J. Bennett",
+        "Carlos Palanca",
+        "Exie Abola",
+        "Alexis Abola"
+      ],
+      "reference": "2.1-FIVE-BROTHERS-ONE-MOTHER (1).pptx.pdf",
+      "term": "Author's Background"
+    },
+    {
+      "question": "Who currently teaches at the English Department at the Ateneo de Manila?",
+      "answer": "Exie Abola",
+      "choices": [
+        "William J. Bennett",
+        "Exie Abola",
+        "Carlos Palanca",
+        "Alexis Abola"
+      ],
+      "reference": "2.1-FIVE-BROTHERS-ONE-MOTHER (1).pptx.pdf",
+      "term": "Author's Background"
+    },
+    {
+      "question": "What is known as \"The Shoe Capital of the Philippines\"?",
+      "answer": "Marikina City",
+      "choices": [
+        "Metro Manila",
+        "Rizal",
+        "Marikina City",
+        "Bulacan"
+      ],
+      "reference": "2.1-FIVE-BROTHERS-ONE-MOTHER (1).pptx.pdf",
+      "term": "Setting"
+    },
+    {
+      "question": "Where did the story \"Five Brothers, One Mother\" take place?",
+      "answer": "Marikina City",
+      "choices": [
+        "Metro Manila",
+        "Marikina City",
+        "Rizal",
+        "Bulacan"
+      ],
+      "reference": "2.1-FIVE-BROTHERS-ONE-MOTHER (1).pptx.pdf",
+      "term": "Setting"
+    },
+    {
+      "question": "What conflict is presented because they can't sleep without electricity and the mosquito was biting them?",
+      "answer": "Man vs. Nature",
+      "choices": [
+        "Man vs. Self",
+        "Man vs. Nature",
+        "Man vs. Society",
+        "Man vs. Man"
+      ],
+      "reference": "2.1-FIVE-BROTHERS-ONE-MOTHER (1).pptx.pdf",
+      "term": "Plot Elements"
+    },
+    {
+      "question": "What conflict is presented because their mother start to get lonely as they grow up?",
+      "answer": "Man vs. Self",
+      "choices": [
+        "Man vs. Nature",
+        "Man vs. Man",
+        "Man vs. Self",
+        "Man vs. Society"
+      ],
+      "reference": "2.1-FIVE-BROTHERS-ONE-MOTHER (1).pptx.pdf",
+      "term": "Plot Elements"
+    },
+    {
+      "question": "What is the theme of the story \"Five Brothers, One Mother\"?",
+      "answer": "Mother's Love",
+      "choices": [
+        "Sibling Rivalry",
+        "Mother's Love",
+        "Family Conflict",
+        "Growing Up"
+      ],
+      "reference": "2.1-FIVE-BROTHERS-ONE-MOTHER (1).pptx.pdf",
+      "term": "Literary Analysis"
+    }
+  ]
+}

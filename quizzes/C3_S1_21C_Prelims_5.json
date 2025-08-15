@@ -1,0 +1,220 @@
+{
+  "quizInfo": {
+    "Subject": "21st Century Literature",
+    "Term": "First Quarter",
+    "Title": "Elements of the Story",
+    "LastModified": "15 August 2025",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "2-ELEMENTS-OF-THE-STORY.pptx.pdf"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "What is the person or even non human creature in a work of fiction?",
+      "answer": "Character/s",
+      "choices": [
+        "Protagonist",
+        "Antagonist",
+        "Character/s",
+        "Setting"
+      ],
+      "reference": "2-ELEMENTS-OF-THE-STORY.pptx.pdf",
+      "term": "Elements of the Story"
+    },
+    {
+      "question": "What are the characteristics of a person or any form?",
+      "answer": "Character/s",
+      "choices": [
+        "Protagonist",
+        "Antagonist",
+        "Character/s",
+        "Setting"
+      ],
+      "reference": "2-ELEMENTS-OF-THE-STORY.pptx.pdf",
+      "term": "Elements of the Story"
+    },
+    {
+      "question": "What is the main character of the story?",
+      "answer": "Protagonist",
+      "choices": [
+        "Antagonist",
+        "Protagonist",
+        "Foil Character",
+        "Dynamic Character"
+      ],
+      "reference": "2-ELEMENTS-OF-THE-STORY.pptx.pdf",
+      "term": "Types of Characters"
+    },
+    {
+      "question": "What opposes the main character?",
+      "answer": "Antagonist",
+      "choices": [
+        "Protagonist",
+        "Foil Character",
+        "Antagonist",
+        "Flat Character"
+      ],
+      "reference": "2-ELEMENTS-OF-THE-STORY.pptx.pdf",
+      "term": "Types of Characters"
+    },
+    {
+      "question": "What are the characters that normally do not undergo changes throughout the story?",
+      "answer": "Static or flat characters",
+      "choices": [
+        "Dynamic characters",
+        "Foil characters",
+        "Static or flat characters",
+        "Protagonist"
+      ],
+      "reference": "2-ELEMENTS-OF-THE-STORY.pptx.pdf",
+      "term": "Types of Characters"
+    },
+    {
+      "question": "What are the characters that are capable of undergoing changes?",
+      "answer": "Dynamic characters",
+      "choices": [
+        "Static or flat characters",
+        "Dynamic characters",
+        "Foil characters",
+        "Antagonist"
+      ],
+      "reference": "2-ELEMENTS-OF-THE-STORY.pptx.pdf",
+      "term": "Types of Characters"
+    },
+    {
+      "question": "What stands in contrast with another character, usually the main characters - to highlight the protagonist's personality and qualities?",
+      "answer": "Foil characters",
+      "choices": [
+        "Static or flat characters",
+        "Dynamic characters",
+        "Foil characters",
+        "Antagonist"
+      ],
+      "reference": "2-ELEMENTS-OF-THE-STORY.pptx.pdf",
+      "term": "Types of Characters"
+    },
+    {
+      "question": "What is the location of the plot, including the region, geography, climate, neighborhood, and interiors?",
+      "answer": "Setting",
+      "choices": [
+        "Plot",
+        "Climax",
+        "Setting",
+        "Theme"
+      ],
+      "reference": "2-ELEMENTS-OF-THE-STORY.pptx.pdf",
+      "term": "Elements of the Story"
+    },
+    {
+      "question": "What is the organized pattern or sequence of events that make up a story?",
+      "answer": "Plot",
+      "choices": [
+        "Setting",
+        "Plot",
+        "Theme",
+        "Climax"
+      ],
+      "reference": "2-ELEMENTS-OF-THE-STORY.pptx.pdf",
+      "term": "Elements of the Story"
+    },
+    {
+      "question": "What is the literary element that describes the structure of a story?",
+      "answer": "Plot",
+      "choices": [
+        "Setting",
+        "Theme",
+        "Climax",
+        "Plot"
+      ],
+      "reference": "2-ELEMENTS-OF-THE-STORY.pptx.pdf",
+      "term": "Elements of the Story"
+    },
+    {
+      "question": "What is the introduction to a story?",
+      "answer": "Exposition",
+      "choices": [
+        "Conflict",
+        "Climax",
+        "Exposition",
+        "Resolution"
+      ],
+      "reference": "2-ELEMENTS-OF-THE-STORY.pptx.pdf",
+      "term": "Plot Structure"
+    },
+    {
+      "question": "What is essential to the plot because if there's no conflict there would be no plot?",
+      "answer": "Conflict",
+      "choices": [
+        "Exposition",
+        "Conflict",
+        "Climax",
+        "Ending"
+      ],
+      "reference": "2-ELEMENTS-OF-THE-STORY.pptx.pdf",
+      "term": "Plot Structure"
+    },
+    {
+      "question": "What is the struggle between two or more opposing forces which is the center of the plot?",
+      "answer": "Conflict",
+      "choices": [
+        "Exposition",
+        "Climax",
+        "Conflict",
+        "Resolution"
+      ],
+      "reference": "2-ELEMENTS-OF-THE-STORY.pptx.pdf",
+      "term": "Plot Structure"
+    },
+    {
+      "question": "What is the point in the narrative where tension, excitement, or stakes reach the highest point?",
+      "answer": "Climax",
+      "choices": [
+        "Conflict",
+        "Resolution",
+        "Climax",
+        "Exposition"
+      ],
+      "reference": "2-ELEMENTS-OF-THE-STORY.pptx.pdf",
+      "term": "Plot Structure"
+    },
+    {
+      "question": "What is the part of the story's plot structure where the conflict is RESOLVED?",
+      "answer": "Resolution",
+      "choices": [
+        "Climax",
+        "Resolution",
+        "Exposition",
+        "Conflict"
+      ],
+      "reference": "2-ELEMENTS-OF-THE-STORY.pptx.pdf",
+      "term": "Plot Structure"
+    },
+    {
+      "question": "What refers to the main idea of a story it conveys to its readers?",
+      "answer": "Theme",
+      "choices": [
+        "Moral of the story",
+        "Plot",
+        "Theme",
+        "Setting"
+      ],
+      "reference": "2-ELEMENTS-OF-THE-STORY.pptx.pdf",
+      "term": "Elements of the Story"
+    },
+    {
+      "question": "What is the message, lesson, or insight that a story wants to tell to the reader?",
+      "answer": "Moral of the story",
+      "choices": [
+        "Theme",
+        "Plot",
+        "Moral of the story",
+        "Setting"
+      ],
+      "reference": "2-ELEMENTS-OF-THE-STORY.pptx.pdf",
+      "term": "Elements of the Story"
+    }
+  ]
+}
