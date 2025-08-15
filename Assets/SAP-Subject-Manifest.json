@@ -83,7 +83,7 @@
                 }
             ]
         },
-                {
+        {
             "Subject_ID": "C3_S1_PR1",
             "Subject_Name": "Practical Research 1",
             "Subject_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_GB_Demo.png",
@@ -171,6 +171,56 @@
                                 "Alexander Oro"
                             ],
                             "Subfolder_LastModified": "14 August 2025",
+                            "Subfolder_Status": "Active"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Subject_ID": "C3_S1_21C",
+            "Subject_Name": "21st Century",
+            "Subject_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_CP1_Demo.png",
+            "Subject_Status": "Active",
+            "Subject_Module": [
+                {
+                    "Module_ID": "C3_S1_21C_Prelims",
+                    "Module_Name": "First Quarter",
+                    "Module_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_Prelims_1.png",
+                    "Module_Status": "Active",
+                    "Module_LastModified": "15 August 2025",
+                    "Module_Subfolders": [
+                        {
+                            "Subfolder_ID": "C3_S1_21C_Prelims_1",
+                            "Subfolder_Name": "Figure of Speech",
+                            "Subfolder_Description": "Description of the subfolder here",
+                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_21C_Prelims_1",
+                            "Subfolder_Author": [
+                                "Alexander Oro"
+                            ],
+                            "Subfolder_LastModified": "14 August 2025",
+                            "Subfolder_Status": "Active"
+                        },
+                        {
+                            "Subfolder_ID": "C3_S1_21C_Prelims_2",
+                            "Subfolder_Name": "Week - 1",
+                            "Subfolder_Description": "Description of the subfolder here",
+                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_21C_Prelims_2",
+                            "Subfolder_Author": [
+                                "Alexander Oro"
+                            ],
+                            "Subfolder_LastModified": "15 August 2025",
+                            "Subfolder_Status": "Active"
+                        },
+                                                {
+                            "Subfolder_ID": "C3_S1_21C_Prelims_3",
+                            "Subfolder_Name": "Literary Elements and Characters in PROMDI@MANILA",
+                            "Subfolder_Description": "Description of the subfolder here",
+                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_21C_Prelims_3",
+                            "Subfolder_Author": [
+                                "Alexander Oro"
+                            ],
+                            "Subfolder_LastModified": "15 August 2025",
                             "Subfolder_Status": "Active"
                         }
                     ]

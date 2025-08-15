@@ -1,0 +1,136 @@
+{
+  "quizInfo": {
+    "Subject": "21st Century Literature",
+    "Term": "First Quarter",
+    "Title": "Literary Elements and Characters in PROMDI@MANILA",
+    "LastModified": "15 August 2025",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "W4-PROMDIMANILA.pptx.pdf"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "What is the composition of a person or any form in a work of fiction?",
+      "answer": "Character",
+      "choices": [
+        "Dynamic/Round Character",
+        "Flat Character",
+        "Foil Character",
+        "Character"
+      ],
+      "reference": "W4-PROMDIMANILA.pptx.pdf",
+      "term": "Types of Characters"
+    },
+    {
+      "question": "What type of character usually dynamically changes or transforms by the end of the story?",
+      "answer": "Dynamic/Round Character",
+      "choices": [
+        "Flat Character",
+        "Dynamic/Round Character",
+        "Foil Character",
+        "Static Character"
+      ],
+      "reference": "W4-PROMDIMANILA.pptx.pdf",
+      "term": "Types of Characters"
+    },
+    {
+      "question": "What type of character stays the same at the end of the story and is considered static?",
+      "answer": "Flat Character",
+      "choices": [
+        "Dynamic/Round Character",
+        "Flat Character",
+        "Foil Character",
+        "Round Character"
+      ],
+      "reference": "W4-PROMDIMANILA.pptx.pdf",
+      "term": "Types of Characters"
+    },
+    {
+      "question": "What type of character stands in contrast to another character, usually emphasizing a particular attribute of a more prominently characterized figure?",
+      "answer": "Foil Character",
+      "choices": [
+        "Flat Character",
+        "Dynamic/Round Character",
+        "Foil Character",
+        "Main Character"
+      ],
+      "reference": "W4-PROMDIMANILA.pptx.pdf",
+      "term": "Types of Characters"
+    },
+    {
+      "question": "Who is a Filipino poet, novelist, translator and literary scholar in Kinaray-a, Hiligaynon and Filipino?",
+      "answer": "Genevieve L. Asenjo",
+      "choices": [
+        "Marcus Garvey",
+        "Juan C. Laya",
+        "Carlos Palanca",
+        "Genevieve L. Asenjo"
+      ],
+      "reference": "W4-PROMDIMANILA.pptx.pdf",
+      "term": "Author's Background"
+    },
+    {
+      "question": "Whose first novel, Lumbay ng Dila, received a citation for the Juan C. Laya Prize for Excellence in Fiction in a Philippine Language?",
+      "answer": "Genevieve L. Asenjo",
+      "choices": [
+        "Genevieve L. Asenjo",
+        "Marcus Garvey",
+        "Carlos Palanca",
+        "Juan C. Laya"
+      ],
+      "reference": "W4-PROMDIMANILA.pptx.pdf",
+      "term": "Author's Background"
+    },
+    {
+      "question": "Who is the author of \"PROMDI@MANILA\"?",
+      "answer": "Genevieve L. Asenjo",
+      "choices": [
+        "Marcus Garvey",
+        "Genevieve L. Asenjo",
+        "Juan C. Laya",
+        "Carlos Palanca"
+      ],
+      "reference": "W4-PROMDIMANILA.pptx.pdf",
+      "term": "Author's Background"
+    },
+    {
+      "question": "What was named for the large black ants found on the island called \"hantik-hantik\"?",
+      "answer": "Hantik",
+      "choices": [
+        "Antique",
+        "Aklan",
+        "Hantik",
+        "Capiz"
+      ],
+      "reference": "W4-PROMDIMANILA.pptx.pdf",
+      "term": "Setting Background"
+    },
+    {
+      "question": "What is the capital of Antique?",
+      "answer": "San Jose De Buenavista",
+      "choices": [
+        "Pandan Bay",
+        "Belison",
+        "Iloilo",
+        "San Jose De Buenavista"
+      ],
+      "reference": "W4-PROMDIMANILA.pptx.pdf",
+      "term": "Setting Background"
+    },
+    {
+      "question": "What is the language of Antique?",
+      "answer": "Kinaray-A",
+      "choices": [
+        "Hiligaynon",
+        "Filipino",
+        "Kinaray-A",
+        "Hamtic"
+      ],
+      "reference": "W4-PROMDIMANILA.pptx.pdf",
+      "term": "Setting Background"
+    }
+  ]
+}

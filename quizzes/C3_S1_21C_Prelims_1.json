@@ -1,0 +1,76 @@
+{
+  "quizInfo": {
+    "Subject": "21st Century",
+    "Term": "First Quarter",
+    "Title": "Figure of Speech",
+    "LastModified": "14 August 2025",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "Week-1"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "What is 'a word or phrase used in a different way from its usual meaning in order to create a particular mental picture or effect'?",
+      "answer": "Figure of Speech",
+      "choices": [
+        "Simile",
+        "Metaphor",
+        "Figure of Speech",
+        "Comparison"
+      ],
+      "reference": "FIGURE-OF-SPEECH-Simile-and-Metaphor.pptx.pdf",
+      "term": "Figures of Speech"
+    },
+    {
+      "question": "What is 'an expression that uses words to mean something different from their ordinary meaning'?",
+      "answer": "Figure of Speech",
+      "choices": [
+        "Metaphor",
+        "Figure of Speech",
+        "Simile",
+        "Comparison"
+      ],
+      "reference": "FIGURE-OF-SPEECH-Simile-and-Metaphor.pptx.pdf",
+      "term": "Figures of Speech"
+    },
+    {
+      "question": "What is 'a figure of speech involving the comparison of one thing with another thing of a different kind'?",
+      "answer": "Simile",
+      "choices": [
+        "Simile",
+        "Figure of Speech",
+        "Metaphor",
+        "Comparison"
+      ],
+      "reference": "FIGURE-OF-SPEECH-Simile-and-Metaphor.pptx.pdf",
+      "term": "Figures of Speech"
+    },
+    {
+      "question": "What is 'used to make a description more emphatic or vivid, with the use of \"like or as\"'?",
+      "answer": "Simile",
+      "choices": [
+        "Figure of Speech",
+        "Simile",
+        "Metaphor",
+        "Comparison"
+      ],
+      "reference": "FIGURE-OF-SPEECH-Simile-and-Metaphor.pptx.pdf",
+      "term": "Figures of Speech"
+    },
+    {
+      "question": "What is a figure of speech that 'describes an object or action in a way that isn't literally true but helps explain an idea or make a comparison'?",
+      "answer": "Metaphor",
+      "choices": [
+        "Figure of Speech",
+        "Simile",
+        "Metaphor",
+        "Comparison"
+      ],
+      "reference": "FIGURE-OF-SPEECH-Simile-and-Metaphor.pptx.pdf",
+      "term": "Figures of Speech"
+    }
+  ]
+}

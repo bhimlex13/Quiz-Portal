@@ -1,0 +1,196 @@
+{
+  "quizInfo": {
+    "Subject": "21st Century",
+    "Term": "First Quarter",
+    "Title": "Week-1",
+    "LastModified": "14 August 2025",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "Week-1"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "What came from the Latin word 'literatura' which means 'writing formed with letters'?",
+      "answer": "Literature",
+      "choices": [
+        "Fiction",
+        "Non-Fiction",
+        "Literature",
+        "Prose"
+      ],
+      "reference": "21ST-REVIEWER-WEEK1.docx.pdf",
+      "term": "Literature Basics"
+    },
+    {
+      "question": "What refers to artistic writings worthy of being remembered?",
+      "answer": "Literature",
+      "choices": [
+        "Prose",
+        "Fiction",
+        "Literature",
+        "Non-Fiction"
+      ],
+      "reference": "21ST-REVIEWER-WEEK1.docx.pdf",
+      "term": "Literature Basics"
+    },
+    {
+      "question": "What is it where the authors make up the entire story, they can choose to include information in a made-up story?",
+      "answer": "Fiction",
+      "choices": [
+        "Non-Fiction",
+        "Prose",
+        "Fiction",
+        "Literature"
+      ],
+      "reference": "21ST-REVIEWER-WEEK1.docx.pdf",
+      "term": "Branches of Literature"
+    },
+    {
+      "question": "What is also called 'informational materials', this type of literature provides information that is factual?",
+      "answer": "Non-Fiction",
+      "choices": [
+        "Fiction",
+        "Non-Fiction",
+        "Prose",
+        "Literature"
+      ],
+      "reference": "21ST-REVIEWER-WEEK1.docx.pdf",
+      "term": "Branches of Literature"
+    },
+    {
+      "question": "What is a form of language which implies ordinary grammatical structure and natural flow of speech rather than rhythmic structure?",
+      "answer": "Prose",
+      "choices": [
+        "Literature",
+        "Non-Fiction",
+        "Fiction",
+        "Prose"
+      ],
+      "reference": "21ST-REVIEWER-WEEK1.docx.pdf",
+      "term": "Types of Literature"
+    },
+    {
+      "question": "What is a fictitious prose narrative of book length, typically representing character and action with some degree of realism?",
+      "answer": "Novel",
+      "choices": [
+        "Short Story",
+        "Play",
+        "Novel",
+        "Essay"
+      ],
+      "reference": "21ST-REVIEWER-WEEK1.docx.pdf",
+      "term": "Types of Prose"
+    },
+    {
+      "question": "What is a story with a fully developed theme but significantly shorter and less elaborate than a novel?",
+      "answer": "Short Story",
+      "choices": [
+        "Novel",
+        "Short Story",
+        "Play",
+        "Legend"
+      ],
+      "reference": "21ST-REVIEWER-WEEK1.docx.pdf",
+      "term": "Types of Prose"
+    },
+    {
+      "question": "What is a work of drama, usually consisting mostly of dialogue between characters and intended for theatrical performance rather than just reading?",
+      "answer": "Plays",
+      "choices": [
+        "Novel",
+        "Fable",
+        "Plays",
+        "Short Story"
+      ],
+      "reference": "21ST-REVIEWER-WEEK1.docx.pdf",
+      "term": "Types of Prose"
+    },
+    {
+      "question": "What is a short piece of writing on a particular subject?",
+      "answer": "Essay",
+      "choices": [
+        "Essay",
+        "Biography",
+        "Anecdote",
+        "Myth"
+      ],
+      "reference": "21ST-REVIEWER-WEEK1.docx.pdf",
+      "term": "Types of Prose"
+    },
+    {
+      "question": "What is a traditional story sometimes popularly regarded as historical but unauthenticated?",
+      "answer": "Legends",
+      "choices": [
+        "Fables",
+        "Myth",
+        "Legends",
+        "Anecdotes"
+      ],
+      "reference": "21ST-REVIEWER-WEEK1.docx.pdf",
+      "term": "Types of Prose"
+    },
+    {
+      "question": "What is a short story, typically with animals as characters, conveying a moral?",
+      "answer": "Fables",
+      "choices": [
+        "Legends",
+        "Fables",
+        "Myth",
+        "Anecdotes"
+      ],
+      "reference": "21ST-REVIEWER-WEEK1.docx.pdf",
+      "term": "Types of Prose"
+    },
+    {
+      "question": "What is a short amusing or interesting story about a real incident or person?",
+      "answer": "Anecdotes",
+      "choices": [
+        "Myth",
+        "Fables",
+        "Legends",
+        "Anecdotes"
+      ],
+      "reference": "21ST-REVIEWER-WEEK1.docx.pdf",
+      "term": "Types of Prose"
+    },
+    {
+      "question": "What is a traditional story, especially one concerning the early history of a people or explaining some natural or social phenomenon and typically involving supernatural beings or events?",
+      "answer": "Myth",
+      "choices": [
+        "Myth",
+        "Fables",
+        "Legends",
+        "Anecdotes"
+      ],
+      "reference": "21ST-REVIEWER-WEEK1.docx.pdf",
+      "term": "Types of Prose"
+    },
+    {
+      "question": "What is an account of someone's life written by someone else?",
+      "answer": "Biography",
+      "choices": [
+        "News",
+        "Essay",
+        "Biography",
+        "Novel"
+      ],
+      "reference": "21ST-REVIEWER-WEEK1.docx.pdf",
+      "term": "Types of Prose"
+    },
+    {
+      "question": "What is newly received or noteworthy information, especially about recent or important events?",
+      "answer": "News",
+      "choices": [
+        "Biography",
+        "Essay",
+        "News",
+        "Short Story"
+      ],
+      "reference": "21ST-REVIEWER-WEEK1.docx.pdf",
+      "term": "Types of Prose"
+    }
+  ]
+}
