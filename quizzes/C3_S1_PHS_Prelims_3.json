@@ -1,0 +1,148 @@
+{
+  "quizInfo": {
+    "Subject": "Physical Science",
+    "Term": "First Quarter",
+    "Title": "Parts of Atoms",
+    "LastModified": "15 August 2025",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "PARTS-OF-ATOMS.pdf"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "What is the basic unit of all matter and chemical element?",
+      "answer": "Atoms",
+      "choices": [
+        "Nucleus",
+        "Atoms",
+        "Protons",
+        "Electrons"
+      ],
+      "reference": "PARTS-OF-ATOMS.pdf",
+      "term": "Atomic Theory"
+    },
+    {
+      "question": "What is the centre of the atom?",
+      "answer": "Nucleus",
+      "choices": [
+        "Shells",
+        "Nucleus",
+        "Orbits",
+        "Protons"
+      ],
+      "reference": "PARTS-OF-ATOMS.pdf",
+      "term": "Atomic Structure"
+    },
+    {
+      "question": "Where is all of the mass of the atom contained?",
+      "answer": "Nucleus",
+      "choices": [
+        "Orbits",
+        "Shells",
+        "Nucleus",
+        "Electrons"
+      ],
+      "reference": "PARTS-OF-ATOMS.pdf",
+      "term": "Atomic Structure"
+    },
+    {
+      "question": "What are the positively charged particles which are present in the nucleus of the atom?",
+      "answer": "Protons",
+      "choices": [
+        "Electrons",
+        "Neutrons",
+        "Protons",
+        "Nucleus"
+      ],
+      "reference": "PARTS-OF-ATOMS.pdf",
+      "term": "Subatomic Particles"
+    },
+    {
+      "question": "What are the neutral particles which are present in the nucleus of an atom?",
+      "answer": "Neutrons",
+      "choices": [
+        "Electrons",
+        "Neutrons",
+        "Protons",
+        "Nucleus"
+      ],
+      "reference": "PARTS-OF-ATOMS.pdf",
+      "term": "Subatomic Particles"
+    },
+    {
+      "question": "What are the negatively charged particles which are present in the outer orbits surrounding the nucleus of an atom?",
+      "answer": "Electrons",
+      "choices": [
+        "Electrons",
+        "Neutrons",
+        "Protons",
+        "Shells"
+      ],
+      "reference": "PARTS-OF-ATOMS.pdf",
+      "term": "Subatomic Particles"
+    },
+    {
+      "question": "Who discovered the positively charge subatomic as a component of annode rays in 1886?",
+      "answer": "Eugene Goldstein",
+      "choices": [
+        "J.J. Thomson",
+        "James Chadwick",
+        "Eugene Goldstein",
+        "Ernest Rutherford"
+      ],
+      "reference": "PARTS-OF-ATOMS.pdf",
+      "term": "History of Discovery"
+    },
+    {
+      "question": "Who coined the term proton for positively charged particle in an atom (1917-1920)?",
+      "answer": "Ernest Rutherford",
+      "choices": [
+        "J.J. Thomson",
+        "Eugene Goldstein",
+        "Ernest Rutherford",
+        "James Chadwick"
+      ],
+      "reference": "PARTS-OF-ATOMS.pdf",
+      "term": "History of Discovery"
+    },
+    {
+      "question": "Who discovered the neutral particles, which he called neutrons, in the nucleus of an atom in 1932?",
+      "answer": "James Chadwick",
+      "choices": [
+        "James Chadwick",
+        "J.J. Thomson",
+        "Eugene Goldstein",
+        "Ernest Rutherford"
+      ],
+      "reference": "PARTS-OF-ATOMS.pdf",
+      "term": "History of Discovery"
+    },
+    {
+      "question": "Who discovered that an atom is also composed of negatively charged particles which was named electrons in 1897?",
+      "answer": "J.J. Thomson",
+      "choices": [
+        "J.J. Thomson",
+        "James Chadwick",
+        "Eugene Goldstein",
+        "Ernest Rutherford"
+      ],
+      "reference": "PARTS-OF-ATOMS.pdf",
+      "term": "History of Discovery"
+    },
+    {
+      "question": "What are atoms of the same element with different numbers of neutrons?",
+      "answer": "Isotopes",
+      "choices": [
+        "Protons",
+        "Neutrons",
+        "Isotopes",
+        "Electrons"
+      ],
+      "reference": "PARTS-OF-ATOMS.pdf",
+      "term": "Atomic Theory"
+    }
+  ]
+}

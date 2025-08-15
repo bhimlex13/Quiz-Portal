@@ -1,0 +1,124 @@
+{
+  "quizInfo": {
+    "Subject": "Physical Science",
+    "Term": "First Quarter",
+    "Title": "Cosmology and the Big Bang Theory",
+    "LastModified": "15 August 2025",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "BIG-BANG-THEORY.pdf"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "What is the branch of astronomy that involves the origin and evolution of the universe?",
+      "answer": "Cosmology",
+      "choices": [
+        "Astronomy",
+        "Big Bang Theory",
+        "Cosmology",
+        "Nucleosynthesis"
+      ],
+      "reference": "BIG-BANG-THEORY.pdf",
+      "term": "Cosmology"
+    },
+    {
+      "question": "Who is a scientist who uses space-based and ground-based telescope and satellites to study the properties of the universe?",
+      "answer": "Cosmologist",
+      "choices": [
+        "Astronomer",
+        "Scientist",
+        "Cosmologist",
+        "Physicist"
+      ],
+      "reference": "BIG-BANG-THEORY.pdf",
+      "term": "Cosmology"
+    },
+    {
+      "question": "What theory explains how the elements were initially formed?",
+      "answer": "Big Bang Theory",
+      "choices": [
+        "Nucleosynthesis",
+        "Big Bang Theory",
+        "Singularity",
+        "Inflation"
+      ],
+      "reference": "BIG-BANG-THEORY.pdf",
+      "term": "Theories of Origin"
+    },
+    {
+      "question": "What is the process that creates new atomic nuclei from pre-existing nucleons, primarily protons and neutrons?",
+      "answer": "Nucleosynthesis",
+      "choices": [
+        "Recombination",
+        "Annihilation",
+        "Nucleosynthesis",
+        "Singularity"
+      ],
+      "reference": "BIG-BANG-THEORY.pdf",
+      "term": "Stages of the Big Bang"
+    },
+    {
+      "question": "What is a point of space or a moment in the time where the universe was infinitely hot and dense?",
+      "answer": "Singularity",
+      "choices": [
+        "Inflation",
+        "Singularity",
+        "Recombination",
+        "Annihilation"
+      ],
+      "reference": "BIG-BANG-THEORY.pdf",
+      "term": "Stages of the Big Bang"
+    },
+    {
+      "question": "What refers to the epoch at which charged electrons and protons first became bound to form electrically neutral hydrogen atom?",
+      "answer": "Recombination",
+      "choices": [
+        "Inflation",
+        "Annihilation",
+        "Recombination",
+        "Nucleosynthesis"
+      ],
+      "reference": "BIG-BANG-THEORY.pdf",
+      "term": "Stages of the Big Bang"
+    },
+    {
+      "question": "What is a theory of exponential expansion of space in the early universe?",
+      "answer": "Inflation",
+      "choices": [
+        "Red Shift",
+        "Inflation",
+        "Big Bang Theory",
+        "Singularity"
+      ],
+      "reference": "BIG-BANG-THEORY.pdf",
+      "term": "Stages of the Big Bang"
+    },
+    {
+      "question": "What is the reaction in which a particle and its antiparticle collide and disappear, releasing energy?",
+      "answer": "Annihilation",
+      "choices": [
+        "Recombination",
+        "Annihilation",
+        "Fusion",
+        "Fission"
+      ],
+      "reference": "BIG-BANG-THEORY.pdf",
+      "term": "Key Concepts"
+    },
+    {
+      "question": "What is the displacement of spectral lines toward longer wavelengths in radiation from distant galaxies and celestial objects?",
+      "answer": "Red Shift",
+      "choices": [
+        "Cosmic Microwave Background",
+        "Red Shift",
+        "Inflation",
+        "Annihilation"
+      ],
+      "reference": "BIG-BANG-THEORY.pdf",
+      "term": "Key Concepts"
+    }
+  ]
+}

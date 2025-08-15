@@ -1,0 +1,172 @@
+{
+  "quizInfo": {
+    "Subject": "Physical Science",
+    "Term": "First Quarter",
+    "Title": "History of the Atom",
+    "LastModified": "15 August 2025",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "HISTORY-OF-ATOM.pdf"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "Who first introduced the idea of the atom?",
+      "answer": "Leucippus and Democritus",
+      "choices": [
+        "Aristotle",
+        "Dalton",
+        "Leucippus and Democritus",
+        "Thomson"
+      ],
+      "reference": "HISTORY-OF-ATOM.pdf",
+      "term": "Early Atomic Theory"
+    },
+    {
+      "question": "What is the basic unit of matter and a chemical element?",
+      "answer": "Atom",
+      "choices": [
+        "Element",
+        "Atom",
+        "Matter",
+        "Mixture"
+      ],
+      "reference": "HISTORY-OF-ATOM.pdf",
+      "term": "Early Atomic Theory"
+    },
+    {
+      "question": "Who believed that there was a limit to how far matter could be broken down into smaller pieces?",
+      "answer": "Leucippus",
+      "choices": [
+        "Democritus",
+        "Leucippus",
+        "Aristotle",
+        "Dalton"
+      ],
+      "reference": "HISTORY-OF-ATOM.pdf",
+      "term": "Early Atomic Theory"
+    },
+    {
+      "question": "Who gave the smallest component of matter the name \"atomos\"?",
+      "answer": "Democritus",
+      "choices": [
+        "Leucippus",
+        "Democritus",
+        "Aristotle",
+        "Dalton"
+      ],
+      "reference": "HISTORY-OF-ATOM.pdf",
+      "term": "Early Atomic Theory"
+    },
+    {
+      "question": "Who believed that the world was made of earth, air, fire, and water?",
+      "answer": "Aristotle",
+      "choices": [
+        "Democritus",
+        "Leucippus",
+        "Aristotle",
+        "Dalton"
+      ],
+      "reference": "HISTORY-OF-ATOM.pdf",
+      "term": "Early Atomic Theory"
+    },
+    {
+      "question": "Who is the father of modern chemistry?",
+      "answer": "Antoine-Laurent Lavoisier",
+      "choices": [
+        "Robert Boyle",
+        "Antoine-Laurent Lavoisier",
+        "John Dalton",
+        "J.J. Thomson"
+      ],
+      "reference": "HISTORY-OF-ATOM.pdf",
+      "term": "19th Century Models"
+    },
+    {
+      "question": "What are the earliest practices of chemical science?",
+      "answer": "Alchemy",
+      "choices": [
+        "Chemistry",
+        "Science",
+        "Alchemy",
+        "Mythology"
+      ],
+      "reference": "HISTORY-OF-ATOM.pdf",
+      "term": "Early Chemistry"
+    },
+    {
+      "question": "Who published \"The Skeptical Chymist\" in 1661?",
+      "answer": "Robert Boyle",
+      "choices": [
+        "Antoine-Laurent Lavoisier",
+        "Robert Boyle",
+        "John Dalton",
+        "J.J. Thomson"
+      ],
+      "reference": "HISTORY-OF-ATOM.pdf",
+      "term": "19th Century Models"
+    },
+    {
+      "question": "What theory states that all matter is made up of atoms- extremely minute, indestructible, and indivisible particle?",
+      "answer": "Dalton's Atomic Theory",
+      "choices": [
+        "Thomson Atomic Theory",
+        "Dalton's Atomic Theory",
+        "Rutherford's Model of Atom",
+        "Modern Atomic Theory"
+      ],
+      "reference": "HISTORY-OF-ATOM.pdf",
+      "term": "19th Century Models"
+    },
+    {
+      "question": "What theory states that atoms can neither be created nor destroyed?",
+      "answer": "Dalton's Atomic Theory",
+      "choices": [
+        "Thomson Atomic Theory",
+        "Dalton's Atomic Theory",
+        "Rutherford's Model of Atom",
+        "Modern Atomic Theory"
+      ],
+      "reference": "HISTORY-OF-ATOM.pdf",
+      "term": "19th Century Models"
+    },
+    {
+      "question": "Who discovered that atoms consists of electrons through the cathode ray tube experiment?",
+      "answer": "J.J Thomson",
+      "choices": [
+        "John Dalton",
+        "J.J Thomson",
+        "Ernest Rutherford",
+        "Robert Boyle"
+      ],
+      "reference": "HISTORY-OF-ATOM.pdf",
+      "term": "19th Century Models"
+    },
+    {
+      "question": "What model of the atom is also known as the nuclear model?",
+      "answer": "Rutherford's Model of Atom",
+      "choices": [
+        "Dalton's Atomic Model",
+        "Thomson Atomic Theory",
+        "Rutherford's Model of Atom",
+        "Plum Pudding Model"
+      ],
+      "reference": "HISTORY-OF-ATOM.pdf",
+      "term": "19th Century Models"
+    },
+    {
+      "question": "What model proposes that an atom has a small, dense, positively charged nucleus at its center, with electrons orbiting this nucleus?",
+      "answer": "Rutherford's Model of Atom",
+      "choices": [
+        "Dalton's Atomic Model",
+        "Thomson Atomic Theory",
+        "Rutherford's Model of Atom",
+        "Plum Pudding Model"
+      ],
+      "reference": "HISTORY-OF-ATOM.pdf",
+      "term": "19th Century Models"
+    }
+  ]
+}

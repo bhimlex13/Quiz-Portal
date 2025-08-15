@@ -259,6 +259,78 @@
                     ]
                 }
             ]
+        },
+        {
+            "Subject_ID": "C3_S1_PHS",
+            "Subject_Name": "Physical Science",
+            "Subject_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_PL_Demo.png",
+            "Subject_Status": "Active",
+            "Subject_Module": [
+                {
+                    "Module_ID": "C3_S1_21C_Prelims",
+                    "Module_Name": "First Quarter",
+                    "Module_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_Prelims_1.png",
+                    "Module_Status": "Active",
+                    "Module_LastModified": "15 August 2025",
+                    "Module_Subfolders": [
+                        {
+                            "Subfolder_ID": "C3_S1_PHS_Prelims_1",
+                            "Subfolder_Name": "Formation of Elements",
+                            "Subfolder_Description": "Description of the subfolder here",
+                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_PHS_Prelims_1",
+                            "Subfolder_Author": [
+                                "Alexander Oro"
+                            ],
+                            "Subfolder_LastModified": "15 August 2025",
+                            "Subfolder_Status": "Active"
+                        },
+                                                {
+                            "Subfolder_ID": "C3_S1_PHS_Prelims_2",
+                            "Subfolder_Name": "Cosmology and the Big Bang Theory",
+                            "Subfolder_Description": "Description of the subfolder here",
+                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_PHS_Prelims_2",
+                            "Subfolder_Author": [
+                                "Alexander Oro"
+                            ],
+                            "Subfolder_LastModified": "15 August 2025",
+                            "Subfolder_Status": "Active"
+                        },
+                                                                        {
+                            "Subfolder_ID": "C3_S1_PHS_Prelims_3",
+                            "Subfolder_Name": "Parts of Atoms",
+                            "Subfolder_Description": "Description of the subfolder here",
+                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_PHS_Prelims_3",
+                            "Subfolder_Author": [
+                                "Alexander Oro"
+                            ],
+                            "Subfolder_LastModified": "15 August 2025",
+                            "Subfolder_Status": "Active"
+                        },
+                        {
+                            "Subfolder_ID": "C3_S1_PHS_Prelims_4",
+                            "Subfolder_Name": "History of the Atom",
+                            "Subfolder_Description": "Description of the subfolder here",
+                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_PHS_Prelims_4",
+                            "Subfolder_Author": [
+                                "Alexander Oro"
+                            ],
+                            "Subfolder_LastModified": "15 August 2025",
+                            "Subfolder_Status": "Active"
+                        },
+                                                {
+                            "Subfolder_ID": "C3_S1_PHS_Prelims_5",
+                            "Subfolder_Name": "Phisical Science Reviewer Pro Max",
+                            "Subfolder_Description": "Description of the subfolder here",
+                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_PHS_Prelims_5",
+                            "Subfolder_Author": [
+                                "Alexander Oro"
+                            ],
+                            "Subfolder_LastModified": "15 August 2025",
+                            "Subfolder_Status": "Active"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

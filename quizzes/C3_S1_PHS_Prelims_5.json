@@ -1,0 +1,451 @@
+{
+  "quizInfo": {
+    "Subject": "Physical Science",
+    "Term": "First Quarter",
+    "Title": "Phisical Science Reviewer Pro Max",
+    "LastModified": "15 August 2025",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "1.2.Formation-of-Elements.pdf",
+      "BIG-BANG-THEORY.pdf",
+      "PARTS-OF-ATOMS.pdf",
+      "HISTORY-OF-ATOM.pdf"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "What is the process that creates new atomic nucleus from pre-existing nucleons, which is protons and neutrons?",
+      "answer": "Nucleosynthesis",
+      "choices": [
+        "Stellar Nucleosynthesis",
+        "Big Bang Nucleosynthesis",
+        "Nuclear Fusion",
+        "Nucleosynthesis"
+      ],
+      "reference": "1.2.Formation-of-Elements.pdf",
+      "term": "Nucleosynthesis"
+    },
+    {
+      "question": "What is the production of the \"light elements\" shortly after Big Bang?",
+      "answer": "Primordial (Big Bang Nucleosynthesis)",
+      "choices": [
+        "Stellar Nucleosynthesis",
+        "Primordial (Big Bang Nucleosynthesis)",
+        "Nuclear Fusion",
+        "Supernova"
+      ],
+      "reference": "1.2.Formation-of-Elements.pdf",
+      "term": "Nucleosynthesis"
+    },
+    {
+      "question": "What is the process by which light nuclei fuse together to form a heavier nucleus?",
+      "answer": "Nuclear Fusion",
+      "choices": [
+        "Stellar Nucleosynthesis",
+        "Big Bang Nucleosynthesis",
+        "Nuclear Fusion",
+        "Nucleosynthesis"
+      ],
+      "reference": "1.2.Formation-of-Elements.pdf",
+      "term": "Fundamental Processes"
+    },
+    {
+      "question": "What is a form of an element that has the same atomic number of the original element but with different atomic mass or mass number?",
+      "answer": "Isotopes",
+      "choices": [
+        "Protons",
+        "Neutrons",
+        "Isotopes",
+        "Nucleons"
+      ],
+      "reference": "1.2.Formation-of-Elements.pdf",
+      "term": "Atomic Structure"
+    },
+    {
+      "question": "What is the formation of heavy elements by fusion of lighter nuclei in the interior of star called?",
+      "answer": "Stellar Nucleosynthesis",
+      "choices": [
+        "Stellar Nucleosynthesis",
+        "Big Bang Nucleosynthesis",
+        "Nuclear Fusion",
+        "Supernova"
+      ],
+      "reference": "1.2.Formation-of-Elements.pdf",
+      "term": "Nucleosynthesis"
+    },
+    {
+      "question": "What is a massive explosion of a star?",
+      "answer": "Supernova",
+      "choices": [
+        "Red Giant",
+        "Supernova Remnant",
+        "Neutron Capture",
+        "Supernova"
+      ],
+      "reference": "1.2.Formation-of-Elements.pdf",
+      "term": "Stellar Evolution"
+    },
+    {
+      "question": "What is the structure resulting from the explosion of a star in a supernova?",
+      "answer": "Supernova Remnant (SNR)",
+      "choices": [
+        "Supernova",
+        "Red Giant",
+        "Supernova Remnant (SNR)",
+        "Neutron Capture"
+      ],
+      "reference": "1.2.Formation-of-Elements.pdf",
+      "term": "Stellar Evolution"
+    },
+    {
+      "question": "What is the branch of astronomy that involves the origin and evolution of the universe?",
+      "answer": "Cosmology",
+      "choices": [
+        "Astronomy",
+        "Big Bang Theory",
+        "Cosmology",
+        "Nucleosynthesis"
+      ],
+      "reference": "BIG-BANG-THEORY.pdf",
+      "term": "Cosmology"
+    },
+    {
+      "question": "Who is a scientist who uses space-based and ground-based telescope and satellites to study the properties of the universe?",
+      "answer": "Cosmologist",
+      "choices": [
+        "Astronomer",
+        "Scientist",
+        "Cosmologist",
+        "Physicist"
+      ],
+      "reference": "BIG-BANG-THEORY.pdf",
+      "term": "Cosmology"
+    },
+    {
+      "question": "What theory explains how the elements were initially formed?",
+      "answer": "Big Bang Theory",
+      "choices": [
+        "Nucleosynthesis",
+        "Big Bang Theory",
+        "Singularity",
+        "Inflation"
+      ],
+      "reference": "BIG-BANG-THEORY.pdf",
+      "term": "Theories of Origin"
+    },
+    {
+      "question": "What is a point of space or a moment in the time where the universe was infinitely hot and dense?",
+      "answer": "Singularity",
+      "choices": [
+        "Inflation",
+        "Singularity",
+        "Recombination",
+        "Annihilation"
+      ],
+      "reference": "BIG-BANG-THEORY.pdf",
+      "term": "Stages of the Big Bang"
+    },
+    {
+      "question": "What refers to the epoch at which charged electrons and protons first became bound to form electrically neutral hydrogen atom?",
+      "answer": "Recombination",
+      "choices": [
+        "Inflation",
+        "Annihilation",
+        "Recombination",
+        "Nucleosynthesis"
+      ],
+      "reference": "BIG-BANG-THEORY.pdf",
+      "term": "Stages of the Big Bang"
+    },
+    {
+      "question": "What is a theory of exponential expansion of space in the early universe?",
+      "answer": "Inflation",
+      "choices": [
+        "Red Shift",
+        "Inflation",
+        "Big Bang Theory",
+        "Singularity"
+      ],
+      "reference": "BIG-BANG-THEORY.pdf",
+      "term": "Stages of the Big Bang"
+    },
+    {
+      "question": "What is the reaction in which a particle and its antiparticle collide and disappear, releasing energy?",
+      "answer": "Annihilation",
+      "choices": [
+        "Recombination",
+        "Annihilation",
+        "Fusion",
+        "Fission"
+      ],
+      "reference": "BIG-BANG-THEORY.pdf",
+      "term": "Key Concepts"
+    },
+    {
+      "question": "What is the displacement of spectral lines toward longer wavelengths in radiation from distant galaxies and celestial objects?",
+      "answer": "Red Shift",
+      "choices": [
+        "Cosmic Microwave Background",
+        "Red Shift",
+        "Inflation",
+        "Annihilation"
+      ],
+      "reference": "BIG-BANG-THEORY.pdf",
+      "term": "Key Concepts"
+    },
+    {
+      "question": "What is the basic unit of all matter and chemical element?",
+      "answer": "Atoms",
+      "choices": [
+        "Nucleus",
+        "Atoms",
+        "Protons",
+        "Electrons"
+      ],
+      "reference": "PARTS-OF-ATOMS.pdf",
+      "term": "Atomic Theory"
+    },
+    {
+      "question": "What is the centre of the atom?",
+      "answer": "Nucleus",
+      "choices": [
+        "Shells",
+        "Nucleus",
+        "Orbits",
+        "Protons"
+      ],
+      "reference": "PARTS-OF-ATOMS.pdf",
+      "term": "Atomic Structure"
+    },
+    {
+      "question": "Where is all of the mass of the atom contained?",
+      "answer": "Nucleus",
+      "choices": [
+        "Orbits",
+        "Shells",
+        "Nucleus",
+        "Electrons"
+      ],
+      "reference": "PARTS-OF-ATOMS.pdf",
+      "term": "Atomic Structure"
+    },
+    {
+      "question": "What are the positively charged particles which are present in the nucleus of the atom?",
+      "answer": "Protons",
+      "choices": [
+        "Electrons",
+        "Neutrons",
+        "Protons",
+        "Nucleus"
+      ],
+      "reference": "PARTS-OF-ATOMS.pdf",
+      "term": "Subatomic Particles"
+    },
+    {
+      "question": "What are the neutral particles which are present in the nucleus of an atom?",
+      "answer": "Neutrons",
+      "choices": [
+        "Electrons",
+        "Neutrons",
+        "Protons",
+        "Nucleus"
+      ],
+      "reference": "PARTS-OF-ATOMS.pdf",
+      "term": "Subatomic Particles"
+    },
+    {
+      "question": "What are the negatively charged particles which are present in the outer orbits surrounding the nucleus of an atom?",
+      "answer": "Electrons",
+      "choices": [
+        "Electrons",
+        "Neutrons",
+        "Protons",
+        "Shells"
+      ],
+      "reference": "PARTS-OF-ATOMS.pdf",
+      "term": "Subatomic Particles"
+    },
+    {
+      "question": "Who discovered the positively charge subatomic as a component of annode rays in 1886?",
+      "answer": "Eugene Goldstein",
+      "choices": [
+        "J.J. Thomson",
+        "James Chadwick",
+        "Eugene Goldstein",
+        "Ernest Rutherford"
+      ],
+      "reference": "PARTS-OF-ATOMS.pdf",
+      "term": "History of Discovery"
+    },
+    {
+      "question": "Who coined the term proton for positively charged particle in an atom (1917-1920)?",
+      "answer": "Ernest Rutherford",
+      "choices": [
+        "J.J. Thomson",
+        "Eugene Goldstein",
+        "Ernest Rutherford",
+        "James Chadwick"
+      ],
+      "reference": "PARTS-OF-ATOMS.pdf",
+      "term": "History of Discovery"
+    },
+    {
+      "question": "Who discovered the neutral particles, which he called neutrons, in the nucleus of an atom in 1932?",
+      "answer": "James Chadwick",
+      "choices": [
+        "James Chadwick",
+        "J.J. Thomson",
+        "Eugene Goldstein",
+        "Ernest Rutherford"
+      ],
+      "reference": "PARTS-OF-ATOMS.pdf",
+      "term": "History of Discovery"
+    },
+    {
+      "question": "Who discovered that an atom is also composed of negatively charged particles which was named electrons in 1897?",
+      "answer": "J.J. Thomson",
+      "choices": [
+        "J.J. Thomson",
+        "James Chadwick",
+        "Eugene Goldstein",
+        "Ernest Rutherford"
+      ],
+      "reference": "PARTS-OF-ATOMS.pdf",
+      "term": "History of Discovery"
+    },
+    {
+      "question": "Who first introduced the idea of the atom?",
+      "answer": "Leucippus and Democritus",
+      "choices": [
+        "Aristotle",
+        "Dalton",
+        "Leucippus and Democritus",
+        "Thomson"
+      ],
+      "reference": "HISTORY-OF-ATOM.pdf",
+      "term": "Early Atomic Theory"
+    },
+    {
+      "question": "Who believed that there was a limit to how far matter could be broken down into smaller pieces?",
+      "answer": "Leucippus",
+      "choices": [
+        "Democritus",
+        "Leucippus",
+        "Aristotle",
+        "Dalton"
+      ],
+      "reference": "HISTORY-OF-ATOM.pdf",
+      "term": "Early Atomic Theory"
+    },
+    {
+      "question": "Who gave the smallest component of matter the name \"atomos\"?",
+      "answer": "Democritus",
+      "choices": [
+        "Leucippus",
+        "Democritus",
+        "Aristotle",
+        "Dalton"
+      ],
+      "reference": "HISTORY-OF-ATOM.pdf",
+      "term": "Early Atomic Theory"
+    },
+    {
+      "question": "Who believed that the world was made of earth, air, fire, and water?",
+      "answer": "Aristotle",
+      "choices": [
+        "Democritus",
+        "Leucippus",
+        "Aristotle",
+        "Dalton"
+      ],
+      "reference": "HISTORY-OF-ATOM.pdf",
+      "term": "Early Atomic Theory"
+    },
+    {
+      "question": "Who is the father of modern chemistry?",
+      "answer": "Antoine-Laurent Lavoisier",
+      "choices": [
+        "Robert Boyle",
+        "Antoine-Laurent Lavoisier",
+        "John Dalton",
+        "J.J. Thomson"
+      ],
+      "reference": "HISTORY-OF-ATOM.pdf",
+      "term": "19th Century Models"
+    },
+    {
+      "question": "What are the earliest practices of chemical science?",
+      "answer": "Alchemy",
+      "choices": [
+        "Chemistry",
+        "Science",
+        "Alchemy",
+        "Mythology"
+      ],
+      "reference": "HISTORY-OF-ATOM.pdf",
+      "term": "Early Chemistry"
+    },
+    {
+      "question": "Who published \"The Skeptical Chymist\" in 1661?",
+      "answer": "Robert Boyle",
+      "choices": [
+        "Antoine-Laurent Lavoisier",
+        "Robert Boyle",
+        "John Dalton",
+        "J.J. Thomson"
+      ],
+      "reference": "HISTORY-OF-ATOM.pdf",
+      "term": "19th Century Models"
+    },
+    {
+      "question": "What theory states that all matter is made up of atoms- extremely minute, indestructible, and indivisible particle?",
+      "answer": "Dalton's Atomic Theory",
+      "choices": [
+        "Thomson Atomic Theory",
+        "Dalton's Atomic Theory",
+        "Rutherford's Model of Atom",
+        "Modern Atomic Theory"
+      ],
+      "reference": "HISTORY-OF-ATOM.pdf",
+      "term": "19th Century Models"
+    },
+    {
+      "question": "What theory states that atoms can neither be created nor destroyed?",
+      "answer": "Dalton's Atomic Theory",
+      "choices": [
+        "Thomson Atomic Theory",
+        "Dalton's Atomic Theory",
+        "Rutherford's Model of Atom",
+        "Modern Atomic Theory"
+      ],
+      "reference": "HISTORY-OF-ATOM.pdf",
+      "term": "19th Century Models"
+    },
+    {
+      "question": "What model of the atom is also known as the nuclear model?",
+      "answer": "Rutherford's Model of Atom",
+      "choices": [
+        "Dalton's Atomic Model",
+        "Thomson Atomic Theory",
+        "Rutherford's Model of Atom",
+        "Plum Pudding Model"
+      ],
+      "reference": "HISTORY-OF-ATOM.pdf",
+      "term": "19th Century Models"
+    },
+    {
+      "question": "What model proposes that an atom has a small, dense, positively charged nucleus at its center, with electrons orbiting this nucleus?",
+      "answer": "Rutherford's Model of Atom",
+      "choices": [
+        "Dalton's Atomic Model",
+        "Thomson Atomic Theory",
+        "Rutherford's Model of Atom",
+        "Plum Pudding Model"
+      ],
+      "reference": "HISTORY-OF-ATOM.pdf",
+      "term": "19th Century Models"
+    }
+  ]
+}

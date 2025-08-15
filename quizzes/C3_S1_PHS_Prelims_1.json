@@ -1,0 +1,100 @@
+{
+  "quizInfo": {
+    "Subject": "Physical Science",
+    "Term": "First Quarter",
+    "Title": "Formation of Light & Heavy Elements",
+    "LastModified": "15 August 2025",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "1.2.Formation-of-Elements.pdf"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "What is the process that creates new atomic nucleus from pre-existing nucleons, which is protons and neutrons?",
+      "answer": "Nucleosynthesis",
+      "choices": [
+        "Stellar Nucleosynthesis",
+        "Big Bang Nucleosynthesis",
+        "Nuclear Fusion",
+        "Nucleosynthesis"
+      ],
+      "reference": "1.2.Formation-of-Elements.pdf",
+      "term": "Nucleosynthesis"
+    },
+    {
+      "question": "What is the production of the \"light elements\" shortly after Big Bang?",
+      "answer": "Primordial (Big Bang Nucleosynthesis)",
+      "choices": [
+        "Stellar Nucleosynthesis",
+        "Primordial (Big Bang Nucleosynthesis)",
+        "Nuclear Fusion",
+        "Supernova"
+      ],
+      "reference": "1.2.Formation-of-Elements.pdf",
+      "term": "Nucleosynthesis"
+    },
+    {
+      "question": "What is the process by which light nuclei fuse together to form a heavier nucleus?",
+      "answer": "Nuclear Fusion",
+      "choices": [
+        "Stellar Nucleosynthesis",
+        "Big Bang Nucleosynthesis",
+        "Nuclear Fusion",
+        "Nucleosynthesis"
+      ],
+      "reference": "1.2.Formation-of-Elements.pdf",
+      "term": "Fundamental Processes"
+    },
+    {
+      "question": "What is a form of an element that has the same atomic number of the original element but with different atomic mass or mass number?",
+      "answer": "Isotopes",
+      "choices": [
+        "Protons",
+        "Neutrons",
+        "Isotopes",
+        "Nucleons"
+      ],
+      "reference": "1.2.Formation-of-Elements.pdf",
+      "term": "Atomic Structure"
+    },
+    {
+      "question": "What is the formation of heavy elements by fusion of lighter nuclei in the interior of star called?",
+      "answer": "Stellar Nucleosynthesis",
+      "choices": [
+        "Stellar Nucleosynthesis",
+        "Big Bang Nucleosynthesis",
+        "Nuclear Fusion",
+        "Supernova"
+      ],
+      "reference": "1.2.Formation-of-Elements.pdf",
+      "term": "Nucleosynthesis"
+    },
+    {
+      "question": "What is a massive explosion of a star?",
+      "answer": "Supernova",
+      "choices": [
+        "Red Giant",
+        "Supernova Remnant",
+        "Neutron Capture",
+        "Supernova"
+      ],
+      "reference": "1.2.Formation-of-Elements.pdf",
+      "term": "Stellar Evolution"
+    },
+    {
+      "question": "What is the structure resulting from the explosion of a star in a supernova?",
+      "answer": "Supernova Remnant (SNR)",
+      "choices": [
+        "Supernova",
+        "Red Giant",
+        "Supernova Remnant (SNR)",
+        "Neutron Capture"
+      ],
+      "reference": "1.2.Formation-of-Elements.pdf",
+      "term": "Stellar Evolution"
+    }
+  ]
+}
