@@ -1,0 +1,172 @@
+{
+  "quizInfo": {
+    "Subject": "English for Academic & Professional Purposes",
+    "Term": "First Quarter",
+    "Title": "Writing Process and Outlining",
+    "LastModified": "16 August 2025",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "L3-ACADEMIC-TEXT.pdf"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "What is a form of communication that is shaped by factors?",
+      "answer": "Writing",
+      "choices": [
+        "Outlining",
+        "Writing",
+        "Thesis Statement",
+        "Topic Sentence"
+      ],
+      "reference": "L3-ACADEMIC-TEXT.pdf",
+      "term": "Writing Process"
+    },
+    {
+      "question": "What is the overall idea or arguments of your work?",
+      "answer": "Thesis statement",
+      "choices": [
+        "Topic Sentence",
+        "Thesis statement",
+        "Outline",
+        "Writing"
+      ],
+      "reference": "L3-ACADEMIC-TEXT.pdf",
+      "term": "Key Writing Components"
+    },
+    {
+      "question": "What is a general statement that presents essential points that leads the reader to the right direction?",
+      "answer": "Thesis statement",
+      "choices": [
+        "Topic Sentence",
+        "Thesis statement",
+        "Outline",
+        "Writing"
+      ],
+      "reference": "L3-ACADEMIC-TEXT.pdf",
+      "term": "Key Writing Components"
+    },
+    {
+      "question": "What is included as a sentence or as part of the text?",
+      "answer": "Explicit Thesis Statement",
+      "choices": [
+        "Implicit Thesis Statement",
+        "Explicit Thesis Statement",
+        "Topic Sentence",
+        "Traditional Outline"
+      ],
+      "reference": "L3-ACADEMIC-TEXT.pdf",
+      "term": "Types of Thesis Statements"
+    },
+    {
+      "question": "What is it when the primary point of the reading is conveyed indirectly, in multiple locations throughout the work?",
+      "answer": "Implicit Thesis Statement",
+      "choices": [
+        "Explicit Thesis Statement",
+        "Implicit Thesis Statement",
+        "Topic Sentence",
+        "Standard Outline"
+      ],
+      "reference": "L3-ACADEMIC-TEXT.pdf",
+      "term": "Types of Thesis Statements"
+    },
+    {
+      "question": "What is a tool we use in the writing process to help organize our ideas, visualize our paper's potential structure?",
+      "answer": "Outlining",
+      "choices": [
+        "Outlining",
+        "Clustering",
+        "Brainstorming",
+        "Free Writing"
+      ],
+      "reference": "L3-ACADEMIC-TEXT.pdf",
+      "term": "Pre-writing Stage"
+    },
+    {
+      "question": "What is a step to produce ideas for writing that groups the ideas according to their relevance?",
+      "answer": "Outlining",
+      "choices": [
+        "Clustering",
+        "Outlining",
+        "Brainstorming",
+        "Free Writing"
+      ],
+      "reference": "L3-ACADEMIC-TEXT.pdf",
+      "term": "Pre-writing Stage"
+    },
+    {
+      "question": "What kind of outline uses roman numerals, letters and numbers?",
+      "answer": "Traditional Outline",
+      "choices": [
+        "Standard Outline",
+        "Traditional Outline",
+        "Parallelism",
+        "Subordination"
+      ],
+      "reference": "L3-ACADEMIC-TEXT.pdf",
+      "term": "Kinds of Outline"
+    },
+    {
+      "question": "What kind of outline uses numbers?",
+      "answer": "Standard Outline",
+      "choices": [
+        "Standard Outline",
+        "Traditional Outline",
+        "Coordination",
+        "Division"
+      ],
+      "reference": "L3-ACADEMIC-TEXT.pdf",
+      "term": "Kinds of Outline"
+    },
+    {
+      "question": "What principle of outlining is it when entries should observe the same language structure?",
+      "answer": "Parallelism",
+      "choices": [
+        "Coordination",
+        "Subordination",
+        "Parallelism",
+        "Division"
+      ],
+      "reference": "L3-ACADEMIC-TEXT.pdf",
+      "term": "Principles of Outlining"
+    },
+    {
+      "question": "What principle of outlining is it when entries should observe level of importance?",
+      "answer": "Coordination",
+      "choices": [
+        "Coordination",
+        "Subordination",
+        "Parallelism",
+        "Division"
+      ],
+      "reference": "L3-ACADEMIC-TEXT.pdf",
+      "term": "Principles of Outlining"
+    },
+    {
+      "question": "What principle of outlining is it when entries should observe differences of importance?",
+      "answer": "Subordination",
+      "choices": [
+        "Coordination",
+        "Subordination",
+        "Parallelism",
+        "Division"
+      ],
+      "reference": "L3-ACADEMIC-TEXT.pdf",
+      "term": "Principles of Outlining"
+    },
+    {
+      "question": "What principle of outlining is it when entries should at least be two to be sure that supporting points of a major idea are adequate?",
+      "answer": "Division",
+      "choices": [
+        "Coordination",
+        "Subordination",
+        "Parallelism",
+        "Division"
+      ],
+      "reference": "L3-ACADEMIC-TEXT.pdf",
+      "term": "Principles of Outlining"
+    }
+  ]
+}

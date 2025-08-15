@@ -1,0 +1,160 @@
+{
+  "quizInfo": {
+    "Subject": "English for Academic & Professional Purposes",
+    "Term": "First Quarter",
+    "Title": "Reflection, Reaction, and Critique Papers",
+    "LastModified": "16 August 2025",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "L4-ACADEMIC-TEXT.pdf"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "What is an essay of your thoughts about something that could be a movie, book, incident, etc.?",
+      "answer": "Reflection Paper",
+      "choices": [
+        "Reaction Paper",
+        "Critique Paper",
+        "Reflection Paper",
+        "Summary"
+      ],
+      "reference": "L4-ACADEMIC-TEXT.pdf",
+      "term": "Types of Papers"
+    },
+    {
+      "question": "What is a task that requires a student to analyze information and give comments on a certain text or media?",
+      "answer": "Reaction Paper",
+      "choices": [
+        "Reflection Paper",
+        "Reaction Paper",
+        "Critique Paper",
+        "Summary"
+      ],
+      "reference": "L4-ACADEMIC-TEXT.pdf",
+      "term": "Types of Papers"
+    },
+    {
+      "question": "What is a specific style of essay in which you identify, evaluate, and respond to an author's ideas, both positively and negatively?",
+      "answer": "Critique Paper",
+      "choices": [
+        "Reflection Paper",
+        "Reaction Paper",
+        "Critique Paper",
+        "Summary"
+      ],
+      "reference": "L4-ACADEMIC-TEXT.pdf",
+      "term": "Types of Papers"
+    },
+    {
+      "question": "What part of a reflection paper contains the idea and thesis statement?",
+      "answer": "Introduction",
+      "choices": [
+        "Body",
+        "Conclusion",
+        "Introduction",
+        "Analysis"
+      ],
+      "reference": "L4-ACADEMIC-TEXT.pdf",
+      "term": "Parts of a Reflection Paper"
+    },
+    {
+      "question": "What part of a reflection paper explains the introduction and may include quotes and passages?",
+      "answer": "Body",
+      "choices": [
+        "Introduction",
+        "Body",
+        "Conclusion",
+        "Comments"
+      ],
+      "reference": "L4-ACADEMIC-TEXT.pdf",
+      "term": "Parts of a Reflection Paper"
+    },
+    {
+      "question": "What part of a reflection paper wraps up the paper and describes the feeling and overall lesson?",
+      "answer": "Conclusion",
+      "choices": [
+        "Introduction",
+        "Body",
+        "Conclusion",
+        "Suggestion"
+      ],
+      "reference": "L4-ACADEMIC-TEXT.pdf",
+      "term": "Parts of a Reflection Paper"
+    },
+    {
+      "question": "What part of a reaction paper introduces the work to the reader by giving the name of the author and what the work is about?",
+      "answer": "Details of the Work",
+      "choices": [
+        "The Context",
+        "The Need and Reaction",
+        "Details of the Work",
+        "Summary"
+      ],
+      "reference": "L4-ACADEMIC-TEXT.pdf",
+      "term": "Parts of a Reaction Paper"
+    },
+    {
+      "question": "What part of a reaction paper gives the background of the piece you are reacting to?",
+      "answer": "The Context",
+      "choices": [
+        "The Context",
+        "The Need and Reaction",
+        "Details of the Work",
+        "Summary"
+      ],
+      "reference": "L4-ACADEMIC-TEXT.pdf",
+      "term": "Parts of a Reaction Paper"
+    },
+    {
+      "question": "What part of a reaction paper includes your opinion, thoughts, or ideas about the work?",
+      "answer": "The Need and Reaction",
+      "choices": [
+        "The Context",
+        "The Need and Reaction",
+        "Details of the Work",
+        "Summary"
+      ],
+      "reference": "L4-ACADEMIC-TEXT.pdf",
+      "term": "Parts of a Reaction Paper"
+    },
+    {
+      "question": "What part of a critique paper describes the work or piece you are critiquing?",
+      "answer": "Introduction",
+      "choices": [
+        "Analysis",
+        "Comments and Suggestions",
+        "Introduction",
+        "Summary"
+      ],
+      "reference": "L4-ACADEMIC-TEXT.pdf",
+      "term": "Parts of a Critique Paper"
+    },
+    {
+      "question": "What part of a critique paper provides the critique and detailed analysis of the work?",
+      "answer": "Analysis",
+      "choices": [
+        "Introduction",
+        "Analysis",
+        "Comments and Suggestions",
+        "Summary"
+      ],
+      "reference": "L4-ACADEMIC-TEXT.pdf",
+      "term": "Parts of a Critique Paper"
+    },
+    {
+      "question": "What part of a critique paper points out the things that may give improvements to the work you are critiquing?",
+      "answer": "Comments and Suggestions",
+      "choices": [
+        "Introduction",
+        "Analysis",
+        "Comments and Suggestions",
+        "Summary"
+      ],
+      "reference": "L4-ACADEMIC-TEXT.pdf",
+      "term": "Parts of a Critique Paper"
+    }
+  ]
+}

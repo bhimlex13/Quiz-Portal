@@ -1,0 +1,256 @@
+{
+  "quizInfo": {
+    "Subject": "English for Academic & Professional Purposes",
+    "Term": "First Quarter",
+    "Title": "Academic and Non-Academic Texts",
+    "LastModified": "15 August 2025",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "L1-ACADEMIC TEXT.pptx"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "What are specialized, formal pieces of writing, crafted by experts within a specific field?",
+      "answer": "Academic Text",
+      "choices": [
+        "Non-Academic Text",
+        "Academic Text",
+        "Persuasive Text",
+        "Analytical Text"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Academic Text Definition"
+    },
+    {
+      "question": "What is characterized by their use of objective language, evidence-based arguments, and adherence to a structured format?",
+      "answer": "Academic Text",
+      "choices": [
+        "Non-Academic Text",
+        "Academic Text",
+        "Persuasive Text",
+        "Descriptive Text"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Academic Text Definition"
+    },
+    {
+      "question": "What aims to inform, analyze, or persuade a scholarly audience, relying on research and data to support claims?",
+      "answer": "Academic Text",
+      "choices": [
+        "Non-Academic Text",
+        "Academic Text",
+        "Analytical Text",
+        "Critical Academic Text"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Academic Text Definition"
+    },
+    {
+      "question": "What usually delivers simple and basic information?",
+      "answer": "Non-Academic Text",
+      "choices": [
+        "Academic Text",
+        "Non-Academic Text",
+        "Descriptive Text",
+        "Social Language"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Non-Academic Text Definition"
+    },
+    {
+      "question": "What can be read and easily understood by any kind of reader?",
+      "answer": "Non-Academic Text",
+      "choices": [
+        "Academic Text",
+        "Non-Academic Text",
+        "Social Language",
+        "Persuasive Text"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Non-Academic Text Definition"
+    },
+    {
+      "question": "What is personal, emotional, impressionistic, or subjective in nature?",
+      "answer": "Non-Academic Text",
+      "choices": [
+        "Academic Text",
+        "Non-Academic Text",
+        "Academic Language",
+        "Critical Academic Text"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Non-Academic Text Definition"
+    },
+    {
+      "question": "What type of academic text provides facts and information?",
+      "answer": "Descriptive",
+      "choices": [
+        "Analytical",
+        "Persuasive",
+        "Descriptive",
+        "Critical"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Types of Academic Texts"
+    },
+    {
+      "question": "What type of academic text organizes facts and information into categories, groups, parts, types or relationships?",
+      "answer": "Analytical",
+      "choices": [
+        "Descriptive",
+        "Analytical",
+        "Persuasive",
+        "Critical"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Types of Academic Texts"
+    },
+    {
+      "question": "What type of academic text includes argument, recommendation, interpretation, or evaluation of the work of others with the addition of your own point of view?",
+      "answer": "Persuasive",
+      "choices": [
+        "Descriptive",
+        "Analytical",
+        "Persuasive",
+        "Critical"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Types of Academic Texts"
+    },
+    {
+      "question": "What type of academic text needs to be supported by evidence?",
+      "answer": "Persuasive",
+      "choices": [
+        "Descriptive",
+        "Analytical",
+        "Persuasive",
+        "Critical"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Types of Academic Texts"
+    },
+    {
+      "question": "What type of academic text requires you to consider at least two points of view, including your own?",
+      "answer": "Critical academic text",
+      "choices": [
+        "Descriptive",
+        "Analytical",
+        "Persuasive",
+        "Critical academic text"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Types of Academic Texts"
+    },
+    {
+      "question": "What is the language needed by students to do the work in schools?",
+      "answer": "Academic Language",
+      "choices": [
+        "Social Language",
+        "Academic Language",
+        "Formal Language",
+        "Informal Language"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Language Types"
+    },
+    {
+      "question": "What is the set of vocabulary that allows us to communicate with others in the context of regular daily conversations?",
+      "answer": "Social Language",
+      "choices": [
+        "Academic Language",
+        "Social Language",
+        "Informal Language",
+        "Formal Language"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Language Types"
+    },
+    {
+      "question": "What is the basic structure that is used by an academic text is consist of three (3) parts introduction, body, and conclusion which is formal and logical?",
+      "answer": "Structure",
+      "choices": [
+        "Tone",
+        "Language",
+        "Citation",
+        "Structure"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Features of Academic Writing"
+    },
+    {
+      "question": "What enables the reader to follow the argument and navigate the text?",
+      "answer": "Structure",
+      "choices": [
+        "Structure",
+        "Tone",
+        "Language",
+        "Citation"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Features of Academic Writing"
+    },
+    {
+      "question": "What refers to the attitude conveyed in a piece of writing?",
+      "answer": "Tone",
+      "choices": [
+        "Structure",
+        "Tone",
+        "Language",
+        "Citation"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Features of Academic Writing"
+    },
+    {
+      "question": "What should be used for the arguments of others to be fairly presented and with an appropriate narrative tone?",
+      "answer": "Tone",
+      "choices": [
+        "Structure",
+        "Tone",
+        "Language",
+        "Citation"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Features of Academic Writing"
+    },
+    {
+      "question": "What enables a reader to follow your line of thinking without difficulty?",
+      "answer": "Clear topic sentences",
+      "choices": [
+        "Unambiguous language",
+        "Clear topic sentences",
+        "Third person point-of-view",
+        "Formal language"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Features of Academic Writing"
+    },
+    {
+      "question": "What is a very important aspect of an academic text for citing sources in the body of the paper and providing a list of references as either footnotes or endnotes?",
+      "answer": "Citation",
+      "choices": [
+        "Citation",
+        "Structure",
+        "Language",
+        "Tone"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Features of Academic Writing"
+    },
+    {
+      "question": "What is the starting point of an academic text is a particular perspective, idea or position applied to the chosen research problem?",
+      "answer": "Thesis-driven",
+      "choices": [
+        "Structure",
+        "Tone",
+        "Thesis-driven",
+        "Language"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Features of Academic Writing"
+    }
+  ]
+}

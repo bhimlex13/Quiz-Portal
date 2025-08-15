@@ -1,0 +1,172 @@
+{
+  "quizInfo": {
+    "Subject": "English for Academic & Professional Purposes",
+    "Term": "First Quarter",
+    "Title": "Features of Academic Text and Plagiarism",
+    "LastModified": "16 August 2025",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "L2-ACADEMIC-TEXT.pdf"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "What is a strategy that readers use to recall prior knowledge and set a purpose for reading?",
+      "answer": "Preview",
+      "choices": [
+        "Review",
+        "Summarize",
+        "Preview",
+        "Read and Understand"
+      ],
+      "reference": "L2-ACADEMIC-TEXT.pdf",
+      "term": "Strategies for Academic Reading"
+    },
+    {
+      "question": "What means not only recognizing words, word order, and patterns, but also generating meaning through analysis and evaluation?",
+      "answer": "Read and Understand",
+      "choices": [
+        "Preview",
+        "Review",
+        "Summarize",
+        "Read and Understand"
+      ],
+      "reference": "L2-ACADEMIC-TEXT.pdf",
+      "term": "Strategies for Academic Reading"
+    },
+    {
+      "question": "What is used to express the most important facts or ideas about something or someone in a short and clear form?",
+      "answer": "Summarize",
+      "choices": [
+        "Preview",
+        "Review",
+        "Summarize",
+        "Read and Understand"
+      ],
+      "reference": "L2-ACADEMIC-TEXT.pdf",
+      "term": "Strategies for Academic Reading"
+    },
+    {
+      "question": "What is used to restate your overall opinions of the text?",
+      "answer": "Review",
+      "choices": [
+        "Preview",
+        "Review",
+        "Summarize",
+        "Read and Understand"
+      ],
+      "reference": "L2-ACADEMIC-TEXT.pdf",
+      "term": "Strategies for Academic Reading"
+    },
+    {
+      "question": "What is the presentation of another's works or ideas as if they were your own without giving credit to the other person?",
+      "answer": "Plagiarism",
+      "choices": [
+        "Fabrication",
+        "Plagiarism",
+        "Cheating",
+        "Multiple Submissions"
+      ],
+      "reference": "L2-ACADEMIC-TEXT.pdf",
+      "term": "Academic Dishonesty"
+    },
+    {
+      "question": "What is the word-for-word transcription of a section of someone else's work, without attribution and without quotation marks?",
+      "answer": "Direct Plagiarism",
+      "choices": [
+        "Self Plagiarism",
+        "Mosaic Plagiarism",
+        "Direct Plagiarism",
+        "Accidental Plagiarism"
+      ],
+      "reference": "L2-ACADEMIC-TEXT.pdf",
+      "term": "Types of Plagiarism"
+    },
+    {
+      "question": "What occurs when a student submits his or her own previous work, or mixes parts of previous works, without permission from all professors involved?",
+      "answer": "Self Plagiarism",
+      "choices": [
+        "Direct Plagiarism",
+        "Self Plagiarism",
+        "Mosaic Plagiarism",
+        "Accidental Plagiarism"
+      ],
+      "reference": "L2-ACADEMIC-TEXT.pdf",
+      "term": "Types of Plagiarism"
+    },
+    {
+      "question": "What occurs when a student borrows phrases from a source without using quotation marks, or finds synonyms for the author's language while keeping to the same general structure?",
+      "answer": "Mosaic Plagiarism",
+      "choices": [
+        "Direct Plagiarism",
+        "Self Plagiarism",
+        "Mosaic Plagiarism",
+        "Accidental Plagiarism"
+      ],
+      "reference": "L2-ACADEMIC-TEXT.pdf",
+      "term": "Types of Plagiarism"
+    },
+    {
+      "question": "What occurs when a person neglects to cite their sources, or misquotes their sources, or unintentionally paraphrases a source by using similar words without attribution?",
+      "answer": "Accidental Plagiarism",
+      "choices": [
+        "Direct Plagiarism",
+        "Self Plagiarism",
+        "Mosaic Plagiarism",
+        "Accidental Plagiarism"
+      ],
+      "reference": "L2-ACADEMIC-TEXT.pdf",
+      "term": "Types of Plagiarism"
+    },
+    {
+      "question": "What form of academic dishonesty involves copying off of someone else's exam?",
+      "answer": "Cheating",
+      "choices": [
+        "Fabrication",
+        "Plagiarism",
+        "Cheating",
+        "Multiple Submissions"
+      ],
+      "reference": "L2-ACADEMIC-TEXT.pdf",
+      "term": "Forms of Academic Dishonesty"
+    },
+    {
+      "question": "What form of academic dishonesty involves making up the results for a lab exercise?",
+      "answer": "Fabrication",
+      "choices": [
+        "Fabrication",
+        "Plagiarism",
+        "Cheating",
+        "Multiple Submissions"
+      ],
+      "reference": "L2-ACADEMIC-TEXT.pdf",
+      "term": "Forms of Academic Dishonesty"
+    },
+    {
+      "question": "What form of academic dishonesty involves submitting the same paper for two classes?",
+      "answer": "Multiple Submissions",
+      "choices": [
+        "Fabrication",
+        "Plagiarism",
+        "Cheating",
+        "Multiple Submissions"
+      ],
+      "reference": "L2-ACADEMIC-TEXT.pdf",
+      "term": "Forms of Academic Dishonesty"
+    },
+    {
+      "question": "What form of academic dishonesty involves letting a roommate copy your homework?",
+      "answer": "Facilitating Academic Dishonesty",
+      "choices": [
+        "Fabrication",
+        "Facilitating Academic Dishonesty",
+        "Cheating",
+        "Multiple Submissions"
+      ],
+      "reference": "L2-ACADEMIC-TEXT.pdf",
+      "term": "Forms of Academic Dishonesty"
+    }
+  ]
+}

@@ -1,0 +1,715 @@
+{
+  "quizInfo": {
+    "Subject": "English for Academic & Professional Purposes",
+    "Term": "First Quarter",
+    "Title": "Combined Prelims Reviewer",
+    "LastModified": "16 August 2025",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "L1-ACADEMIC TEXT.pptx",
+      "L2-ACADEMIC-TEXT.pdf",
+      "L3-ACADEMIC-TEXT.pdf",
+      "L4-ACADEMIC-TEXT.pdf"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "What are specialized, formal pieces of writing, crafted by experts within a specific field?",
+      "answer": "Academic Text",
+      "choices": [
+        "Non-Academic Text",
+        "Academic Text",
+        "Persuasive Text",
+        "Analytical Text"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Academic Text Definition"
+    },
+    {
+      "question": "What is characterized by their use of objective language, evidence-based arguments, and adherence to a structured format?",
+      "answer": "Academic Text",
+      "choices": [
+        "Non-Academic Text",
+        "Academic Text",
+        "Persuasive Text",
+        "Descriptive Text"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Academic Text Definition"
+    },
+    {
+      "question": "What aims to inform, analyze, or persuade a scholarly audience, relying on research and data to support claims?",
+      "answer": "Academic Text",
+      "choices": [
+        "Non-Academic Text",
+        "Academic Text",
+        "Analytical Text",
+        "Critical Academic Text"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Academic Text Definition"
+    },
+    {
+      "question": "What usually delivers simple and basic information?",
+      "answer": "Non-Academic Text",
+      "choices": [
+        "Academic Text",
+        "Non-Academic Text",
+        "Descriptive Text",
+        "Social Language"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Non-Academic Text Definition"
+    },
+    {
+      "question": "What can be read and easily understood by any kind of reader?",
+      "answer": "Non-Academic Text",
+      "choices": [
+        "Academic Text",
+        "Non-Academic Text",
+        "Social Language",
+        "Persuasive Text"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Non-Academic Text Definition"
+    },
+    {
+      "question": "What is personal, emotional, impressionistic, or subjective in nature?",
+      "answer": "Non-Academic Text",
+      "choices": [
+        "Academic Text",
+        "Non-Academic Text",
+        "Academic Language",
+        "Critical Academic Text"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Non-Academic Text Definition"
+    },
+    {
+      "question": "What type of academic text provides facts and information?",
+      "answer": "Descriptive",
+      "choices": [
+        "Analytical",
+        "Persuasive",
+        "Descriptive",
+        "Critical"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Types of Academic Texts"
+    },
+    {
+      "question": "What type of academic text organizes facts and information into categories, groups, parts, types or relationships?",
+      "answer": "Analytical",
+      "choices": [
+        "Descriptive",
+        "Analytical",
+        "Persuasive",
+        "Critical"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Types of Academic Texts"
+    },
+    {
+      "question": "What type of academic text includes argument, recommendation, interpretation, or evaluation of the work of others with the addition of your own point of view?",
+      "answer": "Persuasive",
+      "choices": [
+        "Descriptive",
+        "Analytical",
+        "Persuasive",
+        "Critical"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Types of Academic Texts"
+    },
+    {
+      "question": "What type of academic text needs to be supported by evidence?",
+      "answer": "Persuasive",
+      "choices": [
+        "Descriptive",
+        "Analytical",
+        "Persuasive",
+        "Critical"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Types of Academic Texts"
+    },
+    {
+      "question": "What type of academic text requires you to consider at least two points of view, including your own?",
+      "answer": "Critical academic text",
+      "choices": [
+        "Descriptive",
+        "Analytical",
+        "Persuasive",
+        "Critical academic text"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Types of Academic Texts"
+    },
+    {
+      "question": "What is the language needed by students to do the work in schools?",
+      "answer": "Academic Language",
+      "choices": [
+        "Social Language",
+        "Academic Language",
+        "Formal Language",
+        "Informal Language"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Language Types"
+    },
+    {
+      "question": "What is the set of vocabulary that allows us to communicate with others in the context of regular daily conversations?",
+      "answer": "Social Language",
+      "choices": [
+        "Academic Language",
+        "Social Language",
+        "Informal Language",
+        "Formal Language"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Language Types"
+    },
+    {
+      "question": "What is the basic structure that is used by an academic text is consist of three (3) parts introduction, body, and conclusion which is formal and logical?",
+      "answer": "Structure",
+      "choices": [
+        "Tone",
+        "Language",
+        "Citation",
+        "Structure"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Features of Academic Writing"
+    },
+    {
+      "question": "What enables the reader to follow the argument and navigate the text?",
+      "answer": "Structure",
+      "choices": [
+        "Structure",
+        "Tone",
+        "Language",
+        "Citation"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Features of Academic Writing"
+    },
+    {
+      "question": "What refers to the attitude conveyed in a piece of writing?",
+      "answer": "Tone",
+      "choices": [
+        "Structure",
+        "Tone",
+        "Language",
+        "Citation"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Features of Academic Writing"
+    },
+    {
+      "question": "What should be used for the arguments of others to be fairly presented and with an appropriate narrative tone?",
+      "answer": "Tone",
+      "choices": [
+        "Structure",
+        "Tone",
+        "Language",
+        "Citation"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Features of Academic Writing"
+    },
+    {
+      "question": "What enables a reader to follow your line of thinking without difficulty?",
+      "answer": "Clear topic sentences",
+      "choices": [
+        "Unambiguous language",
+        "Clear topic sentences",
+        "Third person point-of-view",
+        "Formal language"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Features of Academic Writing"
+    },
+    {
+      "question": "What is a very important aspect of an academic text for citing sources in the body of the paper and providing a list of references as either footnotes or endnotes?",
+      "answer": "Citation",
+      "choices": [
+        "Citation",
+        "Structure",
+        "Language",
+        "Tone"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Features of Academic Writing"
+    },
+    {
+      "question": "What is the starting point of an academic text is a particular perspective, idea or position applied to the chosen research problem?",
+      "answer": "Thesis-driven",
+      "choices": [
+        "Structure",
+        "Tone",
+        "Thesis-driven",
+        "Language"
+      ],
+      "reference": "L1-ACADEMIC TEXT.pptx",
+      "term": "Features of Academic Writing"
+    },
+    {
+      "question": "What is a strategy that readers use to recall prior knowledge and set a purpose for reading?",
+      "answer": "Preview",
+      "choices": [
+        "Review",
+        "Summarize",
+        "Preview",
+        "Read and Understand"
+      ],
+      "reference": "L2-ACADEMIC-TEXT.pdf",
+      "term": "Strategies for Academic Reading"
+    },
+    {
+      "question": "What means not only recognizing words, word order, and patterns, but also generating meaning through analysis and evaluation?",
+      "answer": "Read and Understand",
+      "choices": [
+        "Preview",
+        "Review",
+        "Summarize",
+        "Read and Understand"
+      ],
+      "reference": "L2-ACADEMIC-TEXT.pdf",
+      "term": "Strategies for Academic Reading"
+    },
+    {
+      "question": "What is used to express the most important facts or ideas about something or someone in a short and clear form?",
+      "answer": "Summarize",
+      "choices": [
+        "Preview",
+        "Review",
+        "Summarize",
+        "Read and Understand"
+      ],
+      "reference": "L2-ACADEMIC-TEXT.pdf",
+      "term": "Strategies for Academic Reading"
+    },
+    {
+      "question": "What is used to restate your overall opinions of the text?",
+      "answer": "Review",
+      "choices": [
+        "Preview",
+        "Review",
+        "Summarize",
+        "Read and Understand"
+      ],
+      "reference": "L2-ACADEMIC-TEXT.pdf",
+      "term": "Strategies for Academic Reading"
+    },
+    {
+      "question": "What is the presentation of another's works or ideas as if they were your own without giving credit to the other person?",
+      "answer": "Plagiarism",
+      "choices": [
+        "Fabrication",
+        "Plagiarism",
+        "Cheating",
+        "Multiple Submissions"
+      ],
+      "reference": "L2-ACADEMIC-TEXT.pdf",
+      "term": "Academic Dishonesty"
+    },
+    {
+      "question": "What is the word-for-word transcription of a section of someone else's work, without attribution and without quotation marks?",
+      "answer": "Direct Plagiarism",
+      "choices": [
+        "Self Plagiarism",
+        "Mosaic Plagiarism",
+        "Direct Plagiarism",
+        "Accidental Plagiarism"
+      ],
+      "reference": "L2-ACADEMIC-TEXT.pdf",
+      "term": "Types of Plagiarism"
+    },
+    {
+      "question": "What occurs when a student submits his or her own previous work, or mixes parts of previous works, without permission from all professors involved?",
+      "answer": "Self Plagiarism",
+      "choices": [
+        "Direct Plagiarism",
+        "Self Plagiarism",
+        "Mosaic Plagiarism",
+        "Accidental Plagiarism"
+      ],
+      "reference": "L2-ACADEMIC-TEXT.pdf",
+      "term": "Types of Plagiarism"
+    },
+    {
+      "question": "What occurs when a student borrows phrases from a source without using quotation marks, or finds synonyms for the author's language while keeping to the same general structure?",
+      "answer": "Mosaic Plagiarism",
+      "choices": [
+        "Direct Plagiarism",
+        "Self Plagiarism",
+        "Mosaic Plagiarism",
+        "Accidental Plagiarism"
+      ],
+      "reference": "L2-ACADEMIC-TEXT.pdf",
+      "term": "Types of Plagiarism"
+    },
+    {
+      "question": "What occurs when a person neglects to cite their sources, or misquotes their sources, or unintentionally paraphrases a source by using similar words without attribution?",
+      "answer": "Accidental Plagiarism",
+      "choices": [
+        "Direct Plagiarism",
+        "Self Plagiarism",
+        "Mosaic Plagiarism",
+        "Accidental Plagiarism"
+      ],
+      "reference": "L2-ACADEMIC-TEXT.pdf",
+      "term": "Types of Plagiarism"
+    },
+    {
+      "question": "What form of academic dishonesty involves copying off of someone else's exam?",
+      "answer": "Cheating",
+      "choices": [
+        "Fabrication",
+        "Plagiarism",
+        "Cheating",
+        "Multiple Submissions"
+      ],
+      "reference": "L2-ACADEMIC-TEXT.pdf",
+      "term": "Forms of Academic Dishonesty"
+    },
+    {
+      "question": "What form of academic dishonesty involves making up the results for a lab exercise?",
+      "answer": "Fabrication",
+      "choices": [
+        "Fabrication",
+        "Plagiarism",
+        "Cheating",
+        "Multiple Submissions"
+      ],
+      "reference": "L2-ACADEMIC-TEXT.pdf",
+      "term": "Forms of Academic Dishonesty"
+    },
+    {
+      "question": "What form of academic dishonesty involves submitting the same paper for two classes?",
+      "answer": "Multiple Submissions",
+      "choices": [
+        "Fabrication",
+        "Plagiarism",
+        "Cheating",
+        "Multiple Submissions"
+      ],
+      "reference": "L2-ACADEMIC-TEXT.pdf",
+      "term": "Forms of Academic Dishonesty"
+    },
+    {
+      "question": "What form of academic dishonesty involves letting a roommate copy your homework?",
+      "answer": "Facilitating Academic Dishonesty",
+      "choices": [
+        "Fabrication",
+        "Facilitating Academic Dishonesty",
+        "Cheating",
+        "Multiple Submissions"
+      ],
+      "reference": "L2-ACADEMIC-TEXT.pdf",
+      "term": "Forms of Academic Dishonesty"
+    },
+    {
+      "question": "What is a form of communication that is shaped by factors?",
+      "answer": "Writing",
+      "choices": [
+        "Outlining",
+        "Writing",
+        "Thesis Statement",
+        "Topic Sentence"
+      ],
+      "reference": "L3-ACADEMIC-TEXT.pdf",
+      "term": "Writing Process"
+    },
+    {
+      "question": "What is the overall idea or arguments of your work?",
+      "answer": "Thesis statement",
+      "choices": [
+        "Topic Sentence",
+        "Thesis statement",
+        "Outline",
+        "Writing"
+      ],
+      "reference": "L3-ACADEMIC-TEXT.pdf",
+      "term": "Key Writing Components"
+    },
+    {
+      "question": "What is a general statement that presents essential points that leads the reader to the right direction?",
+      "answer": "Thesis statement",
+      "choices": [
+        "Topic Sentence",
+        "Thesis statement",
+        "Outline",
+        "Writing"
+      ],
+      "reference": "L3-ACADEMIC-TEXT.pdf",
+      "term": "Key Writing Components"
+    },
+    {
+      "question": "What is included as a sentence or as part of the text?",
+      "answer": "Explicit Thesis Statement",
+      "choices": [
+        "Implicit Thesis Statement",
+        "Explicit Thesis Statement",
+        "Topic Sentence",
+        "Traditional Outline"
+      ],
+      "reference": "L3-ACADEMIC-TEXT.pdf",
+      "term": "Types of Thesis Statements"
+    },
+    {
+      "question": "What is it when the primary point of the reading is conveyed indirectly, in multiple locations throughout the work?",
+      "answer": "Implicit Thesis Statement",
+      "choices": [
+        "Explicit Thesis Statement",
+        "Implicit Thesis Statement",
+        "Topic Sentence",
+        "Standard Outline"
+      ],
+      "reference": "L3-ACADEMIC-TEXT.pdf",
+      "term": "Types of Thesis Statements"
+    },
+    {
+      "question": "What is a tool we use in the writing process to help organize our ideas, visualize our paper's potential structure?",
+      "answer": "Outlining",
+      "choices": [
+        "Outlining",
+        "Clustering",
+        "Brainstorming",
+        "Free Writing"
+      ],
+      "reference": "L3-ACADEMIC-TEXT.pdf",
+      "term": "Pre-writing Stage"
+    },
+    {
+      "question": "What is a step to produce ideas for writing that groups the ideas according to their relevance?",
+      "answer": "Outlining",
+      "choices": [
+        "Clustering",
+        "Outlining",
+        "Brainstorming",
+        "Free Writing"
+      ],
+      "reference": "L3-ACADEMIC-TEXT.pdf",
+      "term": "Pre-writing Stage"
+    },
+    {
+      "question": "What kind of outline uses roman numerals, letters and numbers?",
+      "answer": "Traditional Outline",
+      "choices": [
+        "Standard Outline",
+        "Traditional Outline",
+        "Parallelism",
+        "Subordination"
+      ],
+      "reference": "L3-ACADEMIC-TEXT.pdf",
+      "term": "Kinds of Outline"
+    },
+    {
+      "question": "What kind of outline uses numbers?",
+      "answer": "Standard Outline",
+      "choices": [
+        "Standard Outline",
+        "Traditional Outline",
+        "Coordination",
+        "Division"
+      ],
+      "reference": "L3-ACADEMIC-TEXT.pdf",
+      "term": "Kinds of Outline"
+    },
+    {
+      "question": "What principle of outlining is it when entries should observe the same language structure?",
+      "answer": "Parallelism",
+      "choices": [
+        "Coordination",
+        "Subordination",
+        "Parallelism",
+        "Division"
+      ],
+      "reference": "L3-ACADEMIC-TEXT.pdf",
+      "term": "Principles of Outlining"
+    },
+    {
+      "question": "What principle of outlining is it when entries should observe level of importance?",
+      "answer": "Coordination",
+      "choices": [
+        "Coordination",
+        "Subordination",
+        "Parallelism",
+        "Division"
+      ],
+      "reference": "L3-ACADEMIC-TEXT.pdf",
+      "term": "Principles of Outlining"
+    },
+    {
+      "question": "What principle of outlining is it when entries should observe differences of importance?",
+      "answer": "Subordination",
+      "choices": [
+        "Coordination",
+        "Subordination",
+        "Parallelism",
+        "Division"
+      ],
+      "reference": "L3-ACADEMIC-TEXT.pdf",
+      "term": "Principles of Outlining"
+    },
+    {
+      "question": "What principle of outlining is it when entries should at least be two to be sure that supporting points of a major idea are adequate?",
+      "answer": "Division",
+      "choices": [
+        "Coordination",
+        "Subordination",
+        "Parallelism",
+        "Division"
+      ],
+      "reference": "L3-ACADEMIC-TEXT.pdf",
+      "term": "Principles of Outlining"
+    },
+    {
+      "question": "What is an essay of your thoughts about something that could be a movie, book, incident, etc.?",
+      "answer": "Reflection Paper",
+      "choices": [
+        "Reaction Paper",
+        "Critique Paper",
+        "Reflection Paper",
+        "Summary"
+      ],
+      "reference": "L4-ACADEMIC-TEXT.pdf",
+      "term": "Types of Papers"
+    },
+    {
+      "question": "What is a task that requires a student to analyze information and give comments on a certain text or media?",
+      "answer": "Reaction Paper",
+      "choices": [
+        "Reflection Paper",
+        "Reaction Paper",
+        "Critique Paper",
+        "Summary"
+      ],
+      "reference": "L4-ACADEMIC-TEXT.pdf",
+      "term": "Types of Papers"
+    },
+    {
+      "question": "What is a specific style of essay in which you identify, evaluate, and respond to an author's ideas, both positively and negatively?",
+      "answer": "Critique Paper",
+      "choices": [
+        "Reflection Paper",
+        "Reaction Paper",
+        "Critique Paper",
+        "Summary"
+      ],
+      "reference": "L4-ACADEMIC-TEXT.pdf",
+      "term": "Types of Papers"
+    },
+    {
+      "question": "What part of a reflection paper contains the idea and thesis statement?",
+      "answer": "Introduction",
+      "choices": [
+        "Body",
+        "Conclusion",
+        "Introduction",
+        "Analysis"
+      ],
+      "reference": "L4-ACADEMIC-TEXT.pdf",
+      "term": "Parts of a Reflection Paper"
+    },
+    {
+      "question": "What part of a reflection paper explains the introduction and may include quotes and passages?",
+      "answer": "Body",
+      "choices": [
+        "Introduction",
+        "Body",
+        "Conclusion",
+        "Comments"
+      ],
+      "reference": "L4-ACADEMIC-TEXT.pdf",
+      "term": "Parts of a Reflection Paper"
+    },
+    {
+      "question": "What part of a reflection paper wraps up the paper and describes the feeling and overall lesson?",
+      "answer": "Conclusion",
+      "choices": [
+        "Introduction",
+        "Body",
+        "Conclusion",
+        "Suggestion"
+      ],
+      "reference": "L4-ACADEMIC-TEXT.pdf",
+      "term": "Parts of a Reflection Paper"
+    },
+    {
+      "question": "What part of a reaction paper introduces the work to the reader by giving the name of the author and what the work is about?",
+      "answer": "Details of the Work",
+      "choices": [
+        "The Context",
+        "The Need and Reaction",
+        "Details of the Work",
+        "Summary"
+      ],
+      "reference": "L4-ACADEMIC-TEXT.pdf",
+      "term": "Parts of a Reaction Paper"
+    },
+    {
+      "question": "What part of a reaction paper gives the background of the piece you are reacting to?",
+      "answer": "The Context",
+      "choices": [
+        "The Context",
+        "The Need and Reaction",
+        "Details of the Work",
+        "Summary"
+      ],
+      "reference": "L4-ACADEMIC-TEXT.pdf",
+      "term": "Parts of a Reaction Paper"
+    },
+    {
+      "question": "What part of a reaction paper includes your opinion, thoughts, or ideas about the work?",
+      "answer": "The Need and Reaction",
+      "choices": [
+        "The Context",
+        "The Need and Reaction",
+        "Details of the Work",
+        "Summary"
+      ],
+      "reference": "L4-ACADEMIC-TEXT.pdf",
+      "term": "Parts of a Reaction Paper"
+    },
+    {
+      "question": "What part of a critique paper describes the work or piece you are critiquing?",
+      "answer": "Introduction",
+      "choices": [
+        "Analysis",
+        "Comments and Suggestions",
+        "Introduction",
+        "Summary"
+      ],
+      "reference": "L4-ACADEMIC-TEXT.pdf",
+      "term": "Parts of a Critique Paper"
+    },
+    {
+      "question": "What part of a critique paper provides the critique and detailed analysis of the work?",
+      "answer": "Analysis",
+      "choices": [
+        "Introduction",
+        "Analysis",
+        "Comments and Suggestions",
+        "Summary"
+      ],
+      "reference": "L4-ACADEMIC-TEXT.pdf",
+      "term": "Parts of a Critique Paper"
+    },
+    {
+      "question": "What part of a critique paper points out the things that may give improvements to the work you are critiquing?",
+      "answer": "Comments and Suggestions",
+      "choices": [
+        "Introduction",
+        "Analysis",
+        "Comments and Suggestions",
+        "Summary"
+      ],
+      "reference": "L4-ACADEMIC-TEXT.pdf",
+      "term": "Parts of a Critique Paper"
+    }
+  ]
+}

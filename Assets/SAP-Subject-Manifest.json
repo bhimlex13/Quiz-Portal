@@ -267,7 +267,7 @@
             "Subject_Status": "Active",
             "Subject_Module": [
                 {
-                    "Module_ID": "C3_S1_21C_Prelims",
+                    "Module_ID": "C3_S1_PHS_Prelims",
                     "Module_Name": "First Quarter",
                     "Module_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_Prelims_1.png",
                     "Module_Status": "Active",
@@ -322,6 +322,79 @@
                             "Subfolder_Name": "Phisical Science Reviewer Pro Max",
                             "Subfolder_Description": "Description of the subfolder here",
                             "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_PHS_Prelims_5",
+                            "Subfolder_Author": [
+                                "Alexander Oro"
+                            ],
+                            "Subfolder_LastModified": "15 August 2025",
+                            "Subfolder_Status": "Active"
+                        }
+                    ]
+                }
+            ]
+        },
+
+          {
+            "Subject_ID": "C3_S1_EAP",
+            "Subject_Name": "EAPP",
+            "Subject_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_MST_Demo.png",
+            "Subject_Status": "Active",
+            "Subject_Module": [
+                {
+                    "Module_ID": "C3_S1_EAP_Prelims",
+                    "Module_Name": "First Quarter",
+                    "Module_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_Prelims_1.png",
+                    "Module_Status": "Active",
+                    "Module_LastModified": "15 August 2025",
+                    "Module_Subfolders": [
+                        {
+                            "Subfolder_ID": "C3_S1_EAP_Prelims_1",
+                            "Subfolder_Name": "Academic and Non-Academic Texts",
+                            "Subfolder_Description": "Description of the subfolder here",
+                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_EAP_Prelims_1",
+                            "Subfolder_Author": [
+                                "Alexander Oro"
+                            ],
+                            "Subfolder_LastModified": "15 August 2025",
+                            "Subfolder_Status": "Active"
+                        },
+                                                {
+                            "Subfolder_ID": "C3_S1_EAP_Prelims_2",
+                            "Subfolder_Name": "Features of Academic Text and Plagiarism",
+                            "Subfolder_Description": "Description of the subfolder here",
+                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_EAP_Prelims_2",
+                            "Subfolder_Author": [
+                                "Alexander Oro"
+                            ],
+                            "Subfolder_LastModified": "15 August 2025",
+                            "Subfolder_Status": "Active"
+                        },
+                        {
+                            "Subfolder_ID": "C3_S1_EAP_Prelims_3",
+                            "Subfolder_Name": "Writing Process and Outlining",
+                            "Subfolder_Description": "Description of the subfolder here",
+                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_EAP_Prelims_3",
+                            "Subfolder_Author": [
+                                "Alexander Oro"
+                            ],
+                            "Subfolder_LastModified": "15 August 2025",
+                            "Subfolder_Status": "Active"
+                        },
+                        {
+                            "Subfolder_ID": "C3_S1_EAP_Prelims_4",
+                            "Subfolder_Name": "Reflection, Reaction, and Critique Papers",
+                            "Subfolder_Description": "Description of the subfolder here",
+                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_EAP_Prelims_4",
+                            "Subfolder_Author": [
+                                "Alexander Oro"
+                            ],
+                            "Subfolder_LastModified": "15 August 2025",
+                            "Subfolder_Status": "Active"
+                        },
+                                                {
+                            "Subfolder_ID": "C3_S1_EAP_Prelims_5",
+                            "Subfolder_Name": "EAPP REVIEWER PRO MAX",
+                            "Subfolder_Description": "Description of the subfolder here",
+                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_EAP_Prelims_5",
                             "Subfolder_Author": [
                                 "Alexander Oro"
                             ],
