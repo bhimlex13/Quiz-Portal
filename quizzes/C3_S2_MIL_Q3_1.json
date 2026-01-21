@@ -1,0 +1,304 @@
+{
+  "quizInfo": {
+    "Subject": "Media Information Technology",
+    "Term": "Third Quarter",
+    "Title": "Introduction to Media and Information Literacy",
+    "LastModified": "22 January 2026",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "LESSON-1-MIL"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "What phrase encourages users to be careful with online content?",
+      "answer": "Think critically, click wisely!",
+      "choices": [
+        "Think critically, click wisely!",
+        "Share freely, connect openly!",
+        "Browse fast, read less!",
+        "Click first, ask later!"
+      ],
+      "reference": "LESSON-1-MIL.pptx",
+      "term": "Introduction"
+    },
+    {
+      "question": "What has been traditionally referred to as 'the ability to read and write' in school?",
+      "answer": "Literacy",
+      "choices": [
+        "Literacy",
+        "Numeracy",
+        "Fluency",
+        "Competency"
+      ],
+      "reference": "LESSON-1-MIL.pptx",
+      "term": "Media Literacy"
+    },
+    {
+      "question": "What refers to the ability to access, analyze, evaluate, and create media?",
+      "answer": "Media Literacy",
+      "choices": [
+        "Media Literacy",
+        "Information Literacy",
+        "Technology Literacy",
+        "Computer Literacy"
+      ],
+      "reference": "LESSON-1-MIL.pptx",
+      "term": "Media Literacy"
+    },
+    {
+      "question": "What word refers to the different means of communication, such as television, radio, newspapers, magazines, and the Internet?",
+      "answer": "Media",
+      "choices": [
+        "Media",
+        "Data",
+        "Technology",
+        "Signal"
+      ],
+      "reference": "LESSON-1-MIL.pptx",
+      "term": "Media Literacy"
+    },
+    {
+      "question": "What is the ability to exercise critical thinking when analyzing different forms of media?",
+      "answer": "Media Literacy",
+      "choices": [
+        "Media Literacy",
+        "Information Literacy",
+        "Technology Literacy",
+        "Scientific Literacy"
+      ],
+      "reference": "LESSON-1-MIL.pptx",
+      "term": "Media Literacy"
+    },
+    {
+      "question": "What enables a person to become competent in processing and assessing the form of media one uses?",
+      "answer": "Media Literacy",
+      "choices": [
+        "Media Literacy",
+        "Technological Skill",
+        "Information Access",
+        "Digital Communication"
+      ],
+      "reference": "LESSON-1-MIL.pptx",
+      "term": "Media Literacy"
+    },
+    {
+      "question": "What pertains to a specific data acquired for a specific purpose?",
+      "answer": "Information",
+      "choices": [
+        "Information",
+        "Media",
+        "Technology",
+        "Communication"
+      ],
+      "reference": "LESSON-1-MIL.pptx",
+      "term": "Information Literacy"
+    },
+    {
+      "question": "What depends upon the person’s need when gathering data?",
+      "answer": "Gathering information",
+      "choices": [
+        "Gathering information",
+        "Creating media",
+        "Buying technology",
+        "Sending messages"
+      ],
+      "reference": "LESSON-1-MIL.pptx",
+      "term": "Information Literacy"
+    },
+    {
+      "question": "What Greek word does 'Technology' come from, meaning systematic treatment?",
+      "answer": "Techne",
+      "choices": [
+        "Techne",
+        "Logos",
+        "Philo",
+        "Sophia"
+      ],
+      "reference": "LESSON-1-MIL.pptx",
+      "term": "Technology Literacy"
+    },
+    {
+      "question": "What is defined as 'the systematic application of one’s art or skill for a practical purpose'?",
+      "answer": "Technology",
+      "choices": [
+        "Technology",
+        "Science",
+        "Engineering",
+        "Mathematics"
+      ],
+      "reference": "LESSON-1-MIL.pptx",
+      "term": "Technology Literacy"
+    },
+    {
+      "question": "What is the ability to acquire relevant information and use modern-day tools to get, manage, apply, evaluate, create, and communicate information?",
+      "answer": "Technology Literacy",
+      "choices": [
+        "Technology Literacy",
+        "Media Literacy",
+        "Information Literacy",
+        "Computer Science"
+      ],
+      "reference": "LESSON-1-MIL.pptx",
+      "term": "Technology Literacy"
+    },
+    {
+      "question": "What uses scientific knowledge and computer skills to develop machinery and equipment needed by various industries?",
+      "answer": "Technology",
+      "choices": [
+        "Technology",
+        "Biology",
+        "Physics",
+        "Chemistry"
+      ],
+      "reference": "LESSON-1-MIL.pptx",
+      "term": "Technology Literacy"
+    },
+    {
+      "question": "What invention made transportation much easier and is an example of past technology?",
+      "answer": "Wheel",
+      "choices": [
+        "Wheel",
+        "Engine",
+        "Computer",
+        "Internet"
+      ],
+      "reference": "LESSON-1-MIL.pptx",
+      "term": "Technology Literacy"
+    },
+    {
+      "question": "What Latin term does 'Communication' come from, meaning 'to share' or 'to divide out'?",
+      "answer": "Communicare",
+      "choices": [
+        "Communicare",
+        "Communis",
+        "Commo",
+        "Commercium"
+      ],
+      "reference": "LESSON-1-MIL.pptx",
+      "term": "Communication"
+    },
+    {
+      "question": "What other Latin word may 'Communication' originate from, meaning 'working together'?",
+      "answer": "Communis",
+      "choices": [
+        "Communis",
+        "Community",
+        "Common",
+        "Communicare"
+      ],
+      "reference": "LESSON-1-MIL.pptx",
+      "term": "Communication"
+    },
+    {
+      "question": "What is simply the act of transferring information from one place, person or group to another?",
+      "answer": "Communication",
+      "choices": [
+        "Communication",
+        "Transmission",
+        "Broadcasting",
+        "Publication"
+      ],
+      "reference": "LESSON-1-MIL.pptx",
+      "term": "Communication"
+    },
+    {
+      "question": "What is the act or process of using words, sounds, signs, or behaviors to express or exchange information?",
+      "answer": "Communication",
+      "choices": [
+        "Communication",
+        "Expression",
+        "Interaction",
+        "Dialogue"
+      ],
+      "reference": "LESSON-1-MIL.pptx",
+      "term": "Communication"
+    },
+    {
+      "question": "What model represents communication as an attempt to answer 'Who says, says what, in which channel, and with what effect'?",
+      "answer": "Transmission model",
+      "choices": [
+        "Transmission model",
+        "Reception model",
+        "Transactional model",
+        "Interactive model"
+      ],
+      "reference": "LESSON-1-MIL.pptx",
+      "term": "Communication Process"
+    },
+    {
+      "question": "Who is associated with the Transmission model of communication?",
+      "answer": "Harold Laswell",
+      "choices": [
+        "Harold Laswell",
+        "David Berlo",
+        "Wilbur Schramm",
+        "Shannon and Weaver"
+      ],
+      "reference": "LESSON-1-MIL.pptx",
+      "term": "Communication Process"
+    },
+    {
+      "question": "What year is associated with Lasswell's Communication Model?",
+      "answer": "1948",
+      "choices": [
+        "1948",
+        "1954",
+        "1960",
+        "1970"
+      ],
+      "reference": "LESSON-1-MIL.pptx",
+      "term": "Communication Process"
+    },
+    {
+      "question": "Which model is known as the Osgood-Schramm Model of Communication?",
+      "answer": "Reception Model",
+      "choices": [
+        "Reception Model",
+        "Transmission Model",
+        "Linear Model",
+        "Circular Model"
+      ],
+      "reference": "LESSON-1-MIL.pptx",
+      "term": "Communication Process"
+    },
+    {
+      "question": "What year is associated with the Osgood-Schramm Model of Communication?",
+      "answer": "1954",
+      "choices": [
+        "1954",
+        "1948",
+        "1960",
+        "1972"
+      ],
+      "reference": "LESSON-1-MIL.pptx",
+      "term": "Communication Process"
+    },
+    {
+      "question": "Which model is known as Berlo's SMCR Model of Communication?",
+      "answer": "Reception Model",
+      "choices": [
+        "Reception Model",
+        "Transmission Model",
+        "Interaction Model",
+        "Transaction Model"
+      ],
+      "reference": "LESSON-1-MIL.pptx",
+      "term": "Communication Process"
+    },
+    {
+      "question": "What year is associated with Berlo's SMCR Model of Communication?",
+      "answer": "1960",
+      "choices": [
+        "1960",
+        "1954",
+        "1948",
+        "1965"
+      ],
+      "reference": "LESSON-1-MIL.pptx",
+      "term": "Communication Process"
+    }
+  ]
+}

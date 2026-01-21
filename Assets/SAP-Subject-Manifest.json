@@ -60,6 +60,45 @@
                     ]
                 }
             ]
+        },
+        {
+            "Subject_ID": "C3_S2_MIL",
+            "Subject_Name": "Media Information Technology",
+            "Subject_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_MST_DEMO.png",
+            "Subject_Status": "Active",
+            "Subject_Module": [
+                {
+                    "Module_ID": "C3_S2_MIL_Q3",
+                    "Module_Name": "Third Quarter",
+                    "Module_Thumbnail": "Assets/Images/Thumbnails/OLD_Thumbnail_Prefinals_1.png",
+                    "Module_Status": "Active",
+                    "Module_LastModified": "22 January 2026",
+                    "Module_Subfolders": [
+                        {
+                            "Subfolder_ID": "C3_S2_MIL_Q3_1",
+                            "Subfolder_Name": "Introduction to Media and Information Literacy",
+                            "Subfolder_Description": "Quiz covering Lesson 1: Definitions of Literacy, Media, Information, Technology, and Communication Models.",
+                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S2_MIL_Q3_1",
+                            "Subfolder_Author": [
+                                "Alexander Oro"
+                            ],
+                            "Subfolder_LastModified": "22 January 2026",
+                            "Subfolder_Status": "Active"
+                        },
+                        {
+                            "Subfolder_ID": "C3_S2_MIL_Q3_2",
+                            "Subfolder_Name": "Evolution of Traditional to New Media",
+                            "Subfolder_Description": "Quiz covering Lesson 2: Pre-Industrial to Information Age and Marshall McLuhan.",
+                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S2_MIL_Q3_2",
+                            "Subfolder_Author": [
+                                "Alexander Oro"
+                            ],
+                            "Subfolder_LastModified": "22 January 2026",
+                            "Subfolder_Status": "Active"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

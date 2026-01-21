@@ -1,0 +1,256 @@
+{
+  "quizInfo": {
+    "Subject": "Media Information Technology",
+    "Term": "Third Quarter",
+    "Title": "Evolution of Traditional to New Media",
+    "LastModified": "22 January 2026",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "LESSON-2-MIL"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "Who stated that 'The Best way to predict free future is to CREATE IT'?",
+      "answer": "Abraham Lincoln",
+      "choices": [
+        "Abraham Lincoln",
+        "Marshall McLuhan",
+        "Alexander Graham Bell",
+        "Steve Jobs"
+      ],
+      "reference": "LESSON-2-MIL.pptx",
+      "term": "Introduction"
+    },
+    {
+      "question": "Which age occurred before 1700?",
+      "answer": "Pre-Industrial Age",
+      "choices": [
+        "Pre-Industrial Age",
+        "Industrial Age",
+        "Electronic Age",
+        "Information Age"
+      ],
+      "reference": "LESSON-2-MIL.pptx",
+      "term": "Pre-Industrial Age"
+    },
+    {
+      "question": "In which age did people discover fire and develop paper from plants?",
+      "answer": "Pre-Industrial Age",
+      "choices": [
+        "Pre-Industrial Age",
+        "Industrial Age",
+        "Electronic Age",
+        "New Age"
+      ],
+      "reference": "LESSON-2-MIL.pptx",
+      "term": "Pre-Industrial Age"
+    },
+    {
+      "question": "What is an example of media from the Pre-Industrial Age dated 35,000 BC?",
+      "answer": "Cave Painting",
+      "choices": [
+        "Cave Painting",
+        "Clay Tablets",
+        "Papyrus",
+        "Acta Diurna"
+      ],
+      "reference": "LESSON-2-MIL.pptx",
+      "term": "Pre-Industrial Age"
+    },
+    {
+      "question": "What is an example of media from the Pre-Industrial Age found in Mesopotamia (2,400 BC)?",
+      "answer": "Clay Tablets",
+      "choices": [
+        "Clay Tablets",
+        "Papyrus",
+        "Codex",
+        "Dibao"
+      ],
+      "reference": "LESSON-2-MIL.pptx",
+      "term": "Pre-Industrial Age"
+    },
+    {
+      "question": "Which age occurred from 1700-1930s?",
+      "answer": "Industrial Age",
+      "choices": [
+        "Industrial Age",
+        "Pre-Industrial Age",
+        "Electronic Age",
+        "Information Age"
+      ],
+      "reference": "LESSON-2-MIL.pptx",
+      "term": "Industrial Age"
+    },
+    {
+      "question": "In which age did people use the power of steam and develop machine tools?",
+      "answer": "Industrial Age",
+      "choices": [
+        "Industrial Age",
+        "Pre-Industrial Age",
+        "Electronic Age",
+        "New Age"
+      ],
+      "reference": "LESSON-2-MIL.pptx",
+      "term": "Industrial Age"
+    },
+    {
+      "question": "What newspaper is listed as an example of the Industrial Age (1740)?",
+      "answer": "The London Gazette",
+      "choices": [
+        "The London Gazette",
+        "The New York Times",
+        "Acta Diurna",
+        "Dibao"
+      ],
+      "reference": "LESSON-2-MIL.pptx",
+      "term": "Industrial Age"
+    },
+    {
+      "question": "What year was the Typewriter invented according to the lesson?",
+      "answer": "1800",
+      "choices": [
+        "1800",
+        "1876",
+        "1900",
+        "1740"
+      ],
+      "reference": "LESSON-2-MIL.pptx",
+      "term": "Industrial Age"
+    },
+    {
+      "question": "What invention ushered in the electronic age?",
+      "answer": "The transistor",
+      "choices": [
+        "The transistor",
+        "The steam engine",
+        "The internet",
+        "The printing press"
+      ],
+      "reference": "LESSON-2-MIL.pptx",
+      "term": "Electronic Age"
+    },
+    {
+      "question": "Which age occurred from 1930-1980s?",
+      "answer": "Electronic Age",
+      "choices": [
+        "Electronic Age",
+        "Industrial Age",
+        "Information Age",
+        "Pre-Industrial Age"
+      ],
+      "reference": "LESSON-2-MIL.pptx",
+      "term": "Electronic Age"
+    },
+    {
+      "question": "In which age did long distance communication become more efficient?",
+      "answer": "Electronic Age",
+      "choices": [
+        "Electronic Age",
+        "Pre-Industrial Age",
+        "Industrial Age",
+        "Stone Age"
+      ],
+      "reference": "LESSON-2-MIL.pptx",
+      "term": "Electronic Age"
+    },
+    {
+      "question": "What example of media from the Electronic Age is dated 1941?",
+      "answer": "Television",
+      "choices": [
+        "Television",
+        "Transistor Radio",
+        "Mainframe Computer",
+        "Apple 1 Computer"
+      ],
+      "reference": "LESSON-2-MIL.pptx",
+      "term": "Electronic Age"
+    },
+    {
+      "question": "Which age occurred from 1900s-2000s?",
+      "answer": "New/Information Age",
+      "choices": [
+        "New/Information Age",
+        "Electronic Age",
+        "Industrial Age",
+        "Pre-Industrial Age"
+      ],
+      "reference": "LESSON-2-MIL.pptx",
+      "term": "Information Age"
+    },
+    {
+      "question": "What paved the way for faster communication and the creation of the social network?",
+      "answer": "The internet",
+      "choices": [
+        "The internet",
+        "The transistor",
+        "The telegraph",
+        "The telephone"
+      ],
+      "reference": "LESSON-2-MIL.pptx",
+      "term": "Information Age"
+    },
+    {
+      "question": "In which age are voice, image, sound and data digitalized?",
+      "answer": "Information Age",
+      "choices": [
+        "Information Age",
+        "Electronic Age",
+        "Industrial Age",
+        "Pre-Industrial Age"
+      ],
+      "reference": "LESSON-2-MIL.pptx",
+      "term": "Information Age"
+    },
+    {
+      "question": "Who was a world renown Canadian scholar and the director of the center for culture and technology?",
+      "answer": "Marshall McLuhan",
+      "choices": [
+        "Marshall McLuhan",
+        "Harold Laswell",
+        "Abraham Lincoln",
+        "Mark Zuckerberg"
+      ],
+      "reference": "LESSON-2-MIL.pptx",
+      "term": "Marshall McLuhan"
+    },
+    {
+      "question": "Who is known as 'the high priest of pop culture' and 'father of media studies'?",
+      "answer": "Marshall McLuhan",
+      "choices": [
+        "Marshall McLuhan",
+        "Steve Jobs",
+        "Bill Gates",
+        "Tim Berners-Lee"
+      ],
+      "reference": "LESSON-2-MIL.pptx",
+      "term": "Marshall McLuhan"
+    },
+    {
+      "question": "What popular phrase did Marshall McLuhan coin?",
+      "answer": "The medium is the message",
+      "choices": [
+        "The medium is the message",
+        "Think critically, click wisely",
+        "Knowledge is power",
+        "Connect the world"
+      ],
+      "reference": "LESSON-2-MIL.pptx",
+      "term": "Marshall McLuhan"
+    },
+    {
+      "question": "What did McLuhan argue led into the industrial revolution and fragmented the world?",
+      "answer": "Creation of the printing press",
+      "choices": [
+        "Creation of the printing press",
+        "Invention of the internet",
+        "Discovery of fire",
+        "Development of the transistor"
+      ],
+      "reference": "LESSON-2-MIL.pptx",
+      "term": "Marshall McLuhan"
+    }
+  ]
+}
