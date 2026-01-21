@@ -1,0 +1,232 @@
+{
+  "quizInfo": {
+    "Subject": "Philosophy",
+    "Term": "Third Quarter",
+    "Title": "Methods of Philosophizing",
+    "LastModified": "22 January 2026",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "Methods-of-Philosophizing-Presentation-Museum-Style"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "What is defined as a careful or organized way of doing something?",
+      "answer": "Method",
+      "choices": [
+        "Method",
+        "Process",
+        "System",
+        "Technique"
+      ],
+      "reference": "Methods-of-Philosophizing-Presentation-Museum-Style (1).pptx",
+      "term": "Method"
+    },
+    {
+      "question": "What refers to the act of engaging in deep thinking or reflection about fundamental questions related to existence, knowledge, ethics, reality, and other abstract concepts?",
+      "answer": "Philosophizing",
+      "choices": [
+        "Philosophizing",
+        "Alienation",
+        "Reasoning",
+        "Phenomenology"
+      ],
+      "reference": "Methods-of-Philosophizing-Presentation-Museum-Style (1).pptx",
+      "term": "Philosophizing"
+    },
+    {
+      "question": "What is a process of thinking or expressing oneself in a philosophical manner?",
+      "answer": "Philosophizing",
+      "choices": [
+        "Philosophizing",
+        "Logic",
+        "Analysis",
+        "Debate"
+      ],
+      "reference": "Methods-of-Philosophizing-Presentation-Museum-Style (1).pptx",
+      "term": "Philosophizing"
+    },
+    {
+      "question": "What moves from specific premises to a general conclusion?",
+      "answer": "Inductive Reasoning",
+      "choices": [
+        "Inductive Reasoning",
+        "Deductive Reasoning",
+        "Abductive Reasoning",
+        "Circular Reasoning"
+      ],
+      "reference": "Methods-of-Philosophizing-Presentation-Museum-Style (1).pptx",
+      "term": "Inductive Reasoning"
+    },
+    {
+      "question": "What moves from general premises to a more specific conclusion?",
+      "answer": "Deductive Reasoning",
+      "choices": [
+        "Deductive Reasoning",
+        "Inductive Reasoning",
+        "Analytical Reasoning",
+        "Critical Reasoning"
+      ],
+      "reference": "Methods-of-Philosophizing-Presentation-Museum-Style (1).pptx",
+      "term": "Deductive Reasoning"
+    },
+    {
+      "question": "What means withdrawal or separation from something according to the Merriam Dictionary?",
+      "answer": "Alienation",
+      "choices": [
+        "Alienation",
+        "Isolation",
+        "Detachment",
+        "Segregation"
+      ],
+      "reference": "Methods-of-Philosophizing-Presentation-Museum-Style (1).pptx",
+      "term": "Alienation"
+    },
+    {
+      "question": "In what state is it believed that individuals live in a fourfold condition: from God, from nature, from other people, and from our own 'true' selves?",
+      "answer": "Alienation",
+      "choices": [
+        "Alienation",
+        "Existentialism",
+        "Nihilism",
+        "Humanism"
+      ],
+      "reference": "Methods-of-Philosophizing-Presentation-Museum-Style (1).pptx",
+      "term": "Alienation"
+    },
+    {
+      "question": "What is the way of thinking about the individual human experience, focusing on what it means to exist in a mysterious universe?",
+      "answer": "Existentialism",
+      "choices": [
+        "Existentialism",
+        "Phenomenology",
+        "Empiricism",
+        "Rationalism"
+      ],
+      "reference": "Methods-of-Philosophizing-Presentation-Museum-Style (1).pptx",
+      "term": "Existentialism"
+    },
+    {
+      "question": "What is the philosophical study of experience and how we perceive the world?",
+      "answer": "Phenomenology",
+      "choices": [
+        "Phenomenology",
+        "Existentialism",
+        "Epistemology",
+        "Metaphysics"
+      ],
+      "reference": "Methods-of-Philosophizing-Presentation-Museum-Style (1).pptx",
+      "term": "Phenomenology"
+    },
+    {
+      "question": "What is defined as a careful inspection and description of phenomena or appearance?",
+      "answer": "Phenomenology",
+      "choices": [
+        "Phenomenology",
+        "Methodology",
+        "Ontology",
+        "Aesthetics"
+      ],
+      "reference": "Methods-of-Philosophizing-Presentation-Museum-Style (1).pptx",
+      "term": "Phenomenology"
+    },
+    {
+      "question": "What is based on the belief that a statement is meaningful only if it’s proven true or false through experimentation?",
+      "answer": "Analytical Tradition",
+      "choices": [
+        "Analytical Tradition",
+        "Continental Tradition",
+        "Pragmatism",
+        "Idealism"
+      ],
+      "reference": "Methods-of-Philosophizing-Presentation-Museum-Style (1).pptx",
+      "term": "Analytical Tradition"
+    },
+    {
+      "question": "What is the branch of Philosophy which deals with beauty and what makes things 'beautiful'?",
+      "answer": "Aesthetics",
+      "choices": [
+        "Aesthetics",
+        "Ethics",
+        "Logic",
+        "Metaphysics"
+      ],
+      "reference": "Methods-of-Philosophizing-Presentation-Museum-Style (1).pptx",
+      "term": "Branches of Philosophy"
+    },
+    {
+      "question": "What is the branch of philosophy which deals with correct reasoning?",
+      "answer": "Logic",
+      "choices": [
+        "Logic",
+        "Epistemology",
+        "Ethics",
+        "Politics"
+      ],
+      "reference": "Methods-of-Philosophizing-Presentation-Museum-Style (1).pptx",
+      "term": "Branches of Philosophy"
+    },
+    {
+      "question": "What discusses the nature of knowledge and knowing?",
+      "answer": "Epistemology",
+      "choices": [
+        "Epistemology",
+        "Metaphysics",
+        "Logic",
+        "Aesthetics"
+      ],
+      "reference": "Methods-of-Philosophizing-Presentation-Museum-Style (1).pptx",
+      "term": "Branches of Philosophy"
+    },
+    {
+      "question": "What is the branch which deals with moral questions and dilemmas?",
+      "answer": "Ethics",
+      "choices": [
+        "Ethics",
+        "Aesthetics",
+        "Politics",
+        "Logic"
+      ],
+      "reference": "Methods-of-Philosophizing-Presentation-Museum-Style (1).pptx",
+      "term": "Branches of Philosophy"
+    },
+    {
+      "question": "What studies governments and deals with questions of justice, power, and the rights and obligations of citizens?",
+      "answer": "Political Philosophy",
+      "choices": [
+        "Political Philosophy",
+        "Social Philosophy",
+        "Ethics",
+        "Logic"
+      ],
+      "reference": "Methods-of-Philosophizing-Presentation-Museum-Style (1).pptx",
+      "term": "Branches of Philosophy"
+    },
+    {
+      "question": "What is a branch of philosophy which deals with questions regarding reality and existence?",
+      "answer": "Metaphysics",
+      "choices": [
+        "Metaphysics",
+        "Epistemology",
+        "Aesthetics",
+        "Logic"
+      ],
+      "reference": "Methods-of-Philosophizing-Presentation-Museum-Style (1).pptx",
+      "term": "Branches of Philosophy"
+    },
+    {
+      "question": "What is an area in philosophy that understands the human person from a philosophical perspective?",
+      "answer": "Philosophy of the Human Person",
+      "choices": [
+        "Philosophy of the Human Person",
+        "Psychology",
+        "Anthropology",
+        "Sociology"
+      ],
+      "reference": "Methods-of-Philosophizing-Presentation-Museum-Style (1).pptx",
+      "term": "Branches of Philosophy"
+    }
+  ]
+}

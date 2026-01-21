@@ -1,404 +1,60 @@
 {
     "Subject": [
         {
-            "Subject_ID": "C3_S1_ENT",
-            "Subject_Name": "Entrepreneur",
-            "Subject_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_EA.png",
+            "Subject_ID": "C3_S2_PHILO",
+            "Subject_Name": "Philosophy",
+            "Subject_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_PIIST.png",
             "Subject_Status": "Active",
             "Subject_Module": [
                 {
-                    "Module_ID": "C3_S1_ENT_Prelims",
-                    "Module_Name": "First Quarter",
-                    "Module_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_Prelims_1.png",
+                    "Module_ID": "C3_S2_PHILO_Q3",
+                    "Module_Name": "Third Quarter",
+                    "Module_Thumbnail": "Assets/Images/Thumbnails/OLD_Thumbnail_Prefinals_1.png",
                     "Module_Status": "Active",
-                    "Module_LastModified": "14 August 2025",
+                    "Module_LastModified": "22 January 2026",
                     "Module_Subfolders": [
                         {
-                            "Subfolder_ID": "C3_S1_ENT_Prelims_1",
-                            "Subfolder_Name": "Week 1",
-                            "Subfolder_Description": "Description of the subfolder here",
-                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_ENT_Prelims_1",
+                            "Subfolder_ID": "C3_S2_PHILO_Q3_1",
+                            "Subfolder_Name": "Introduction to Western Philosophy",
+                            "Subfolder_Description": "Quiz covering Lesson 1: Western Philosophy, Pre-Socratics, and key figures.",
+                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S2_PHILO_Q3_1",
                             "Subfolder_Author": [
                                 "Alexander Oro"
                             ],
-                            "Subfolder_LastModified": "14 August 2025",
+                            "Subfolder_LastModified": "22 January 2026",
                             "Subfolder_Status": "Active"
                         },
                         {
-                            "Subfolder_ID": "C3_S1_ENT_Prelims_2",
-                            "Subfolder_Name": "Week 2",
-                            "Subfolder_Description": "Description of the subfolder here",
-                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_ENT_Prelims_2",
+                            "Subfolder_ID": "C3_S2_PHILO_Q3_2",
+                            "Subfolder_Name": "The Human Person in the Environment",
+                            "Subfolder_Description": "Quiz covering Lesson 2: Environmental Philosophy, Anthropocentrism, and Sustainability.",
+                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S2_PHILO_Q3_2",
                             "Subfolder_Author": [
                                 "Alexander Oro"
                             ],
-                            "Subfolder_LastModified": "14 August 2025",
+                            "Subfolder_LastModified": "22 January 2026",
                             "Subfolder_Status": "Active"
                         },
                         {
-                            "Subfolder_ID": "C3_S1_ENT_Prelims_3",
-                            "Subfolder_Name": "Week 3",
-                            "Subfolder_Description": "Description of the subfolder here",
-                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_ENT_Prelims_3",
+                            "Subfolder_ID": "C3_S2_PHILO_Q3_3",
+                            "Subfolder_Name": "The Human Person as an Embodied Spirit",
+                            "Subfolder_Description": "Quiz covering Lesson 3: Embodied Spirit, Soul vs Spirit, Plato, and Aristotle.",
+                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S2_PHILO_Q3_3",
                             "Subfolder_Author": [
                                 "Alexander Oro"
                             ],
-                            "Subfolder_LastModified": "14 August 2025",
+                            "Subfolder_LastModified": "22 January 2026",
                             "Subfolder_Status": "Active"
                         },
                         {
-                            "Subfolder_ID": "C3_S1_ENT_Prelims_4",
-                            "Subfolder_Name": "Week 4",
-                            "Subfolder_Description": "Description of the subfolder here",
-                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_ENT_Prelims_4",
+                            "Subfolder_ID": "C3_S2_PHILO_Q3_4",
+                            "Subfolder_Name": "Methods of Philosophizing",
+                            "Subfolder_Description": "Quiz covering Lesson 4: Reasoning, Alienation, Phenomenology, and branches of Philosophy.",
+                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S2_PHILO_Q3_4",
                             "Subfolder_Author": [
                                 "Alexander Oro"
                             ],
-                            "Subfolder_LastModified": "14 August 2025",
-                            "Subfolder_Status": "Active"
-                        },
-                        {
-                            "Subfolder_ID": "C3_S1_ENT_Prelims_5",
-                            "Subfolder_Name": "Week 5",
-                            "Subfolder_Description": "Description of the subfolder here",
-                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_ENT_Prelims_5",
-                            "Subfolder_Author": [
-                                "Alexander Oro"
-                            ],
-                            "Subfolder_LastModified": "14 August 2025",
-                            "Subfolder_Status": "Active"
-                        },
-                        {
-                            "Subfolder_ID": "C3_S1_ENT_Prelims_6",
-                            "Subfolder_Name": "Entrep Reviewer Pro Max (Week 1-5)",
-                            "Subfolder_Description": "Description of the subfolder here",
-                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_ENT_Prelims_6",
-                            "Subfolder_Author": [
-                                "Alexander Oro"
-                            ],
-                            "Subfolder_LastModified": "14 August 2025",
-                            "Subfolder_Status": "Active"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "Subject_ID": "C3_S1_PR1",
-            "Subject_Name": "Practical Research 1",
-            "Subject_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_GB_Demo.png",
-            "Subject_Status": "Active",
-            "Subject_Module": [
-                {
-                    "Module_ID": "C3_S1_PR1_Prelims",
-                    "Module_Name": "First Quarter",
-                    "Module_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_Prelims_1.png",
-                    "Module_Status": "Active",
-                    "Module_LastModified": "14 August 2025",
-                    "Module_Subfolders": [
-                        {
-                            "Subfolder_ID": "C3_S1_PR1_Prelims_1",
-                            "Subfolder_Name": "PR1-L1",
-                            "Subfolder_Description": "Description of the subfolder here",
-                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_PR1_Prelims_1",
-                            "Subfolder_Author": [
-                                "Alexander Oro"
-                            ],
-                            "Subfolder_LastModified": "14 August 2025",
-                            "Subfolder_Status": "Active"
-                        },
-                        {
-                            "Subfolder_ID": "C3_S1_PR1_Prelims_2",
-                            "Subfolder_Name": "PR2-L2",
-                            "Subfolder_Description": "Description of the subfolder here",
-                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_PR1_Prelims_2",
-                            "Subfolder_Author": [
-                                "Alexander Oro"
-                            ],
-                            "Subfolder_LastModified": "14 August 2025",
-                            "Subfolder_Status": "Active"
-                        },
-                        {
-                            "Subfolder_ID": "C3_S1_PR1_Prelims_3",
-                            "Subfolder_Name": "Module 1 - Lesson 4",
-                            "Subfolder_Description": "Description of the subfolder here",
-                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_PR1_Prelims_3",
-                            "Subfolder_Author": [
-                                "Alexander Oro"
-                            ],
-                            "Subfolder_LastModified": "14 August 2025",
-                            "Subfolder_Status": "Active"
-                        },
-                        {
-                            "Subfolder_ID": "C3_S1_PR1_Prelims_4",
-                            "Subfolder_Name": "Module 3 - Lesson 1",
-                            "Subfolder_Description": "Description of the subfolder here",
-                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_PR1_Prelims_4",
-                            "Subfolder_Author": [
-                                "Alexander Oro"
-                            ],
-                            "Subfolder_LastModified": "14 August 2025",
-                            "Subfolder_Status": "Active"
-                        },
-                        {
-                            "Subfolder_ID": "C3_S1_PR1_Prelims_5",
-                            "Subfolder_Name": "Module 3 - Lesson 2",
-                            "Subfolder_Description": "Description of the subfolder here",
-                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_PR1_Prelims_5",
-                            "Subfolder_Author": [
-                                "Alexander Oro"
-                            ],
-                            "Subfolder_LastModified": "14 August 2025",
-                            "Subfolder_Status": "Active"
-                        },
-                        {
-                            "Subfolder_ID": "C3_S1_PR1_Prelims_6",
-                            "Subfolder_Name": "Module 3 - Lesson 3",
-                            "Subfolder_Description": "Description of the subfolder here",
-                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_PR1_Prelims_6",
-                            "Subfolder_Author": [
-                                "Alexander Oro"
-                            ],
-                            "Subfolder_LastModified": "14 August 2025",
-                            "Subfolder_Status": "Active"
-                        },
-                        {
-                            "Subfolder_ID": "C3_S1_PR1_Prelims_7",
-                            "Subfolder_Name": "PR1 Reviewer Pro Max",
-                            "Subfolder_Description": "Description of the subfolder here",
-                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_PR1_Prelims_7",
-                            "Subfolder_Author": [
-                                "Alexander Oro"
-                            ],
-                            "Subfolder_LastModified": "14 August 2025",
-                            "Subfolder_Status": "Active"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "Subject_ID": "C3_S1_21C",
-            "Subject_Name": "21st Century",
-            "Subject_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_CP1_Demo.png",
-            "Subject_Status": "Active",
-            "Subject_Module": [
-                {
-                    "Module_ID": "C3_S1_21C_Prelims",
-                    "Module_Name": "First Quarter",
-                    "Module_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_Prelims_1.png",
-                    "Module_Status": "Active",
-                    "Module_LastModified": "15 August 2025",
-                    "Module_Subfolders": [
-                        {
-                            "Subfolder_ID": "C3_S1_21C_Prelims_1",
-                            "Subfolder_Name": "Figure of Speech",
-                            "Subfolder_Description": "Description of the subfolder here",
-                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_21C_Prelims_1",
-                            "Subfolder_Author": [
-                                "Alexander Oro"
-                            ],
-                            "Subfolder_LastModified": "14 August 2025",
-                            "Subfolder_Status": "Active"
-                        },
-                        {
-                            "Subfolder_ID": "C3_S1_21C_Prelims_2",
-                            "Subfolder_Name": "Week - 1",
-                            "Subfolder_Description": "Description of the subfolder here",
-                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_21C_Prelims_2",
-                            "Subfolder_Author": [
-                                "Alexander Oro"
-                            ],
-                            "Subfolder_LastModified": "15 August 2025",
-                            "Subfolder_Status": "Active"
-                        },
-                        {
-                            "Subfolder_ID": "C3_S1_21C_Prelims_3",
-                            "Subfolder_Name": "Literary Elements and Characters in PROMDI@MANILA",
-                            "Subfolder_Description": "Description of the subfolder here",
-                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_21C_Prelims_3",
-                            "Subfolder_Author": [
-                                "Alexander Oro"
-                            ],
-                            "Subfolder_LastModified": "15 August 2025",
-                            "Subfolder_Status": "Active"
-                        },
-                        {
-                            "Subfolder_ID": "C3_S1_21C_Prelims_4",
-                            "Subfolder_Name": "Five Brothers, One Mother by Exie Abola",
-                            "Subfolder_Description": "Description of the subfolder here",
-                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_21C_Prelims_4",
-                            "Subfolder_Author": [
-                                "Alexander Oro"
-                            ],
-                            "Subfolder_LastModified": "15 August 2025",
-                            "Subfolder_Status": "Active"
-                        },
-                                                {
-                            "Subfolder_ID": "C3_S1_21C_Prelims_5",
-                            "Subfolder_Name": "Elements of the Story",
-                            "Subfolder_Description": "Description of the subfolder here",
-                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_21C_Prelims_5",
-                            "Subfolder_Author": [
-                                "Alexander Oro"
-                            ],
-                            "Subfolder_LastModified": "15 August 2025",
-                            "Subfolder_Status": "Active"
-                        },
-                                                                        {
-                            "Subfolder_ID": "C3_S1_21C_Prelims_6",
-                            "Subfolder_Name": "21st Reviewer Pro Max",
-                            "Subfolder_Description": "Description of the subfolder here",
-                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_21C_Prelims_6",
-                            "Subfolder_Author": [
-                                "Alexander Oro"
-                            ],
-                            "Subfolder_LastModified": "15 August 2025",
-                            "Subfolder_Status": "Active"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "Subject_ID": "C3_S1_PHS",
-            "Subject_Name": "Physical Science",
-            "Subject_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_PL_Demo.png",
-            "Subject_Status": "Active",
-            "Subject_Module": [
-                {
-                    "Module_ID": "C3_S1_PHS_Prelims",
-                    "Module_Name": "First Quarter",
-                    "Module_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_Prelims_1.png",
-                    "Module_Status": "Active",
-                    "Module_LastModified": "15 August 2025",
-                    "Module_Subfolders": [
-                        {
-                            "Subfolder_ID": "C3_S1_PHS_Prelims_1",
-                            "Subfolder_Name": "Formation of Elements",
-                            "Subfolder_Description": "Description of the subfolder here",
-                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_PHS_Prelims_1",
-                            "Subfolder_Author": [
-                                "Alexander Oro"
-                            ],
-                            "Subfolder_LastModified": "15 August 2025",
-                            "Subfolder_Status": "Active"
-                        },
-                                                {
-                            "Subfolder_ID": "C3_S1_PHS_Prelims_2",
-                            "Subfolder_Name": "Cosmology and the Big Bang Theory",
-                            "Subfolder_Description": "Description of the subfolder here",
-                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_PHS_Prelims_2",
-                            "Subfolder_Author": [
-                                "Alexander Oro"
-                            ],
-                            "Subfolder_LastModified": "15 August 2025",
-                            "Subfolder_Status": "Active"
-                        },
-                                                                        {
-                            "Subfolder_ID": "C3_S1_PHS_Prelims_3",
-                            "Subfolder_Name": "Parts of Atoms",
-                            "Subfolder_Description": "Description of the subfolder here",
-                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_PHS_Prelims_3",
-                            "Subfolder_Author": [
-                                "Alexander Oro"
-                            ],
-                            "Subfolder_LastModified": "15 August 2025",
-                            "Subfolder_Status": "Active"
-                        },
-                        {
-                            "Subfolder_ID": "C3_S1_PHS_Prelims_4",
-                            "Subfolder_Name": "History of the Atom",
-                            "Subfolder_Description": "Description of the subfolder here",
-                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_PHS_Prelims_4",
-                            "Subfolder_Author": [
-                                "Alexander Oro"
-                            ],
-                            "Subfolder_LastModified": "15 August 2025",
-                            "Subfolder_Status": "Active"
-                        },
-                                                {
-                            "Subfolder_ID": "C3_S1_PHS_Prelims_5",
-                            "Subfolder_Name": "Phisical Science Reviewer Pro Max",
-                            "Subfolder_Description": "Description of the subfolder here",
-                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_PHS_Prelims_5",
-                            "Subfolder_Author": [
-                                "Alexander Oro"
-                            ],
-                            "Subfolder_LastModified": "15 August 2025",
-                            "Subfolder_Status": "Active"
-                        }
-                    ]
-                }
-            ]
-        },
-
-          {
-            "Subject_ID": "C3_S1_EAP",
-            "Subject_Name": "EAPP",
-            "Subject_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_MST_Demo.png",
-            "Subject_Status": "Active",
-            "Subject_Module": [
-                {
-                    "Module_ID": "C3_S1_EAP_Prelims",
-                    "Module_Name": "First Quarter",
-                    "Module_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_Prelims_1.png",
-                    "Module_Status": "Active",
-                    "Module_LastModified": "15 August 2025",
-                    "Module_Subfolders": [
-                        {
-                            "Subfolder_ID": "C3_S1_EAP_Prelims_1",
-                            "Subfolder_Name": "Academic and Non-Academic Texts",
-                            "Subfolder_Description": "Description of the subfolder here",
-                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_EAP_Prelims_1",
-                            "Subfolder_Author": [
-                                "Alexander Oro"
-                            ],
-                            "Subfolder_LastModified": "15 August 2025",
-                            "Subfolder_Status": "Active"
-                        },
-                                                {
-                            "Subfolder_ID": "C3_S1_EAP_Prelims_2",
-                            "Subfolder_Name": "Features of Academic Text and Plagiarism",
-                            "Subfolder_Description": "Description of the subfolder here",
-                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_EAP_Prelims_2",
-                            "Subfolder_Author": [
-                                "Alexander Oro"
-                            ],
-                            "Subfolder_LastModified": "15 August 2025",
-                            "Subfolder_Status": "Active"
-                        },
-                        {
-                            "Subfolder_ID": "C3_S1_EAP_Prelims_3",
-                            "Subfolder_Name": "Writing Process and Outlining",
-                            "Subfolder_Description": "Description of the subfolder here",
-                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_EAP_Prelims_3",
-                            "Subfolder_Author": [
-                                "Alexander Oro"
-                            ],
-                            "Subfolder_LastModified": "15 August 2025",
-                            "Subfolder_Status": "Active"
-                        },
-                        {
-                            "Subfolder_ID": "C3_S1_EAP_Prelims_4",
-                            "Subfolder_Name": "Reflection, Reaction, and Critique Papers",
-                            "Subfolder_Description": "Description of the subfolder here",
-                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_EAP_Prelims_4",
-                            "Subfolder_Author": [
-                                "Alexander Oro"
-                            ],
-                            "Subfolder_LastModified": "15 August 2025",
-                            "Subfolder_Status": "Active"
-                        },
-                                                {
-                            "Subfolder_ID": "C3_S1_EAP_Prelims_5",
-                            "Subfolder_Name": "EAPP REVIEWER PRO MAX",
-                            "Subfolder_Description": "Description of the subfolder here",
-                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S1_EAP_Prelims_5",
-                            "Subfolder_Author": [
-                                "Alexander Oro"
-                            ],
-                            "Subfolder_LastModified": "15 August 2025",
+                            "Subfolder_LastModified": "22 January 2026",
                             "Subfolder_Status": "Active"
                         }
                     ]

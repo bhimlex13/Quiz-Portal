@@ -1,0 +1,772 @@
+{
+  "quizInfo": {
+    "Subject": "Philosophy",
+    "Term": "Third Quarter",
+    "Title": "Introduction to Western Philosophy",
+    "LastModified": "22 January 2026",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "PHILOSOPHY-LESSON-1"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "What comes from the two Greek words Philo meaning Love and Sophia meaning Wisdom?",
+      "answer": "Philosophy",
+      "choices": [
+        "Philosophy",
+        "Sophists",
+        "Science",
+        "Psychology"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Philosophy"
+    },
+    {
+      "question": "What term did the Ancient Greeks use to refer to a 'love of wisdom'?",
+      "answer": "Philosophy",
+      "choices": [
+        "Philosophy",
+        "Eristic",
+        "Dialect",
+        "Logos"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Philosophy"
+    },
+    {
+      "question": "What discipline uses human reason to investigate the ultimate causes, reasons, and principles which govern all things?",
+      "answer": "Philosophy",
+      "choices": [
+        "Philosophy",
+        "Science",
+        "Mathematics",
+        "Cosmology"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Philosophy"
+    },
+    {
+      "question": "Who was the mathematician who was the first to call himself a Philosopho?",
+      "answer": "Pythagoras",
+      "choices": [
+        "Pythagoras",
+        "Thales",
+        "Socrates",
+        "Plato"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Philosophers"
+    },
+    {
+      "question": "What is the term for 'a lover of wisdom'?",
+      "answer": "Philosopho",
+      "choices": [
+        "Philosopho",
+        "Sophist",
+        "Scientist",
+        "Theologian"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Philosophy"
+    },
+    {
+      "question": "What is primarily concerned with uncovering the truth through systematic argumentation and theory?",
+      "answer": "Western Philosophy",
+      "choices": [
+        "Western Philosophy",
+        "Eastern Philosophy",
+        "Socratic Method",
+        "Epicureanism"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Western Philosophy"
+    },
+    {
+      "question": "What places greater emphasis on the use of reason rather than faith, and an increased focus on man as an individual?",
+      "answer": "Western Philosophy",
+      "choices": [
+        "Western Philosophy",
+        "Mythology",
+        "Theology",
+        "Mysticism"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Western Philosophy"
+    },
+    {
+      "question": "What approach led to the development of a more scientific and theory-based approach in philosophy?",
+      "answer": "Western Philosophy",
+      "choices": [
+        "Western Philosophy",
+        "Sophism",
+        "Cynicism",
+        "Stoicism"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Western Philosophy"
+    },
+    {
+      "question": "Who were the first philosophers preoccupied with the study of?",
+      "answer": "Nature and the Universe",
+      "choices": [
+        "Nature and the Universe",
+        "Man and Ethics",
+        "Politics and Society",
+        "Logic and Reasoning"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Pre-Socratics"
+    },
+    {
+      "question": "Who was the earliest philosopher to inquire about the world and explain the composition of things and the changes in physical reality?",
+      "answer": "Thales",
+      "choices": [
+        "Thales",
+        "Anaximander",
+        "Anaximenes",
+        "Democritus"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Thales"
+    },
+    {
+      "question": "Who is considered the Father of Western Philosophy?",
+      "answer": "Thales",
+      "choices": [
+        "Thales",
+        "Socrates",
+        "Plato",
+        "Aristotle"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Thales"
+    },
+    {
+      "question": "Who believed that the ultimate composition of all things is water?",
+      "answer": "Thales",
+      "choices": [
+        "Thales",
+        "Anaximenes",
+        "Heraclitus",
+        "Empedocles"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Thales"
+    },
+    {
+      "question": "Who believed that all things take nourishment from water?",
+      "answer": "Thales",
+      "choices": [
+        "Thales",
+        "Anaximander",
+        "Pythagoras",
+        "Aristotle"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Thales"
+    },
+    {
+      "question": "Who considered heat as being generated and maintained by the amount of moisture in an object?",
+      "answer": "Thales",
+      "choices": [
+        "Thales",
+        "Anaximenes",
+        "Democritus",
+        "Archimedes"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Thales"
+    },
+    {
+      "question": "Who taught a way of argumentation called eristic which aimed to win arguments rather than arrive at the truth?",
+      "answer": "Sophists",
+      "choices": [
+        "Sophists",
+        "Platonists",
+        "Stoics",
+        "Epicureans"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Sophists"
+    },
+    {
+      "question": "Who was a student of Thales who agreed that everything comes from a single, basic material?",
+      "answer": "Anaximander",
+      "choices": [
+        "Anaximander",
+        "Anaximenes",
+        "Pythagoras",
+        "Plato"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Anaximander"
+    },
+    {
+      "question": "Who argued that matter is not composed of water or any other element?",
+      "answer": "Anaximander",
+      "choices": [
+        "Anaximander",
+        "Thales",
+        "Heraclitus",
+        "Democritus"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Anaximander"
+    },
+    {
+      "question": "Who held the view that all things are created and merged from an indefinite and boundless realm?",
+      "answer": "Anaximander",
+      "choices": [
+        "Anaximander",
+        "Anaximenes",
+        "Parmenides",
+        "Zeno"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Anaximander"
+    },
+    {
+      "question": "What is the indefinite and boundless realm called by Anaximander?",
+      "answer": "Apeiron",
+      "choices": [
+        "Apeiron",
+        "Logos",
+        "Atomos",
+        "Arche"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Anaximander"
+    },
+    {
+      "question": "What means 'the boundless' as the beginning of everything?",
+      "answer": "Apeiron",
+      "choices": [
+        "Apeiron",
+        "Water",
+        "Air",
+        "Fire"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Anaximander"
+    },
+    {
+      "question": "Where will things go back to when they decay or are destroyed according to Anaximander?",
+      "answer": "Apeiron",
+      "choices": [
+        "Apeiron",
+        "Water",
+        "Air",
+        "Earth"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Anaximander"
+    },
+    {
+      "question": "Who was the young associate of Anaximander who followed Thales' view of matter being created from a single element?",
+      "answer": "Anaximenes",
+      "choices": [
+        "Anaximenes",
+        "Pythagoras",
+        "Heraclitus",
+        "Socrates"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Anaximenes"
+    },
+    {
+      "question": "Who believed that it is air that makes up all things?",
+      "answer": "Anaximenes",
+      "choices": [
+        "Anaximenes",
+        "Thales",
+        "Anaximander",
+        "Empedocles"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Anaximenes"
+    },
+    {
+      "question": "Who believed that different elements and substances are merely different pieces of air?",
+      "answer": "Anaximenes",
+      "choices": [
+        "Anaximenes",
+        "Democritus",
+        "Leucippus",
+        "Aristotle"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Anaximenes"
+    },
+    {
+      "question": "Who considered air as the source of all life?",
+      "answer": "Anaximenes",
+      "choices": [
+        "Anaximenes",
+        "Thales",
+        "Pythagoras",
+        "Heraclitus"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Anaximenes"
+    },
+    {
+      "question": "Who was credited with the formulation of the Pythagorean theorem?",
+      "answer": "Pythagoras",
+      "choices": [
+        "Pythagoras",
+        "Euclid",
+        "Archimedes",
+        "Thales"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Pythagoras"
+    },
+    {
+      "question": "Who established a community of learners who were devoted to the study of religion and philosophy?",
+      "answer": "Pythagoras",
+      "choices": [
+        "Pythagoras",
+        "Socrates",
+        "Plato",
+        "Epicurus"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Pythagoras"
+    },
+    {
+      "question": "Who proposed that everything that exists is based on a higher order or plan called logos?",
+      "answer": "Heraclitus",
+      "choices": [
+        "Heraclitus",
+        "Parmenides",
+        "Anaxagoras",
+        "Democritus"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Heraclitus"
+    },
+    {
+      "question": "Who believed that change is the permanent aspect of the human condition?",
+      "answer": "Heraclitus",
+      "choices": [
+        "Heraclitus",
+        "Parmenides",
+        "Zeno",
+        "Plato"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Heraclitus"
+    },
+    {
+      "question": "Who is credited with the saying, 'You cannot step twice into the same river, for fresh waters are ever flowing upon you'?",
+      "answer": "Heraclitus",
+      "choices": [
+        "Heraclitus",
+        "Thales",
+        "Socrates",
+        "Aristotle"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Heraclitus"
+    },
+    {
+      "question": "Who devoted himself to studying the causes of natural phenomena?",
+      "answer": "Democritus",
+      "choices": [
+        "Democritus",
+        "Socrates",
+        "Plato",
+        "Diogenes"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Democritus"
+    },
+    {
+      "question": "Who was among the first to propose that matter is composed of tiny particles called atoms?",
+      "answer": "Democritus",
+      "choices": [
+        "Democritus",
+        "Anaxagoras",
+        "Empedocles",
+        "Leucippus"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Democritus"
+    },
+    {
+      "question": "Who was a known advocate of a simple and virtuous life?",
+      "answer": "Diogenes of Sinope",
+      "choices": [
+        "Diogenes of Sinope",
+        "Epicurus",
+        "Aristippus",
+        "Pyrrho"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Diogenes of Sinope"
+    },
+    {
+      "question": "Who believed that one should not only talk of virtue but should show it in words and actions?",
+      "answer": "Diogenes of Sinope",
+      "choices": [
+        "Diogenes of Sinope",
+        "Socrates",
+        "Plato",
+        "Aristotle"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Diogenes of Sinope"
+    },
+    {
+      "question": "Who was said to have lived like a beggar due to his emphasis on austerity and simplicity?",
+      "answer": "Diogenes of Sinope",
+      "choices": [
+        "Diogenes of Sinope",
+        "Socrates",
+        "Epicurus",
+        "Zeno"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Diogenes of Sinope"
+    },
+    {
+      "question": "Who was known to be a vocal critic of well-known philosophers such as Plato and Aristotle?",
+      "answer": "Diogenes of Sinope",
+      "choices": [
+        "Diogenes of Sinope",
+        "Socrates",
+        "Thales",
+        "Pythagoras"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Diogenes of Sinope"
+    },
+    {
+      "question": "Whose teachings and views influenced the development of Cynicism?",
+      "answer": "Diogenes of Sinope",
+      "choices": [
+        "Diogenes of Sinope",
+        "Zeno of Citium",
+        "Epicurus",
+        "Marcus Aurelius"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Diogenes of Sinope"
+    },
+    {
+      "question": "Who believed that philosophy could enable man to live a life of happiness?",
+      "answer": "Epicurus",
+      "choices": [
+        "Epicurus",
+        "Diogenes",
+        "Plato",
+        "Aristotle"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Epicurus"
+    },
+    {
+      "question": "Who denounced certain pleasures of the body, stating that continuous indulgence often leads to dissatisfaction?",
+      "answer": "Epicurus",
+      "choices": [
+        "Epicurus",
+        "Aristippus",
+        "Jeremy Bentham",
+        "John Stuart Mill"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Epicurus"
+    },
+    {
+      "question": "Who believed one should indulge in the needs and pleasures of the mind instead of the body?",
+      "answer": "Epicurus",
+      "choices": [
+        "Epicurus",
+        "Diogenes",
+        "Plato",
+        "Socrates"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Epicurus"
+    },
+    {
+      "question": "Whose views gave rise to a school of philosophy which believes that wisdom and simple living will result in a life free from fear and pain?",
+      "answer": "Epicurus",
+      "choices": [
+        "Epicurus",
+        "Zeno",
+        "Pyrrho",
+        "Socrates"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Epicurus"
+    },
+    {
+      "question": "Who was considered the foremost philosopher of ancient times and made great contributions to the field of ethics?",
+      "answer": "Socrates",
+      "choices": [
+        "Socrates",
+        "Plato",
+        "Aristotle",
+        "Thales"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Socrates"
+    },
+    {
+      "question": "Who considered himself a 'midwife' that helped inquiring minds achieve wisdom?",
+      "answer": "Socrates",
+      "choices": [
+        "Socrates",
+        "Plato",
+        "Aristotle",
+        "Protagoras"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Socrates"
+    },
+    {
+      "question": "Who believed that philosophy could enable a man to live a life of virtue?",
+      "answer": "Socrates",
+      "choices": [
+        "Socrates",
+        "Epicurus",
+        "Diogenes",
+        "Thales"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Socrates"
+    },
+    {
+      "question": "Who is credited with formulating a means of examining a topic by devising a series of questions?",
+      "answer": "Socrates",
+      "choices": [
+        "Socrates",
+        "Plato",
+        "Aristotle",
+        "Descartes"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Socrates"
+    },
+    {
+      "question": "Who was a student of Socrates who wrote down his teacher's writings and incorporated some of his own ideas?",
+      "answer": "Plato",
+      "choices": [
+        "Plato",
+        "Aristotle",
+        "Xenophon",
+        "Alcibiades"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Plato"
+    },
+    {
+      "question": "Whose teachings and writings are considered the foundation of Western philosophy?",
+      "answer": "Plato",
+      "choices": [
+        "Plato",
+        "Socrates",
+        "Aristotle",
+        "Kant"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Plato"
+    },
+    {
+      "question": "Who proposed the theory of forms, which proposes that everything that exists is based on an idea or template that can only be perceived in the mind?",
+      "answer": "Plato",
+      "choices": [
+        "Plato",
+        "Aristotle",
+        "Socrates",
+        "Plotinus"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Plato"
+    },
+    {
+      "question": "Who wrote the 'Republic' that discussed the ideal society and ideal form of government ruled by wisdom and reason?",
+      "answer": "Plato",
+      "choices": [
+        "Plato",
+        "Aristotle",
+        "Machiavelli",
+        "Hobbes"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Plato"
+    },
+    {
+      "question": "Who is known for his Dialect, a method of inquiry where two opposing ideas are discussed in an attempt to arrive at new knowledge?",
+      "answer": "Plato",
+      "choices": [
+        "Plato",
+        "Hegel",
+        "Marx",
+        "Kant"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Plato"
+    },
+    {
+      "question": "Who founded the 'Academy', an institution of higher learning which was the first of its kind in the West?",
+      "answer": "Plato",
+      "choices": [
+        "Plato",
+        "Aristotle",
+        "Socrates",
+        "Pythagoras"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Plato"
+    },
+    {
+      "question": "Who attended the Academy and was a prominent student of Plato?",
+      "answer": "Aristotle",
+      "choices": [
+        "Aristotle",
+        "Alexander the Great",
+        "Theophrastus",
+        "Xenocrates"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Aristotle"
+    },
+    {
+      "question": "Who disagreed with Plato's theory of forms and took a different view in interpreting reality?",
+      "answer": "Aristotle",
+      "choices": [
+        "Aristotle",
+        "Plotinus",
+        "Augustine",
+        "Aquinas"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Aristotle"
+    },
+    {
+      "question": "Who believed that all ideas and views are based on perception and our reality is based on what we can sense and perceive?",
+      "answer": "Aristotle",
+      "choices": [
+        "Aristotle",
+        "Plato",
+        "Descartes",
+        "Berkeley"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Aristotle"
+    },
+    {
+      "question": "Who was involved in a great variety of disciplines such as zoology, psychology, ethics, and politics?",
+      "answer": "Aristotle",
+      "choices": [
+        "Aristotle",
+        "Plato",
+        "Socrates",
+        "Leonardo da Vinci"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Aristotle"
+    },
+    {
+      "question": "Who proposed a system for the classification of plants and animals?",
+      "answer": "Aristotle",
+      "choices": [
+        "Aristotle",
+        "Linnaeus",
+        "Darwin",
+        "Mendel"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Aristotle"
+    },
+    {
+      "question": "Whose studies in logic led to the formulation of deductive reasoning?",
+      "answer": "Aristotle",
+      "choices": [
+        "Aristotle",
+        "Boole",
+        "Frege",
+        "Russell"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Aristotle"
+    },
+    {
+      "question": "Who founded his own school called the Lyceum?",
+      "answer": "Aristotle",
+      "choices": [
+        "Aristotle",
+        "Plato",
+        "Zeno",
+        "Epicurus"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Aristotle"
+    },
+    {
+      "question": "Who is known for the practical aspects of his philosophical inquiries and was considered a leading scientist in ancient times?",
+      "answer": "Archimedes",
+      "choices": [
+        "Archimedes",
+        "Euclid",
+        "Ptolemy",
+        "Galileo"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Archimedes"
+    },
+    {
+      "question": "Who was a mathematician, physicist, engineer, inventor, and astronomer whose inquiries led to modern calculus?",
+      "answer": "Archimedes",
+      "choices": [
+        "Archimedes",
+        "Newton",
+        "Leibniz",
+        "Pascal"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Archimedes"
+    },
+    {
+      "question": "Who pioneered the use of mathematics to analyze natural phenomena?",
+      "answer": "Archimedes",
+      "choices": [
+        "Archimedes",
+        "Galileo",
+        "Kepler",
+        "Copernicus"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Archimedes"
+    },
+    {
+      "question": "Who is credited for the invention of a device for raising water known as the Archimedes screw?",
+      "answer": "Archimedes",
+      "choices": [
+        "Archimedes",
+        "Hero of Alexandria",
+        "Ctesibius",
+        "Vitruvius"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Archimedes"
+    },
+    {
+      "question": "Who invented a method for determining volume using displacement?",
+      "answer": "Archimedes",
+      "choices": [
+        "Archimedes",
+        "Pascal",
+        "Bernoulli",
+        "Torricelli"
+      ],
+      "reference": "PHILOSOPHY-LESSON-1.pdf",
+      "term": "Archimedes"
+    }
+  ]
+}

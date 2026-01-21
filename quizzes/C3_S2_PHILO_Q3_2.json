@@ -1,0 +1,304 @@
+{
+  "quizInfo": {
+    "Subject": "Philosophy",
+    "Term": "Third Quarter",
+    "Title": "The Human Person in the Environment",
+    "LastModified": "22 January 2026",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "THE-HUMAN-PERSON-IN-THE-ENVIRONMENT"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "When did we situate ourselves as an integral part of the universe, created in the same stuff as the other things in nature?",
+      "answer": "Pre-modern times",
+      "choices": [
+        "Pre-modern times",
+        "Modern times",
+        "Post-modern times",
+        "Industrial Age"
+      ],
+      "reference": "THE-HUMAN-PERSON-IN-THE-ENVIRONMENT (1).pptx",
+      "term": "Introduction"
+    },
+    {
+      "question": "Whose poem 'No Man is an Island' expresses the idea that humans are connected to each other and to the environment?",
+      "answer": "John Donne",
+      "choices": [
+        "John Donne",
+        "Pythagoras",
+        "Thales",
+        "Socrates"
+      ],
+      "reference": "THE-HUMAN-PERSON-IN-THE-ENVIRONMENT (1).pptx",
+      "term": "John Donne"
+    },
+    {
+      "question": "What is a living being that contains a real and existing to direct its own development toward fulfilment through perfect, unconditional, and infinite Love?",
+      "answer": "Human Person",
+      "choices": [
+        "Human Person",
+        "Living Organism",
+        "Biological System",
+        "Rational Being"
+      ],
+      "reference": "THE-HUMAN-PERSON-IN-THE-ENVIRONMENT (1).pptx",
+      "term": "Human Person"
+    },
+    {
+      "question": "What is the sum total of all surroundings of a living organism, including natural forces and other living things?",
+      "answer": "Environment",
+      "choices": [
+        "Environment",
+        "Ecosystem",
+        "Biosphere",
+        "Nature"
+      ],
+      "reference": "THE-HUMAN-PERSON-IN-THE-ENVIRONMENT (1).pptx",
+      "term": "Environment"
+    },
+    {
+      "question": "What supports human health by providing clean water, fresh air, and quality food?",
+      "answer": "Healthy Environment",
+      "choices": [
+        "Healthy Environment",
+        "Economic Efficiency",
+        "Sustainable Development",
+        "Environmental Integrity"
+      ],
+      "reference": "THE-HUMAN-PERSON-IN-THE-ENVIRONMENT (1).pptx",
+      "term": "Healthy Environment"
+    },
+    {
+      "question": "What discipline studies that as a human person we interact not only with our fellow human beings, but also with other living and non-living elements?",
+      "answer": "Environmental Philosophy",
+      "choices": [
+        "Environmental Philosophy",
+        "Environmental Ethics",
+        "Environmental Aesthetics",
+        "Environmentalism"
+      ],
+      "reference": "THE-HUMAN-PERSON-IN-THE-ENVIRONMENT (1).pptx",
+      "term": "Environmental Philosophy"
+    },
+    {
+      "question": "Who believes that the human person has the ability to change the environment to suit his purposes?",
+      "answer": "Philosophers",
+      "choices": [
+        "Philosophers",
+        "Scientists",
+        "Ecologists",
+        "Politicians"
+      ],
+      "reference": "THE-HUMAN-PERSON-IN-THE-ENVIRONMENT (1).pptx",
+      "term": "Environmental Philosophy"
+    },
+    {
+      "question": "What view focuses on the significant role of humankind in the world and considers nature as the means by which humans are able to meet their needs?",
+      "answer": "Anthropocentrism",
+      "choices": [
+        "Anthropocentrism",
+        "Biocentrism",
+        "Ecocentrism",
+        "Environmentalism"
+      ],
+      "reference": "THE-HUMAN-PERSON-IN-THE-ENVIRONMENT (1).pptx",
+      "term": "Anthropocentrism"
+    },
+    {
+      "question": "What view believes that humans are the most important species on the planet and they are free to transform nature?",
+      "answer": "Anthropocentrism",
+      "choices": [
+        "Anthropocentrism",
+        "Biocentrism",
+        "Ecocentrism",
+        "Environmental Integrity"
+      ],
+      "reference": "THE-HUMAN-PERSON-IN-THE-ENVIRONMENT (1).pptx",
+      "term": "Anthropocentrism"
+    },
+    {
+      "question": "What view believes that humans are not the only significant species on the planet, and that all other organisms have inherent value?",
+      "answer": "Biocentrism",
+      "choices": [
+        "Biocentrism",
+        "Anthropocentrism",
+        "Ecocentrism",
+        "Equity"
+      ],
+      "reference": "THE-HUMAN-PERSON-IN-THE-ENVIRONMENT (1).pptx",
+      "term": "Biocentrism"
+    },
+    {
+      "question": "What view advocates ethical treatment of animals?",
+      "answer": "Biocentrism",
+      "choices": [
+        "Biocentrism",
+        "Anthropocentrism",
+        "Ecocentrism",
+        "Environmental Aesthetics"
+      ],
+      "reference": "THE-HUMAN-PERSON-IN-THE-ENVIRONMENT (1).pptx",
+      "term": "Biocentrism"
+    },
+    {
+      "question": "What view places great value on ecosystem and biological communities?",
+      "answer": "Ecocentrism",
+      "choices": [
+        "Ecocentrism",
+        "Biocentrism",
+        "Anthropocentrism",
+        "Environmental Ethics"
+      ],
+      "reference": "THE-HUMAN-PERSON-IN-THE-ENVIRONMENT (1).pptx",
+      "term": "Ecocentrism"
+    },
+    {
+      "question": "What view believes that humankind is part of a greater biological system or community and that we have a significant role as stewards?",
+      "answer": "Ecocentrism",
+      "choices": [
+        "Ecocentrism",
+        "Anthropocentrism",
+        "Biocentrism",
+        "Sustainable Development"
+      ],
+      "reference": "THE-HUMAN-PERSON-IN-THE-ENVIRONMENT (1).pptx",
+      "term": "Ecocentrism"
+    },
+    {
+      "question": "What view promotes the idea that order and balance in nature brings about stability and beauty?",
+      "answer": "Ecocentrism",
+      "choices": [
+        "Ecocentrism",
+        "Biocentrism",
+        "Anthropocentrism",
+        "Environmentalism"
+      ],
+      "reference": "THE-HUMAN-PERSON-IN-THE-ENVIRONMENT (1).pptx",
+      "term": "Ecocentrism"
+    },
+    {
+      "question": "What philosophical view believes maintaining order in the environment will bring out the natural beauty of the surroundings?",
+      "answer": "Environmental Aesthetics",
+      "choices": [
+        "Environmental Aesthetics",
+        "Environmental Ethics",
+        "Environmental Philosophy",
+        "Environmental Integrity"
+      ],
+      "reference": "THE-HUMAN-PERSON-IN-THE-ENVIRONMENT (1).pptx",
+      "term": "Environmental Aesthetics"
+    },
+    {
+      "question": "What is a moral approach that analyzes the relationship between humans and the environment?",
+      "answer": "Environmental Ethics",
+      "choices": [
+        "Environmental Ethics",
+        "Environmental Aesthetics",
+        "Environmentalism",
+        "Sustainable Development"
+      ],
+      "reference": "THE-HUMAN-PERSON-IN-THE-ENVIRONMENT (1).pptx",
+      "term": "Environmental Ethics"
+    },
+    {
+      "question": "What discusses environmental problems caused by human activities and social issues that impact the environment?",
+      "answer": "Environmental Ethics",
+      "choices": [
+        "Environmental Ethics",
+        "Environmental Aesthetics",
+        "Biocentrism",
+        "Anthropocentrism"
+      ],
+      "reference": "THE-HUMAN-PERSON-IN-THE-ENVIRONMENT (1).pptx",
+      "term": "Environmental Ethics"
+    },
+    {
+      "question": "What perspective advocates to address the growing environmental problems?",
+      "answer": "Environmentalism",
+      "choices": [
+        "Environmentalism",
+        "Anthropocentrism",
+        "Biocentrism",
+        "Ecocentrism"
+      ],
+      "reference": "THE-HUMAN-PERSON-IN-THE-ENVIRONMENT (1).pptx",
+      "term": "Environmentalism"
+    },
+    {
+      "question": "What was established in 1997 where various nations committed to reduce their greenhouse gas emissions?",
+      "answer": "Kyoto Protocol",
+      "choices": [
+        "Kyoto Protocol",
+        "Earth Day",
+        "Sustainable Development",
+        "Environmental Integrity"
+      ],
+      "reference": "THE-HUMAN-PERSON-IN-THE-ENVIRONMENT (1).pptx",
+      "term": "Environmentalism"
+    },
+    {
+      "question": "What was first instituted in 1970 as a global effort to raise awareness of issues and inspire action?",
+      "answer": "Earth Day",
+      "choices": [
+        "Earth Day",
+        "Kyoto Protocol",
+        "Environmental Ethics",
+        "Equity"
+      ],
+      "reference": "THE-HUMAN-PERSON-IN-THE-ENVIRONMENT (1).pptx",
+      "term": "Environmentalism"
+    },
+    {
+      "question": "What concept focuses on reconciling human activities and economic development with the protection of the environment?",
+      "answer": "Sustainable Development",
+      "choices": [
+        "Sustainable Development",
+        "Economic Efficiency",
+        "Environmental Integrity",
+        "Equity"
+      ],
+      "reference": "THE-HUMAN-PERSON-IN-THE-ENVIRONMENT (1).pptx",
+      "term": "Sustainable Development"
+    },
+    {
+      "question": "What refers to maintaining the state of the environment?",
+      "answer": "Environmental Integrity",
+      "choices": [
+        "Environmental Integrity",
+        "Economic Efficiency",
+        "Equity",
+        "Sustainable Development"
+      ],
+      "reference": "THE-HUMAN-PERSON-IN-THE-ENVIRONMENT (1).pptx",
+      "term": "Environmental Integrity"
+    },
+    {
+      "question": "What refers to prudence in decision making regarding the use of resources to ensure that there is minimum to zero waste?",
+      "answer": "Economic Efficiency",
+      "choices": [
+        "Economic Efficiency",
+        "Environmental Integrity",
+        "Equity",
+        "Sustainable Development"
+      ],
+      "reference": "THE-HUMAN-PERSON-IN-THE-ENVIRONMENT (1).pptx",
+      "term": "Economic Efficiency"
+    },
+    {
+      "question": "What demands that we use our natural resources in such a manner that these are conserved so that the next generation will be able to use them?",
+      "answer": "Equity",
+      "choices": [
+        "Equity",
+        "Economic Efficiency",
+        "Environmental Integrity",
+        "Sustainable Development"
+      ],
+      "reference": "THE-HUMAN-PERSON-IN-THE-ENVIRONMENT (1).pptx",
+      "term": "Equity"
+    }
+  ]
+}

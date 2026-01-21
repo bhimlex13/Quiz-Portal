@@ -1,0 +1,448 @@
+{
+  "quizInfo": {
+    "Subject": "Philosophy",
+    "Term": "Third Quarter",
+    "Title": "The Human Person as an Embodied Spirit",
+    "LastModified": "22 January 2026",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "LESSON-3-Embodied-Spirit"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "What relates to the nature of humans as animals?",
+      "answer": "The most basic definition of a human being",
+      "choices": [
+        "The most basic definition of a human being",
+        "The philosophical definition of a human being",
+        "The spiritual definition of a human being",
+        "The biological definition of a human being"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Human Person"
+    },
+    {
+      "question": "Who believes that the human being is not just a mere animal?",
+      "answer": "Philosophers",
+      "choices": [
+        "Philosophers",
+        "Scientists",
+        "Biologists",
+        "Historians"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Human Person"
+    },
+    {
+      "question": "What is the living animating core within each of us, the driving force behind all that we think, say and do?",
+      "answer": "Embodied Spirit",
+      "choices": [
+        "Embodied Spirit",
+        "Rational Soul",
+        "Vegetative Soul",
+        "Sensitive Soul"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Embodied Spirit"
+    },
+    {
+      "question": "What part of us covers our will, affections and thoughts according to many Christians?",
+      "answer": "Soul",
+      "choices": [
+        "Soul",
+        "Spirit",
+        "Body",
+        "Mind"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Soul"
+    },
+    {
+      "question": "What is the part of us that connects with our fellow human beings?",
+      "answer": "Soul",
+      "choices": [
+        "Soul",
+        "Spirit",
+        "Intellect",
+        "Emotion"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Soul"
+    },
+    {
+      "question": "What is defined as the animate life, or the seat of the senses, desires, affections, and appetites?",
+      "answer": "Soul",
+      "choices": [
+        "Soul",
+        "Spirit",
+        "Consciousness",
+        "Reason"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Soul"
+    },
+    {
+      "question": "What is that part of us that connects, or refuses to connect, to God?",
+      "answer": "Spirit",
+      "choices": [
+        "Spirit",
+        "Soul",
+        "Will",
+        "Mind"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Spirit"
+    },
+    {
+      "question": "What covers matters like faith, trust, and worship?",
+      "answer": "Spirit",
+      "choices": [
+        "Spirit",
+        "Soul",
+        "Body",
+        "Emotion"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Spirit"
+    },
+    {
+      "question": "What is seen as the innermost part of our being?",
+      "answer": "Spirit",
+      "choices": [
+        "Spirit",
+        "Soul",
+        "Heart",
+        "Mind"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Spirit"
+    },
+    {
+      "question": "What specifically refers to the inseparable union of body and soul in the context of Christian philosophy?",
+      "answer": "Embodied Spirit",
+      "choices": [
+        "Embodied Spirit",
+        "Incarnation",
+        "Materialization",
+        "Dichotomy"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Embodied Spirit"
+    },
+    {
+      "question": "What is the point of convergence between the material and spiritual entities?",
+      "answer": "Human person",
+      "choices": [
+        "Human person",
+        "Rational Animal",
+        "Living Being",
+        "Biological Organism"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Human Person"
+    },
+    {
+      "question": "Who was an ancient Greek philosopher and one of the pillars of the Western tradition who left behind no writings of his own?",
+      "answer": "Socrates",
+      "choices": [
+        "Socrates",
+        "Plato",
+        "Aristotle",
+        "Thales"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Socrates"
+    },
+    {
+      "question": "Who defined true knowledge as eternal, unchanging, and absolute?",
+      "answer": "Socrates",
+      "choices": [
+        "Socrates",
+        "Plato",
+        "Aristotle",
+        "Heraclitus"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Socrates"
+    },
+    {
+      "question": "Who was convinced that true knowledge and moral virtues are inscribed within the soul of every individual?",
+      "answer": "Socrates",
+      "choices": [
+        "Socrates",
+        "Plato",
+        "Aristotle",
+        "Pythagoras"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Socrates"
+    },
+    {
+      "question": "What is the task of philosophy according to Socrates?",
+      "answer": "The care of the soul",
+      "choices": [
+        "The care of the soul",
+        "The search for truth",
+        "The study of nature",
+        "The pursuit of happiness"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Socrates"
+    },
+    {
+      "question": "What is merely the departure for afterlife according to Socrates?",
+      "answer": "Death",
+      "choices": [
+        "Death",
+        "Sleep",
+        "Illness",
+        "Suffering"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Socrates"
+    },
+    {
+      "question": "Who was a student of Socrates known by the nickname meaning 'broad'?",
+      "answer": "Plato",
+      "choices": [
+        "Plato",
+        "Aristotle",
+        "Xenophon",
+        "Cratylus"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Plato"
+    },
+    {
+      "question": "Who sees the nature of the human person in the metaphysical dichotomy between body and soul?",
+      "answer": "Plato",
+      "choices": [
+        "Plato",
+        "Socrates",
+        "Aristotle",
+        "Augustine"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Plato"
+    },
+    {
+      "question": "What implies that there is an inherent contradiction between the body and the soul?",
+      "answer": "Dichotomy",
+      "choices": [
+        "Dichotomy",
+        "Unity",
+        "Harmony",
+        "Convergence"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Plato"
+    },
+    {
+      "question": "Who contends that the body's existence is dependent on the soul while the soul's existence is independent of the body?",
+      "answer": "Plato",
+      "choices": [
+        "Plato",
+        "Aristotle",
+        "Socrates",
+        "Thales"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Plato"
+    },
+    {
+      "question": "What part of the soul drives the human person to experience thirst, hunger, and other physical wants?",
+      "answer": "Appetitive",
+      "choices": [
+        "Appetitive",
+        "Spiritual",
+        "Rational",
+        "Vegetative"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Plato"
+    },
+    {
+      "question": "What part of the soul drives the human person to experience abomination, anger, and other emotional feelings?",
+      "answer": "Spiritual",
+      "choices": [
+        "Spiritual",
+        "Appetitive",
+        "Rational",
+        "Sensitive"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Plato"
+    },
+    {
+      "question": "What part of the soul enables the human person to think, reflect, analyze, and comprehend?",
+      "answer": "Rational",
+      "choices": [
+        "Rational",
+        "Spiritual",
+        "Appetitive",
+        "Vegetative"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Plato"
+    },
+    {
+      "question": "Which part of the soul is the highest of all parts and guides the other two parts?",
+      "answer": "Rational",
+      "choices": [
+        "Rational",
+        "Spiritual",
+        "Appetitive",
+        "Sensitive"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Plato"
+    },
+    {
+      "question": "Who is the Ancient Greek philosopher and scientist considered one of the greatest thinkers in politics, psychology, and ethics?",
+      "answer": "Aristotle",
+      "choices": [
+        "Aristotle",
+        "Plato",
+        "Socrates",
+        "Pythagoras"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Aristotle"
+    },
+    {
+      "question": "Who believes that there is no dichotomy between the person's body and soul?",
+      "answer": "Aristotle",
+      "choices": [
+        "Aristotle",
+        "Plato",
+        "Socrates",
+        "Descartes"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Aristotle"
+    },
+    {
+      "question": "Who believes that the soul is the form to the body, while the body is the matter to the soul?",
+      "answer": "Aristotle",
+      "choices": [
+        "Aristotle",
+        "Plato",
+        "Socrates",
+        "Anaximenes"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Aristotle"
+    },
+    {
+      "question": "What kind of soul is found in plants?",
+      "answer": "Vegetative",
+      "choices": [
+        "Vegetative",
+        "Sensitive",
+        "Rational",
+        "Appetitive"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Aristotle"
+    },
+    {
+      "question": "What kind of soul is capable of sensation?",
+      "answer": "Sensitive",
+      "choices": [
+        "Sensitive",
+        "Vegetative",
+        "Rational",
+        "Spiritual"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Aristotle"
+    },
+    {
+      "question": "What kind of soul is capable of thinking and is present only in humans?",
+      "answer": "Rational",
+      "choices": [
+        "Rational",
+        "Sensitive",
+        "Vegetative",
+        "Appetitive"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Aristotle"
+    },
+    {
+      "question": "Who concluded that the human person is just an animal that thinks?",
+      "answer": "Aristotle",
+      "choices": [
+        "Aristotle",
+        "Plato",
+        "Socrates",
+        "Darwin"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Aristotle"
+    },
+    {
+      "question": "What is Aristotle's famous dictum on the human person?",
+      "answer": "Man is a rational animal",
+      "choices": [
+        "Man is a rational animal",
+        "Man is a political animal",
+        "Know thyself",
+        "The unexamined life is not worth living"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Aristotle"
+    },
+    {
+      "question": "What represents the highest level of development of all living organisms on earth?",
+      "answer": "A human being",
+      "choices": [
+        "A human being",
+        "An animal",
+        "A plant",
+        "A spirit"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Conclusion"
+    },
+    {
+      "question": "What is one of the oldest Eastern traditions practiced by hundreds of millions of people for about 5,000 years?",
+      "answer": "Hinduism",
+      "choices": [
+        "Hinduism",
+        "Buddhism",
+        "Taoism",
+        "Confucianism"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Hinduism"
+    },
+    {
+      "question": "What is the eternal spirit or soul called in Hinduism?",
+      "answer": "Atman",
+      "choices": [
+        "Atman",
+        "Brahman",
+        "Karma",
+        "Dharma"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Hinduism"
+    },
+    {
+      "question": "Who said 'Faith is to believe what you do not see; the reward of this faith is to see what you believe'?",
+      "answer": "Saint Augustine",
+      "choices": [
+        "Saint Augustine",
+        "Saint Thomas Aquinas",
+        "Jesus of Nazareth",
+        "Paul the Apostle"
+      ],
+      "reference": "LESSON-3-Embodied-Spirit.pdf",
+      "term": "Christianity"
+    }
+  ]
+}
