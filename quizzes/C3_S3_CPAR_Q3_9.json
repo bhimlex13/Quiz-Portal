@@ -1,0 +1,160 @@
+{
+  "quizInfo": {
+    "Subject": "Contemporary Philippine Arts from the Regions",
+    "Term": "Third Quarter",
+    "Title": "Weeks 9-10: Artistic Techniques & Printmaking",
+    "LastModified": "23 January 2026",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "CPAR_Week-09-and-10_ArtisticTechniquesContemporaryArt"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "What technique is made from an assemblage of different forms, creating a new whole?",
+      "answer": "Collage",
+      "choices": [
+        "Collage",
+        "Decollage",
+        "Mixed Media",
+        "Printmaking"
+      ],
+      "reference": "CPAR_Week-09-and-10_ArtisticTechniquesContemporaryArt.pptx.pdf",
+      "term": "Collage"
+    },
+    {
+      "question": "Which French word means 'Take-off' or 'To become un-glued'?",
+      "answer": "Decollage",
+      "choices": [
+        "Decollage",
+        "Collage",
+        "Graffiti",
+        "Frottage"
+      ],
+      "reference": "CPAR_Week-09-and-10_ArtisticTechniquesContemporaryArt.pptx.pdf",
+      "term": "Decollage"
+    },
+    {
+      "question": "What are writing or drawings that have been scribbled, scratched, or painted illicitly on a wall or other public surface?",
+      "answer": "Graffiti",
+      "choices": [
+        "Graffiti",
+        "Land-art",
+        "Digital Arts",
+        "Poster"
+      ],
+      "reference": "CPAR_Week-09-and-10_ArtisticTechniquesContemporaryArt.pptx.pdf",
+      "term": "Graffiti"
+    },
+    {
+      "question": "Which art form is made directly in the landscape, sculpting the land itself into earthworks?",
+      "answer": "Land-art",
+      "choices": [
+        "Land-art",
+        "Graffiti",
+        "Architecture",
+        "Sculpture"
+      ],
+      "reference": "CPAR_Week-09-and-10_ArtisticTechniquesContemporaryArt.pptx.pdf",
+      "term": "Land-art"
+    },
+    {
+      "question": "What is the artistic work or practice that uses digital technology as an essential part of the creative process?",
+      "answer": "Digital Arts",
+      "choices": [
+        "Digital Arts",
+        "Mixed Media",
+        "Printmaking",
+        "Photography"
+      ],
+      "reference": "CPAR_Week-09-and-10_ArtisticTechniquesContemporaryArt.pptx.pdf",
+      "term": "Digital Arts"
+    },
+    {
+      "question": "What refers to artwork in the making of which more than one medium has been employed?",
+      "answer": "Mixed Media",
+      "choices": [
+        "Mixed Media",
+        "Collage",
+        "Digital Arts",
+        "Installation Art"
+      ],
+      "reference": "CPAR_Week-09-and-10_ArtisticTechniquesContemporaryArt.pptx.pdf",
+      "term": "Mixed Media"
+    },
+    {
+      "question": "What is the process of making pictures or designs by printing them from specially prepared plates or blocks?",
+      "answer": "Printmaking",
+      "choices": [
+        "Printmaking",
+        "Drawing",
+        "Painting",
+        "Digital Arts"
+      ],
+      "reference": "CPAR_Week-09-and-10_ArtisticTechniquesContemporaryArt.pptx.pdf",
+      "term": "Printmaking"
+    },
+    {
+      "question": "Which type of matrix is used for etching or engraving?",
+      "answer": "Polymer plates",
+      "choices": [
+        "Polymer plates",
+        "Stone",
+        "Linoleum",
+        "Silk screen"
+      ],
+      "reference": "CPAR_Week-09-and-10_ArtisticTechniquesContemporaryArt.pptx.pdf",
+      "term": "Printmaking Matrices"
+    },
+    {
+      "question": "What material is typically used for lithography?",
+      "answer": "Stone or aluminum",
+      "choices": [
+        "Stone or aluminum",
+        "Copper or zinc",
+        "Wood",
+        "Linoleum"
+      ],
+      "reference": "CPAR_Week-09-and-10_ArtisticTechniquesContemporaryArt.pptx.pdf",
+      "term": "Printmaking Matrices"
+    },
+    {
+      "question": "What type of matrix is used for wood crafts and wood engravings?",
+      "answer": "Blocks of wood",
+      "choices": [
+        "Blocks of wood",
+        "Metal plates",
+        "Polymer plates",
+        "Silk screen"
+      ],
+      "reference": "CPAR_Week-09-and-10_ArtisticTechniquesContemporaryArt.pptx.pdf",
+      "term": "Printmaking Matrices"
+    },
+    {
+      "question": "What material is used for linocuts?",
+      "answer": "Linoleum",
+      "choices": [
+        "Linoleum",
+        "Wood",
+        "Stone",
+        "Metal"
+      ],
+      "reference": "CPAR_Week-09-and-10_ArtisticTechniquesContemporaryArt.pptx.pdf",
+      "term": "Printmaking Matrices"
+    },
+    {
+      "question": "What is used for screen printing?",
+      "answer": "Silk screen or synthetic fabrics",
+      "choices": [
+        "Silk screen or synthetic fabrics",
+        "Copper plates",
+        "Aluminum",
+        "Wood blocks"
+      ],
+      "reference": "CPAR_Week-09-and-10_ArtisticTechniquesContemporaryArt.pptx.pdf",
+      "term": "Printmaking Matrices"
+    }
+  ]
+}

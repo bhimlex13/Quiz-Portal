@@ -1,0 +1,280 @@
+{
+  "quizInfo": {
+    "Subject": "Contemporary Philippine Arts from the Regions",
+    "Term": "Third Quarter",
+    "Title": "Integrative Art and Philippine Art History",
+    "LastModified": "23 January 2026",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "LESSON_1 (1)"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "What is defined as the expression or application of human creative skill and imagination, producing works to be appreciated primarily for their beauty or emotional power?",
+      "answer": "Art",
+      "choices": [
+        "Art",
+        "Science",
+        "Philosophy",
+        "History"
+      ],
+      "reference": "LESSON_1 (1).pptx",
+      "term": "Introduction"
+    },
+    {
+      "question": "Which art form uses any medium to represent the artist’s idea, emotion, and imagination?",
+      "answer": "Visual Art",
+      "choices": [
+        "Visual Art",
+        "Applied Art",
+        "Performing Art",
+        "Literary Art"
+      ],
+      "reference": "LESSON_1 (1).pptx",
+      "term": "Art Forms"
+    },
+    {
+      "question": "What is the representation of any form or object by hand with the use of pencil, pen, charcoal, etc.?",
+      "answer": "Drawing",
+      "choices": [
+        "Drawing",
+        "Painting",
+        "Sculpture",
+        "Calligraphy"
+      ],
+      "reference": "LESSON_1 (1).pptx",
+      "term": "Visual Art"
+    },
+    {
+      "question": "What is the process or art of using paint?",
+      "answer": "Painting",
+      "choices": [
+        "Painting",
+        "Drawing",
+        "Photography",
+        "Printmaking"
+      ],
+      "reference": "LESSON_1 (1).pptx",
+      "term": "Visual Art"
+    },
+    {
+      "question": "Which 3D art uses clay, stone, or wood for its execution?",
+      "answer": "Sculpture",
+      "choices": [
+        "Sculpture",
+        "Architecture",
+        "Pottery",
+        "Weaving"
+      ],
+      "reference": "LESSON_1 (1).pptx",
+      "term": "Visual Art"
+    },
+    {
+      "question": "What is the art of writing letters in a manner that it looks visually appealing?",
+      "answer": "Calligraphy",
+      "choices": [
+        "Calligraphy",
+        "Typography",
+        "Graffiti",
+        "Literature"
+      ],
+      "reference": "LESSON_1 (1).pptx",
+      "term": "Visual Art"
+    },
+    {
+      "question": "What is the art of producing an image of an object on a photographic film?",
+      "answer": "Photography",
+      "choices": [
+        "Photography",
+        "Painting",
+        "Cinema",
+        "Digital Art"
+      ],
+      "reference": "LESSON_1 (1).pptx",
+      "term": "Visual Art"
+    },
+    {
+      "question": "Which art form has practical application as well as functionality?",
+      "answer": "Applied Art",
+      "choices": [
+        "Applied Art",
+        "Visual Art",
+        "Performing Art",
+        "Fine Art"
+      ],
+      "reference": "LESSON_1 (1).pptx",
+      "term": "Applied Art"
+    },
+    {
+      "question": "What is the art or practice of designing and constructing buildings?",
+      "answer": "Architecture",
+      "choices": [
+        "Architecture",
+        "Sculpture",
+        "Engineering",
+        "Interior Design"
+      ],
+      "reference": "LESSON_1 (1).pptx",
+      "term": "Applied Art"
+    },
+    {
+      "question": "What is the art of applying design and aesthetics to clothing and accessories?",
+      "answer": "Fashion Design",
+      "choices": [
+        "Fashion Design",
+        "Jewelry Design",
+        "Interior Design",
+        "Textile Design"
+      ],
+      "reference": "LESSON_1 (1).pptx",
+      "term": "Applied Art"
+    },
+    {
+      "question": "Which era in Philippine Art History is characterized by integral arts for ritual and everyday use?",
+      "answer": "Pre-Colonial Arts",
+      "choices": [
+        "Pre-Colonial Arts",
+        "Islamic Arts",
+        "Spanish Era",
+        "American Era"
+      ],
+      "reference": "LESSON_1 (1).pptx",
+      "term": "Art History"
+    },
+    {
+      "question": "What era is characterized by geometric designs and patterns like Okir?",
+      "answer": "Islamic Arts",
+      "choices": [
+        "Islamic Arts",
+        "Spanish Era",
+        "Japanese Era",
+        "Modern Era"
+      ],
+      "reference": "LESSON_1 (1).pptx",
+      "term": "Art History"
+    },
+    {
+      "question": "Which era focused on faith and catechism?",
+      "answer": "Spanish Era",
+      "choices": [
+        "Spanish Era",
+        "American Era",
+        "Islamic Arts",
+        "Modern Era"
+      ],
+      "reference": "LESSON_1 (1).pptx",
+      "term": "Art History"
+    },
+    {
+      "question": "Which era brought secular art forms and education?",
+      "answer": "American Era",
+      "choices": [
+        "American Era",
+        "Spanish Era",
+        "Japanese Era",
+        "Contemporary Era"
+      ],
+      "reference": "LESSON_1 (1).pptx",
+      "term": "Art History"
+    },
+    {
+      "question": "Which era is characterized by 'Orientalizing'?",
+      "answer": "Japanese Era",
+      "choices": [
+        "Japanese Era",
+        "American Era",
+        "Spanish Era",
+        "Modern Era"
+      ],
+      "reference": "LESSON_1 (1).pptx",
+      "term": "Art History"
+    },
+    {
+      "question": "Which era focused on National Identity?",
+      "answer": "Modern Era",
+      "choices": [
+        "Modern Era",
+        "Contemporary Era",
+        "American Era",
+        "Japanese Era"
+      ],
+      "reference": "LESSON_1 (1).pptx",
+      "term": "Art History"
+    },
+    {
+      "question": "Which era is characterized by Social Realism?",
+      "answer": "Contemporary Era",
+      "choices": [
+        "Contemporary Era",
+        "Modern Era",
+        "American Era",
+        "Spanish Era"
+      ],
+      "reference": "LESSON_1 (1).pptx",
+      "term": "Art History"
+    },
+    {
+      "question": "What element of contemporary art involves taking pre-existing images from other sources and incorporating them with new ones?",
+      "answer": "Appropriation",
+      "choices": [
+        "Appropriation",
+        "Hybridity",
+        "Performance",
+        "Space"
+      ],
+      "reference": "LESSON_1 (1).pptx",
+      "term": "Elements of Contemporary Art"
+    },
+    {
+      "question": "What element refers to artwork created by or presented to an audience?",
+      "answer": "Performance",
+      "choices": [
+        "Performance",
+        "Appropriation",
+        "Technology",
+        "Space"
+      ],
+      "reference": "LESSON_1 (1).pptx",
+      "term": "Elements of Contemporary Art"
+    },
+    {
+      "question": "What element is used through the blending of new or unusual materials with traditional mediums?",
+      "answer": "Hybridity",
+      "choices": [
+        "Hybridity",
+        "Appropriation",
+        "Space",
+        "Technology"
+      ],
+      "reference": "LESSON_1 (1).pptx",
+      "term": "Elements of Contemporary Art"
+    },
+    {
+      "question": "What element is used to create the illusion of space or depth upon a flat surface?",
+      "answer": "Space",
+      "choices": [
+        "Space",
+        "Hybridity",
+        "Performance",
+        "Technology"
+      ],
+      "reference": "LESSON_1 (1).pptx",
+      "term": "Elements of Contemporary Art"
+    },
+    {
+      "question": "What refers to the usage of technology for creating and disseminating art?",
+      "answer": "Technology",
+      "choices": [
+        "Technology",
+        "Space",
+        "Appropriation",
+        "Hybridity"
+      ],
+      "reference": "LESSON_1 (1).pptx",
+      "term": "Elements of Contemporary Art"
+    }
+  ]
+}

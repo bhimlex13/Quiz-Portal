@@ -3,7 +3,7 @@
         {
             "Subject_ID": "C3_S2_PHILO",
             "Subject_Name": "Philosophy",
-            "Subject_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_PIIST.png",
+            "Subject_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_EA.png",
             "Subject_Status": "Active",
             "Subject_Module": [
                 {
@@ -64,7 +64,7 @@
         {
             "Subject_ID": "C3_S2_MIL",
             "Subject_Name": "Media Information Technology",
-            "Subject_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_MST_DEMO.png",
+            "Subject_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_EDP.png",
             "Subject_Status": "Active",
             "Subject_Module": [
                 {
@@ -94,6 +94,122 @@
                                 "Alexander Oro"
                             ],
                             "Subfolder_LastModified": "22 January 2026",
+                            "Subfolder_Status": "Active"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Subject_ID": "C3_S3_CPAR",
+            "Subject_Name": "Contemporary Philippine Arts",
+            "Subject_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_GB_Demo.png",
+            "Subject_Status": "Active",
+            "Subject_Module": [
+                {
+                    "Module_ID": "C3_S3_CPAR_Q3",
+                    "Module_Name": "Third Quarter",
+                    "Module_Thumbnail": "Assets/Images/Thumbnails/OLD_Thumbnail_Prefinals_1.png",
+                    "Module_Status": "Active",
+                    "Module_LastModified": "23 January 2026",
+                    "Module_Subfolders": [
+                        {
+                            "Subfolder_ID": "C3_S3_CPAR_Q3_1",
+                            "Subfolder_Name": "Integrative Art and Philippine Art History",
+                            "Subfolder_Description": "Quiz covering Lesson 1: Definitions of Art, Forms, History, and Elements of Contemporary Art.",
+                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S3_CPAR_Q3_1",
+                            "Subfolder_Author": [
+                                "Alexander Oro"
+                            ],
+                            "Subfolder_LastModified": "23 January 2026",
+                            "Subfolder_Status": "Active"
+                        },
+                        {
+                            "Subfolder_ID": "C3_S3_CPAR_Q3_2",
+                            "Subfolder_Name": "Methods of Presenting the Subject",
+                            "Subfolder_Description": "Quiz covering Lesson 2: Realism, Abstraction, Symbolism, and Philippine Art Forms.",
+                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S3_CPAR_Q3_2",
+                            "Subfolder_Author": [
+                                "Alexander Oro"
+                            ],
+                            "Subfolder_LastModified": "23 January 2026",
+                            "Subfolder_Status": "Active"
+                        },
+                        {
+                            "Subfolder_ID": "C3_S3_CPAR_Q3_3",
+                            "Subfolder_Name": "National Artists in Visual Arts",
+                            "Subfolder_Description": "Quiz covering Lesson 3.1: National Artists like Amorsolo, Francisco, Tolentino, and others.",
+                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S3_CPAR_Q3_3",
+                            "Subfolder_Author": [
+                                "Alexander Oro"
+                            ],
+                            "Subfolder_LastModified": "23 January 2026",
+                            "Subfolder_Status": "Active"
+                        },
+                        {
+                            "Subfolder_ID": "C3_S3_CPAR_Q3_4",
+                            "Subfolder_Name": "National Artists in Architecture, Fashion, Theater & Literature",
+                            "Subfolder_Description": "Quiz covering Lesson 3.2: Architecture, Fashion, Theater, and Literature National Artists.",
+                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S3_CPAR_Q3_4",
+                            "Subfolder_Author": [
+                                "Alexander Oro"
+                            ],
+                            "Subfolder_LastModified": "23 January 2026",
+                            "Subfolder_Status": "Active"
+                        },
+                        {
+                            "Subfolder_ID": "C3_S3_CPAR_Q3_5",
+                            "Subfolder_Name": "National Artists in Cinema",
+                            "Subfolder_Description": "Quiz covering Lesson 3.3: National Artists in Cinema including Avellana, Brocka, Bernal, and Poe Jr.",
+                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S3_CPAR_Q3_5",
+                            "Subfolder_Author": [
+                                "Alexander Oro"
+                            ],
+                            "Subfolder_LastModified": "23 January 2026",
+                            "Subfolder_Status": "Active"
+                        },
+                        {
+                            "Subfolder_ID": "C3_S3_CPAR_Q3_6",
+                            "Subfolder_Name": "The Order of National Artists (Music, Dance, Theater, Literature)",
+                            "Subfolder_Description": "Quiz covering Lesson 3: The Order, Proclamation 1001, and artists in Music, Dance, Theater, and Literature.",
+                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S3_CPAR_Q3_6",
+                            "Subfolder_Author": [
+                                "Alexander Oro"
+                            ],
+                            "Subfolder_LastModified": "23 January 2026",
+                            "Subfolder_Status": "Active"
+                        },
+                        {
+                            "Subfolder_ID": "C3_S3_CPAR_Q3_7",
+                            "Subfolder_Name": "Artistic Skills and Techniques",
+                            "Subfolder_Description": "Quiz covering Lesson 4: Collage, Decollage, Graffiti, Land-art, Digital Arts, and Mixed Media.",
+                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S3_CPAR_Q3_7",
+                            "Subfolder_Author": [
+                                "Alexander Oro"
+                            ],
+                            "Subfolder_LastModified": "23 January 2026",
+                            "Subfolder_Status": "Active"
+                        },
+                        {
+                            "Subfolder_ID": "C3_S3_CPAR_Q3_8",
+                            "Subfolder_Name": "Local Materials and Folk Arts",
+                            "Subfolder_Description": "Quiz covering Week 7: Local materials like Abaca, Bamboo, and folk arts like Puni and Singkaban.",
+                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S3_CPAR_Q3_8",
+                            "Subfolder_Author": [
+                                "Alexander Oro"
+                            ],
+                            "Subfolder_LastModified": "23 January 2026",
+                            "Subfolder_Status": "Active"
+                        },
+                        {
+                            "Subfolder_ID": "C3_S3_CPAR_Q3_9",
+                            "Subfolder_Name": "Weeks 9-10: Artistic Techniques & Printmaking",
+                            "Subfolder_Description": "Quiz covering Weeks 9-10: Collage, Decollage, Graffiti, Land Art, Digital Arts, Mixed Media, and Printmaking matrices.",
+                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S3_CPAR_Q3_9",
+                            "Subfolder_Author": [
+                                "Alexander Oro"
+                            ],
+                            "Subfolder_LastModified": "23 January 2026",
                             "Subfolder_Status": "Active"
                         }
                     ]

@@ -1,0 +1,160 @@
+{
+  "quizInfo": {
+    "Subject": "Contemporary Philippine Arts from the Regions",
+    "Term": "Third Quarter",
+    "Title": "Artistic Skills and Techniques",
+    "LastModified": "23 January 2026",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "LESSON-4.pptx"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "What technique involves adhering flat elements such as newspaper or magazine cut-outs to a flat surface?",
+      "answer": "Collage",
+      "choices": [
+        "Collage",
+        "Decollage",
+        "Graffiti",
+        "Printmaking"
+      ],
+      "reference": "LESSON-4.pptx.pdf",
+      "term": "Collage"
+    },
+    {
+      "question": "From which French word does 'Collage' come, meaning 'to glue'?",
+      "answer": "Coller",
+      "choices": [
+        "Coller",
+        "Decoller",
+        "Graffiato",
+        "Frottage"
+      ],
+      "reference": "LESSON-4.pptx.pdf",
+      "term": "Collage"
+    },
+    {
+      "question": "What is the opposite of collage, involving the removal of images or layers?",
+      "answer": "Decollage",
+      "choices": [
+        "Decollage",
+        "Collage",
+        "Mixed Media",
+        "Land-art"
+      ],
+      "reference": "LESSON-4.pptx.pdf",
+      "term": "Decollage"
+    },
+    {
+      "question": "What is the French meaning of the word 'Decollage'?",
+      "answer": "To take off",
+      "choices": [
+        "To take off",
+        "To glue together",
+        "To scratch",
+        "To paint"
+      ],
+      "reference": "LESSON-4.pptx.pdf",
+      "term": "Decollage"
+    },
+    {
+      "question": "What art form involves writing or drawings made on a wall or other public surface?",
+      "answer": "Graffiti",
+      "choices": [
+        "Graffiti",
+        "Land-art",
+        "Digital Arts",
+        "Printmaking"
+      ],
+      "reference": "LESSON-4.pptx.pdf",
+      "term": "Graffiti"
+    },
+    {
+      "question": "From which Italian word does 'Graffiti' come, meaning 'scratched'?",
+      "answer": "Graffiato",
+      "choices": [
+        "Graffiato",
+        "Coller",
+        "Sgraffito",
+        "Fresco"
+      ],
+      "reference": "LESSON-4.pptx.pdf",
+      "term": "Graffiti"
+    },
+    {
+      "question": "Which art form is made directly in the landscape, sculpting the land itself or making structures in the landscape?",
+      "answer": "Land-art",
+      "choices": [
+        "Land-art",
+        "Graffiti",
+        "Digital Arts",
+        "Collage"
+      ],
+      "reference": "LESSON-4.pptx.pdf",
+      "term": "Land-art"
+    },
+    {
+      "question": "What is another name for Land-art?",
+      "answer": "Earth works",
+      "choices": [
+        "Earth works",
+        "Street art",
+        "Public art",
+        "Installation art"
+      ],
+      "reference": "LESSON-4.pptx.pdf",
+      "term": "Land-art"
+    },
+    {
+      "question": "What is the artistic work or practice that uses digital technology as an essential part of the creative process?",
+      "answer": "Digital Arts",
+      "choices": [
+        "Digital Arts",
+        "Mixed Media",
+        "Printmaking",
+        "Photography"
+      ],
+      "reference": "LESSON-4.pptx.pdf",
+      "term": "Digital Arts"
+    },
+    {
+      "question": "What refers to the artwork in the making of which more than one medium has been employed?",
+      "answer": "Mixed Media",
+      "choices": [
+        "Mixed Media",
+        "Collage",
+        "Decollage",
+        "Digital Arts"
+      ],
+      "reference": "LESSON-4.pptx.pdf",
+      "term": "Mixed Media"
+    },
+    {
+      "question": "What is the process of making pictures or designs by printing them from specially prepared plates or blocks?",
+      "answer": "Printmaking",
+      "choices": [
+        "Printmaking",
+        "Frottage",
+        "Collage",
+        "Graffiti"
+      ],
+      "reference": "LESSON-4.pptx.pdf",
+      "term": "Printmaking"
+    },
+    {
+      "question": "What is the technique of rubbing a pencil, crayon, or charcoal over a textured surface to create an image?",
+      "answer": "Frottage",
+      "choices": [
+        "Frottage",
+        "Decollage",
+        "Printmaking",
+        "Graffiti"
+      ],
+      "reference": "LESSON-4.pptx.pdf",
+      "term": "Frottage"
+    }
+  ]
+}

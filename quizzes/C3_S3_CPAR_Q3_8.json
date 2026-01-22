@@ -1,0 +1,220 @@
+{
+  "quizInfo": {
+    "Subject": "Contemporary Philippine Arts from the Regions",
+    "Term": "Third Quarter",
+    "Title": "Local Materials and Folk Arts",
+    "LastModified": "23 January 2026",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "CPAR_Week-07_LocalMaterialsContemporaryArts"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "What refers to resources that can be found readily in large quantity at a particular location or area at a certain time?",
+      "answer": "Local Materials",
+      "choices": [
+        "Local Materials",
+        "Imported Materials",
+        "Synthetic Materials",
+        "Raw Materials"
+      ],
+      "reference": "CPAR_Week-07_LocalMaterialsContemporaryArts.pdf",
+      "term": "Local Materials"
+    },
+    {
+      "question": "Which folk art from Pampanga uses intricate hand-carved molds made of mahogany, yakal, or molave for baking cookies?",
+      "answer": "Saniculas Cookie Mold Carvings",
+      "choices": [
+        "Saniculas Cookie Mold Carvings",
+        "Pabalot or Pastillas Wrapper Cutting Art",
+        "Taka",
+        "Pagbuburda"
+      ],
+      "reference": "CPAR_Week-07_LocalMaterialsContemporaryArts.pdf",
+      "term": "Folk Arts"
+    },
+    {
+      "question": "What is the art of paper cutting associated with Bulacan, involving intricate designs on wrappers?",
+      "answer": "Pabalot or Pastillas Wrapper Cutting Art",
+      "choices": [
+        "Pabalot or Pastillas Wrapper Cutting Art",
+        "Saniculas Cookie Mold Carvings",
+        "Taka",
+        "Singkaban"
+      ],
+      "reference": "CPAR_Week-07_LocalMaterialsContemporaryArts.pdf",
+      "term": "Folk Arts"
+    },
+    {
+      "question": "What refers to the paper mache art from Paete, Laguna, traditionally using carved wooden molds?",
+      "answer": "Taka",
+      "choices": [
+        "Taka",
+        "Pabalot",
+        "Singkaban",
+        "Pagbuburda"
+      ],
+      "reference": "CPAR_Week-07_LocalMaterialsContemporaryArts.pdf",
+      "term": "Folk Arts"
+    },
+    {
+      "question": "What is the local term for the art of embroidery, famously practiced in Lumban, Laguna and Taal, Batangas?",
+      "answer": "Pagbuburda",
+      "choices": [
+        "Pagbuburda",
+        "Pabalot",
+        "Taka",
+        "Singkaban"
+      ],
+      "reference": "CPAR_Week-07_LocalMaterialsContemporaryArts.pdf",
+      "term": "Folk Arts"
+    },
+    {
+      "question": "Which folk art involves the art of shaving bamboo for fixing into decorative arches?",
+      "answer": "Singkaban or Bamboo Art",
+      "choices": [
+        "Singkaban or Bamboo Art",
+        "Puni or Palm Leaf Folding",
+        "Taka",
+        "Saniculas Cookie Mold Carvings"
+      ],
+      "reference": "CPAR_Week-07_LocalMaterialsContemporaryArts.pdf",
+      "term": "Folk Arts"
+    },
+    {
+      "question": "What is the art of palm leaf folding used to create woven baskets, fans, and other items in Bulacan?",
+      "answer": "Puni or Palm Leaf Folding",
+      "choices": [
+        "Puni or Palm Leaf Folding",
+        "Singkaban",
+        "Taka",
+        "Pabalot"
+      ],
+      "reference": "CPAR_Week-07_LocalMaterialsContemporaryArts.pdf",
+      "term": "Folk Arts"
+    },
+    {
+      "question": "What is the local material that is a plant belonging to the banana family, with fiber having a natural luster?",
+      "answer": "Abaca",
+      "choices": [
+        "Abaca",
+        "Bakbak",
+        "Bamboo",
+        "Buntal"
+      ],
+      "reference": "CPAR_Week-07_LocalMaterialsContemporaryArts.pdf",
+      "term": "Local Materials"
+    },
+    {
+      "question": "Which material is the outermost covering or leaf sheath of the abaca stalk?",
+      "answer": "Bakbak",
+      "choices": [
+        "Bakbak",
+        "Abaca",
+        "Buntal",
+        "Coir"
+      ],
+      "reference": "CPAR_Week-07_LocalMaterialsContemporaryArts.pdf",
+      "term": "Local Materials"
+    },
+    {
+      "question": "What material is a cylindrically shaped fiber from the buri palm?",
+      "answer": "Buntal",
+      "choices": [
+        "Buntal",
+        "Buri",
+        "Coir",
+        "Nito"
+      ],
+      "reference": "CPAR_Week-07_LocalMaterialsContemporaryArts.pdf",
+      "term": "Local Materials"
+    },
+    {
+      "question": "Which material is extracted from the matured leaves of the buri palm and is durable and resistant to moisture?",
+      "answer": "Buri",
+      "choices": [
+        "Buri",
+        "Buntal",
+        "Pandan",
+        "Rattan"
+      ],
+      "reference": "CPAR_Week-07_LocalMaterialsContemporaryArts.pdf",
+      "term": "Local Materials"
+    },
+    {
+      "question": "What is the fibrous material surrounding the fruit of the coconut tree?",
+      "answer": "Coir",
+      "choices": [
+        "Coir",
+        "Nito",
+        "Pandan",
+        "Rattan"
+      ],
+      "reference": "CPAR_Week-07_LocalMaterialsContemporaryArts.pdf",
+      "term": "Local Materials"
+    },
+    {
+      "question": "Which material is a plant belonging to the fern family that grows abundantly in the hinterlands of Mindanao?",
+      "answer": "Nito",
+      "choices": [
+        "Nito",
+        "Pandan",
+        "Rattan",
+        "Tikiw"
+      ],
+      "reference": "CPAR_Week-07_LocalMaterialsContemporaryArts.pdf",
+      "term": "Local Materials"
+    },
+    {
+      "question": "What is the tropical plant processed and transformed into splints for baskets and bags?",
+      "answer": "Pandan",
+      "choices": [
+        "Pandan",
+        "Rattan",
+        "Tikiw",
+        "Tikog"
+      ],
+      "reference": "CPAR_Week-07_LocalMaterialsContemporaryArts.pdf",
+      "term": "Local Materials"
+    },
+    {
+      "question": "Which material belongs to the palm family and comes in types like high or low climbers?",
+      "answer": "Rattan",
+      "choices": [
+        "Rattan",
+        "Bamboo",
+        "Tikog",
+        "Tikiw"
+      ],
+      "reference": "CPAR_Week-07_LocalMaterialsContemporaryArts.pdf",
+      "term": "Local Materials"
+    },
+    {
+      "question": "What is the large, erect, and aquatic herb found in marshes of Pampanga and Laguna?",
+      "answer": "Tikiw",
+      "choices": [
+        "Tikiw",
+        "Tikog",
+        "Pandan",
+        "Nito"
+      ],
+      "reference": "CPAR_Week-07_LocalMaterialsContemporaryArts.pdf",
+      "term": "Local Materials"
+    },
+    {
+      "question": "Which material belongs to the sea grass family and has solid, jointless stems?",
+      "answer": "Tikog",
+      "choices": [
+        "Tikog",
+        "Tikiw",
+        "Rattan",
+        "Bamboo"
+      ],
+      "reference": "CPAR_Week-07_LocalMaterialsContemporaryArts.pdf",
+      "term": "Local Materials"
+    }
+  ]
+}

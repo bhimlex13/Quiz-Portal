@@ -1,0 +1,232 @@
+{
+  "quizInfo": {
+    "Subject": "Contemporary Philippine Arts from the Regions",
+    "Term": "Third Quarter",
+    "Title": "National Artists in Cinema",
+    "LastModified": "23 January 2026",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "LESSON_3.3-CINEMA"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "Who is known as 'The Boy Wonder of Philippine Movies'?",
+      "answer": "Lamberto V. Avellana",
+      "choices": [
+        "Lamberto V. Avellana",
+        "Lino Brocka",
+        "Ishmael Bernal",
+        "Manuel Conde"
+      ],
+      "reference": "LESSON_3.3-CINEMA.pdf",
+      "term": "Lamberto V. Avellana"
+    },
+    {
+      "question": "Which director was the first to use the motion picture camera to establish a point-of-view?",
+      "answer": "Lamberto V. Avellana",
+      "choices": [
+        "Lamberto V. Avellana",
+        "Gerardo de Leon",
+        "Eddie S. Romero",
+        "Kidlat Tahimik"
+      ],
+      "reference": "LESSON_3.3-CINEMA.pdf",
+      "term": "Lamberto V. Avellana"
+    },
+    {
+      "question": "Which film by Lamberto Avellana won the Grand Prix at the Asian Film Festival in Hong Kong?",
+      "answer": "Anak Dalita",
+      "choices": [
+        "Anak Dalita",
+        "Badjao",
+        "Sakay",
+        "Kandelerong Pilak"
+      ],
+      "reference": "LESSON_3.3-CINEMA.pdf",
+      "term": "Lamberto V. Avellana"
+    },
+    {
+      "question": "Who espoused the term 'freedom of expression' in the Philippine Constitution?",
+      "answer": "Lino Brocka",
+      "choices": [
+        "Lino Brocka",
+        "Ishmael Bernal",
+        "Fernando Poe Jr.",
+        "Manuel Conde"
+      ],
+      "reference": "LESSON_3.3-CINEMA.pdf",
+      "term": "Lino Brocka"
+    },
+    {
+      "question": "Which director is known for films that breathe life and hope for the marginalized sectors of society?",
+      "answer": "Lino Brocka",
+      "choices": [
+        "Lino Brocka",
+        "Gerardo de Leon",
+        "Eddie S. Romero",
+        "Lamberto V. Avellana"
+      ],
+      "reference": "LESSON_3.3-CINEMA.pdf",
+      "term": "Lino Brocka"
+    },
+    {
+      "question": "Who directed 'Maynila: Sa mga Kuko ng Liwanag'?",
+      "answer": "Lino Brocka",
+      "choices": [
+        "Lino Brocka",
+        "Ishmael Bernal",
+        "Eddie S. Romero",
+        "Kidlat Tahimik"
+      ],
+      "reference": "LESSON_3.3-CINEMA.pdf",
+      "term": "Lino Brocka"
+    },
+    {
+      "question": "Who is hailed as 'The Genius of Philippine Cinema'?",
+      "answer": "Ishmael Bernal",
+      "choices": [
+        "Ishmael Bernal",
+        "Lino Brocka",
+        "Gerardo de Leon",
+        "Manuel Conde"
+      ],
+      "reference": "LESSON_3.3-CINEMA.pdf",
+      "term": "Ishmael Bernal"
+    },
+    {
+      "question": "Which film by Ishmael Bernal was voted as the greatest Filipino film of all time by CNN Philippines in 2008?",
+      "answer": "Himala",
+      "choices": [
+        "Himala",
+        "Nunal sa Tubig",
+        "City After Dark",
+        "Relasyon"
+      ],
+      "reference": "LESSON_3.3-CINEMA.pdf",
+      "term": "Ishmael Bernal"
+    },
+    {
+      "question": "Who contributed to the indigenization of the cinema by bringing age-old stories and folklore to the screen?",
+      "answer": "Manuel Conde",
+      "choices": [
+        "Manuel Conde",
+        "Fernando Poe Jr.",
+        "Eddie S. Romero",
+        "Gerardo de Leon"
+      ],
+      "reference": "LESSON_3.3-CINEMA.pdf",
+      "term": "Manuel Conde"
+    },
+    {
+      "question": "Which film by Manuel Conde was the first Filipino film to be acclaimed at the Venice and Cannes Film Festivals?",
+      "answer": "Genghis Khan",
+      "choices": [
+        "Genghis Khan",
+        "Ibong Adarna",
+        "Siete Infantes de Lara",
+        "Sigfredo"
+      ],
+      "reference": "LESSON_3.3-CINEMA.pdf",
+      "term": "Manuel Conde"
+    },
+    {
+      "question": "Who is the most awarded film director in the history of the Filipino Academy of Movie Arts and Sciences (FAMAS)?",
+      "answer": "Gerardo de Leon",
+      "choices": [
+        "Gerardo de Leon",
+        "Lino Brocka",
+        "Ishmael Bernal",
+        "Eddie S. Romero"
+      ],
+      "reference": "LESSON_3.3-CINEMA.pdf",
+      "term": "Gerardo de Leon"
+    },
+    {
+      "question": "Which director is known for his classics 'Noli Me Tangere' and 'El Filibusterismo'?",
+      "answer": "Gerardo de Leon",
+      "choices": [
+        "Gerardo de Leon",
+        "Lamberto V. Avellana",
+        "Manuel Conde",
+        "Fernando Poe Jr."
+      ],
+      "reference": "LESSON_3.3-CINEMA.pdf",
+      "term": "Gerardo de Leon"
+    },
+    {
+      "question": "Who is known as 'Da King' or the 'King of Philippine Movies'?",
+      "answer": "Ronald Allan K. Poe",
+      "choices": [
+        "Ronald Allan K. Poe",
+        "Manuel Conde",
+        "Eddie S. Romero",
+        "Kidlat Tahimik"
+      ],
+      "reference": "LESSON_3.3-CINEMA.pdf",
+      "term": "Fernando Poe Jr."
+    },
+    {
+      "question": "What is the mythical hero character portrayed by Fernando Poe Jr. in his films?",
+      "answer": "Ang Panday",
+      "choices": [
+        "Ang Panday",
+        "Asedillo",
+        "Totoy Bato",
+        "Cardo Dalisay"
+      ],
+      "reference": "LESSON_3.3-CINEMA.pdf",
+      "term": "Fernando Poe Jr."
+    },
+    {
+      "question": "Who is the quintessential Filipino filmmaker whose life is devoted to the art and commerce of cinema?",
+      "answer": "Eddie S. Romero",
+      "choices": [
+        "Eddie S. Romero",
+        "Lino Brocka",
+        "Ishmael Bernal",
+        "Gerardo de Leon"
+      ],
+      "reference": "LESSON_3.3-CINEMA.pdf",
+      "term": "Eddie S. Romero"
+    },
+    {
+      "question": "Which film depicting the Philippines at the turn of the century is a masterpiece by Eddie S. Romero?",
+      "answer": "Ganito Kami Noon...Paano Kayo Ngayon?",
+      "choices": [
+        "Ganito Kami Noon...Paano Kayo Ngayon?",
+        "Aguila",
+        "Kamakalawa",
+        "Banta ng Kahapon"
+      ],
+      "reference": "LESSON_3.3-CINEMA.pdf",
+      "term": "Eddie S. Romero"
+    },
+    {
+      "question": "Who is known as the 'Father of Philippine Independent Cinema'?",
+      "answer": "Kidlat Tahimik",
+      "choices": [
+        "Kidlat Tahimik",
+        "Lino Brocka",
+        "Ishmael Bernal",
+        "Manuel Conde"
+      ],
+      "reference": "LESSON_3.3-CINEMA.pdf",
+      "term": "Kidlat Tahimik"
+    },
+    {
+      "question": "Which film by Kidlat Tahimik won the International Critics Prize in Berlin in 1977?",
+      "answer": "Mababangong Bangungot",
+      "choices": [
+        "Mababangong Bangungot",
+        "Turumba",
+        "Sinong Lumikha ng Yoyo?",
+        "Bakit Dilaw ang Gitna ng Bahaghari?"
+      ],
+      "reference": "LESSON_3.3-CINEMA.pdf",
+      "term": "Kidlat Tahimik"
+    }
+  ]
+}

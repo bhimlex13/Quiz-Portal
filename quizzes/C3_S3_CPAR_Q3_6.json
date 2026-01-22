@@ -1,0 +1,256 @@
+{
+  "quizInfo": {
+    "Subject": "Contemporary Philippine Arts from the Regions",
+    "Term": "Third Quarter",
+    "Title": "The Order of National Artists (Music, Dance, Theater, Literature)",
+    "LastModified": "23 January 2026",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "LESSON_3.pptx"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "What Presidential Proclamation created the Order of National Artists in 1972?",
+      "answer": "Presidential Proclamation No. 1001",
+      "choices": [
+        "Presidential Proclamation No. 1001",
+        "Presidential Proclamation No. 1081",
+        "Republic Act 7355",
+        "Executive Order 234"
+      ],
+      "reference": "LESSON_3.pptx.pdf",
+      "term": "Order of National Artists"
+    },
+    {
+      "question": "Which two government bodies screen and deliberate nominations for the National Artist award?",
+      "answer": "NCCA and CCP",
+      "choices": [
+        "NCCA and CCP",
+        "DepEd and CHED",
+        "National Museum and NHCP",
+        "Tourism and DTI"
+      ],
+      "reference": "LESSON_3.pptx.pdf",
+      "term": "Order of National Artists"
+    },
+    {
+      "question": "What is conferred to the National Artists as a symbol of their rank?",
+      "answer": "Insignia of a National Artist and a citation",
+      "choices": [
+        "Insignia of a National Artist and a citation",
+        "Gold Medal of Honor",
+        "Key to the City",
+        "Presidential Plaque"
+      ],
+      "reference": "LESSON_3.pptx.pdf",
+      "term": "Honors and Privileges"
+    },
+    {
+      "question": "Who confers the rank and title of National Artist?",
+      "answer": "The President of the Philippines",
+      "choices": [
+        "The President of the Philippines",
+        "The Senate President",
+        "The Chief Justice",
+        "The NCCA Chairman"
+      ],
+      "reference": "LESSON_3.pptx.pdf",
+      "term": "Order of National Artists"
+    },
+    {
+      "question": "Who is a National Artist for Literature known for short stories like 'The Mats'?",
+      "answer": "Francisco Arcellana",
+      "choices": [
+        "Francisco Arcellana",
+        "Nick Joaquin",
+        "F. Sionil Jose",
+        "Virgilio S. Almario"
+      ],
+      "reference": "LESSON_3.pptx.pdf",
+      "term": "Literature"
+    },
+    {
+      "question": "Who is a National Artist for Literature known for 'The Woman Who Had Two Navels'?",
+      "answer": "Nick Joaquin",
+      "choices": [
+        "Nick Joaquin",
+        "N. V. M. Gonzalez",
+        "Alejandro Roces",
+        "Jose Garcia Villa"
+      ],
+      "reference": "LESSON_3.pptx.pdf",
+      "term": "Literature"
+    },
+    {
+      "question": "Who is known as the 'Poet of the People' (Makata ng Bayan)?",
+      "answer": "Amado V. Hernandez",
+      "choices": [
+        "Amado V. Hernandez",
+        "Francisco Arcellana",
+        "Rolando S. Tinio",
+        "Cirilo F. Bautista"
+      ],
+      "reference": "LESSON_3.pptx.pdf",
+      "term": "Literature"
+    },
+    {
+      "question": "Who is the National Artist known for his 'Comma Poems'?",
+      "answer": "Jose Garcia Villa",
+      "choices": [
+        "Jose Garcia Villa",
+        "Nick Joaquin",
+        "Edith L. Tiempo",
+        "Carlos P. Romulo"
+      ],
+      "reference": "LESSON_3.pptx.pdf",
+      "term": "Literature"
+    },
+    {
+      "question": "Who is the first Filipina National Artist for Literature?",
+      "answer": "Edith L. Tiempo",
+      "choices": [
+        "Edith L. Tiempo",
+        "Lualhati Bautista",
+        "Gilda Cordero-Fernando",
+        "Ophelia Dimalanta"
+      ],
+      "reference": "LESSON_3.pptx.pdf",
+      "term": "Literature"
+    },
+    {
+      "question": "Who is a National Artist for Music known for composing 'Sa Ugoy ng Duyan'?",
+      "answer": "Lucio San Pedro",
+      "choices": [
+        "Lucio San Pedro",
+        "Levi Celerio",
+        "Ryan Cayabyab",
+        "Jose Maceda"
+      ],
+      "reference": "LESSON_3.pptx.pdf",
+      "term": "Music"
+    },
+    {
+      "question": "Who is a National Artist for Music recognized for making music using a leaf?",
+      "answer": "Levi Celerio",
+      "choices": [
+        "Levi Celerio",
+        "Lucio San Pedro",
+        "Felipe Padilla de Leon",
+        "Antonio J. Molina"
+      ],
+      "reference": "LESSON_3.pptx.pdf",
+      "term": "Music"
+    },
+    {
+      "question": "Who is the National Artist for Music known as 'Mr. C' and composed 'Kay Ganda ng Ating Musika'?",
+      "answer": "Ryan Cayabyab",
+      "choices": [
+        "Ryan Cayabyab",
+        "Ernani J. Cuenco",
+        "Francisco Feliciano",
+        "Ramon P. Santos"
+      ],
+      "reference": "LESSON_3.pptx.pdf",
+      "term": "Music"
+    },
+    {
+      "question": "Who is the National Artist for Music known for founding the Philippine Madrigal Singers?",
+      "answer": "Andrea Veneracion",
+      "choices": [
+        "Andrea Veneracion",
+        "Jovita Fuentes",
+        "Lucresia R. Kasilag",
+        "Honorata 'Atang' dela Rama"
+      ],
+      "reference": "LESSON_3.pptx.pdf",
+      "term": "Music"
+    },
+    {
+      "question": "Who is known as the 'Mother of Philippine Folk Dancing'?",
+      "answer": "Francisca Reyes Aquino",
+      "choices": [
+        "Francisca Reyes Aquino",
+        "Leonor Orosa Goquingco",
+        "Alice Reyes",
+        "Lucresia Reyes-Urtula"
+      ],
+      "reference": "LESSON_3.pptx.pdf",
+      "term": "Dance"
+    },
+    {
+      "question": "Who is the National Artist for Dance known as the 'Trailblazer', 'Mother of Philippine Theater Dance'?",
+      "answer": "Leonor Orosa Goquingco",
+      "choices": [
+        "Leonor Orosa Goquingco",
+        "Francisca Reyes Aquino",
+        "Alice Reyes",
+        "Ramon Obusan"
+      ],
+      "reference": "LESSON_3.pptx.pdf",
+      "term": "Dance"
+    },
+    {
+      "question": "Who is the National Artist for Dance known for founding Ballet Philippines?",
+      "answer": "Alice Reyes",
+      "choices": [
+        "Alice Reyes",
+        "Francisca Reyes Aquino",
+        "Lucresia Reyes-Urtula",
+        "Ramon Obusan"
+      ],
+      "reference": "LESSON_3.pptx.pdf",
+      "term": "Dance"
+    },
+    {
+      "question": "Who is known as the 'Queen of Kundiman' and a National Artist for Theater and Music?",
+      "answer": "Honorata 'Atang' dela Rama",
+      "choices": [
+        "Honorata 'Atang' dela Rama",
+        "Daisy Avellana",
+        "Jovita Fuentes",
+        "Andrea Veneracion"
+      ],
+      "reference": "LESSON_3.pptx.pdf",
+      "term": "Theater"
+    },
+    {
+      "question": "Who is the National Artist for Theater known as the 'First Lady of Philippine Theater'?",
+      "answer": "Daisy Avellana",
+      "choices": [
+        "Daisy Avellana",
+        "Honorata 'Atang' dela Rama",
+        "Wilfrido Ma. Guerrero",
+        "Severino Montano"
+      ],
+      "reference": "LESSON_3.pptx.pdf",
+      "term": "Theater"
+    },
+    {
+      "question": "Who is a National Artist for Theater who served as the director of UP Mobile Theater?",
+      "answer": "Wilfrido Ma. Guerrero",
+      "choices": [
+        "Wilfrido Ma. Guerrero",
+        "Severino Montano",
+        "Rolando S. Tinio",
+        "Salvador F. Bernal"
+      ],
+      "reference": "LESSON_3.pptx.pdf",
+      "term": "Theater"
+    },
+    {
+      "question": "Who is the National Artist for Theater who organized the Arena Theater to bring drama to the masses?",
+      "answer": "Severino Montano",
+      "choices": [
+        "Severino Montano",
+        "Wilfrido Ma. Guerrero",
+        "Lamberto V. Avellana",
+        "Rolando S. Tinio"
+      ],
+      "reference": "LESSON_3.pptx.pdf",
+      "term": "Theater"
+    }
+  ]
+}

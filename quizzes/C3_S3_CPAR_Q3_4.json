@@ -1,0 +1,232 @@
+{
+  "quizInfo": {
+    "Subject": "Contemporary Philippine Arts from the Regions",
+    "Term": "Third Quarter",
+    "Title": "National Artists in Architecture, Fashion, Theater & Literature",
+    "LastModified": "23 January 2026",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "LESSON_3.2-ARCHITECTURE-FASHION-THEATER-AND-HISTORICAL-LIT"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "Who is known for his simple architectural designs consisting of clean lines and functional curves?",
+      "answer": "Pablo S. Antonio",
+      "choices": [
+        "Pablo S. Antonio",
+        "Leandro V. Locsin",
+        "Juan F. Nakpil",
+        "Ildefonso P. Santos"
+      ],
+      "reference": "LESSON_3.2-ARCHITECTURE-FASHION-THEATER-AND-HISTORICAL-LIT.pdf",
+      "term": "Pablo S. Antonio"
+    },
+    {
+      "question": "Which architect focused on 'Austerity and Function' and designed the FEU Administration Building?",
+      "answer": "Pablo S. Antonio",
+      "choices": [
+        "Pablo S. Antonio",
+        "Francisco T. Mañosa",
+        "Jose Maria V. Zaragoza",
+        "Ramon Valera"
+      ],
+      "reference": "LESSON_3.2-ARCHITECTURE-FASHION-THEATER-AND-HISTORICAL-LIT.pdf",
+      "term": "Pablo S. Antonio"
+    },
+    {
+      "question": "Who designed the Cultural Center of the Philippines (CCP) Complex?",
+      "answer": "Leandro V. Locsin",
+      "choices": [
+        "Leandro V. Locsin",
+        "Juan F. Nakpil",
+        "Pablo S. Antonio",
+        "Ildefonso P. Santos"
+      ],
+      "reference": "LESSON_3.2-ARCHITECTURE-FASHION-THEATER-AND-HISTORICAL-LIT.pdf",
+      "term": "Leandro V. Locsin"
+    },
+    {
+      "question": "What is considered Leandro V. Locsin's grandest work, located in Brunei?",
+      "answer": "Istana Nurul Iman",
+      "choices": [
+        "Istana Nurul Iman",
+        "Coconut Palace",
+        "Meralco Building",
+        "San Miguel Corporation Building"
+      ],
+      "reference": "LESSON_3.2-ARCHITECTURE-FASHION-THEATER-AND-HISTORICAL-LIT.pdf",
+      "term": "Leandro V. Locsin"
+    },
+    {
+      "question": "Who is known as the 'Dean of Filipino Architects'?",
+      "answer": "Juan F. Nakpil",
+      "choices": [
+        "Juan F. Nakpil",
+        "Pablo S. Antonio",
+        "Leandro V. Locsin",
+        "Francisco T. Mañosa"
+      ],
+      "reference": "LESSON_3.2-ARCHITECTURE-FASHION-THEATER-AND-HISTORICAL-LIT.pdf",
+      "term": "Juan F. Nakpil"
+    },
+    {
+      "question": "Who designed the Rizal Shrine in Calamba, Laguna and the Quiapo Church?",
+      "answer": "Juan F. Nakpil",
+      "choices": [
+        "Juan F. Nakpil",
+        "Jose Maria V. Zaragoza",
+        "Ildefonso P. Santos",
+        "Salvador Bernal"
+      ],
+      "reference": "LESSON_3.2-ARCHITECTURE-FASHION-THEATER-AND-HISTORICAL-LIT.pdf",
+      "term": "Juan F. Nakpil"
+    },
+    {
+      "question": "Who is considered the 'Father of Philippine Landscape Architecture'?",
+      "answer": "Ildefonso P. Santos",
+      "choices": [
+        "Ildefonso P. Santos",
+        "Leandro V. Locsin",
+        "Pablo S. Antonio",
+        "Juan F. Nakpil"
+      ],
+      "reference": "LESSON_3.2-ARCHITECTURE-FASHION-THEATER-AND-HISTORICAL-LIT.pdf",
+      "term": "Ildefonso P. Santos"
+    },
+    {
+      "question": "Who landscaped the Paco Park in Manila and Tagaytay Highlands?",
+      "answer": "Ildefonso P. Santos",
+      "choices": [
+        "Ildefonso P. Santos",
+        "Francisco T. Mañosa",
+        "Jose Maria V. Zaragoza",
+        "Carlos Quirino"
+      ],
+      "reference": "LESSON_3.2-ARCHITECTURE-FASHION-THEATER-AND-HISTORICAL-LIT.pdf",
+      "term": "Ildefonso P. Santos"
+    },
+    {
+      "question": "Who is known for modern ecclesiastical architecture and designed the Sto. Domingo Church?",
+      "answer": "Jose Maria V. Zaragoza",
+      "choices": [
+        "Jose Maria V. Zaragoza",
+        "Leandro V. Locsin",
+        "Juan F. Nakpil",
+        "Pablo S. Antonio"
+      ],
+      "reference": "LESSON_3.2-ARCHITECTURE-FASHION-THEATER-AND-HISTORICAL-LIT.pdf",
+      "term": "Jose Maria V. Zaragoza"
+    },
+    {
+      "question": "Which architect designed the Meralco Building?",
+      "answer": "Jose Maria V. Zaragoza",
+      "choices": [
+        "Jose Maria V. Zaragoza",
+        "Ildefonso P. Santos",
+        "Francisco T. Mañosa",
+        "Ramon Valera"
+      ],
+      "reference": "LESSON_3.2-ARCHITECTURE-FASHION-THEATER-AND-HISTORICAL-LIT.pdf",
+      "term": "Jose Maria V. Zaragoza"
+    },
+    {
+      "question": "Who is known for his neo-vernacular architecture, heavily influenced by the Bahay Kubo?",
+      "answer": "Francisco T. Mañosa",
+      "choices": [
+        "Francisco T. Mañosa",
+        "Leandro V. Locsin",
+        "Pablo S. Antonio",
+        "Juan F. Nakpil"
+      ],
+      "reference": "LESSON_3.2-ARCHITECTURE-FASHION-THEATER-AND-HISTORICAL-LIT.pdf",
+      "term": "Francisco T. Mañosa"
+    },
+    {
+      "question": "Who designed the Coconut Palace and the EDSA Shrine?",
+      "answer": "Francisco T. Mañosa",
+      "choices": [
+        "Francisco T. Mañosa",
+        "Jose Maria V. Zaragoza",
+        "Ildefonso P. Santos",
+        "Salvador Bernal"
+      ],
+      "reference": "LESSON_3.2-ARCHITECTURE-FASHION-THEATER-AND-HISTORICAL-LIT.pdf",
+      "term": "Francisco T. Mañosa"
+    },
+    {
+      "question": "Who is the National Artist for Fashion Design known for innovating the Terno?",
+      "answer": "Ramon Valera",
+      "choices": [
+        "Ramon Valera",
+        "Salvador Bernal",
+        "Carlos Quirino",
+        "Leandro V. Locsin"
+      ],
+      "reference": "LESSON_3.2-ARCHITECTURE-FASHION-THEATER-AND-HISTORICAL-LIT.pdf",
+      "term": "Ramon Valera"
+    },
+    {
+      "question": "Who unified the components of the baro't saya into a single dress with exaggerated bell sleeves?",
+      "answer": "Ramon Valera",
+      "choices": [
+        "Ramon Valera",
+        "Francisco T. Mañosa",
+        "Jose Maria V. Zaragoza",
+        "Ildefonso P. Santos"
+      ],
+      "reference": "LESSON_3.2-ARCHITECTURE-FASHION-THEATER-AND-HISTORICAL-LIT.pdf",
+      "term": "Ramon Valera"
+    },
+    {
+      "question": "Who is the National Artist for Theater Design known for using local materials like bamboo and abaca?",
+      "answer": "Salvador F. Bernal",
+      "choices": [
+        "Salvador F. Bernal",
+        "Ramon Valera",
+        "Carlos Quirino",
+        "Leandro V. Locsin"
+      ],
+      "reference": "LESSON_3.2-ARCHITECTURE-FASHION-THEATER-AND-HISTORICAL-LIT.pdf",
+      "term": "Salvador F. Bernal"
+    },
+    {
+      "question": "Who organized the Philippine Association of Theatre Designers and Technicians (PATDAT)?",
+      "answer": "Salvador F. Bernal",
+      "choices": [
+        "Salvador F. Bernal",
+        "Francisco T. Mañosa",
+        "Juan F. Nakpil",
+        "Pablo S. Antonio"
+      ],
+      "reference": "LESSON_3.2-ARCHITECTURE-FASHION-THEATER-AND-HISTORICAL-LIT.pdf",
+      "term": "Salvador F. Bernal"
+    },
+    {
+      "question": "Who is the National Artist for Historical Literature known for writing 'The Great Malayan'?",
+      "answer": "Carlos Quirino",
+      "choices": [
+        "Carlos Quirino",
+        "Ramon Valera",
+        "Salvador Bernal",
+        "Ildefonso P. Santos"
+      ],
+      "reference": "LESSON_3.2-ARCHITECTURE-FASHION-THEATER-AND-HISTORICAL-LIT.pdf",
+      "term": "Carlos Quirino"
+    },
+    {
+      "question": "Who wrote the biography of President Manuel L. Quezon titled 'Man of Destiny'?",
+      "answer": "Carlos Quirino",
+      "choices": [
+        "Carlos Quirino",
+        "Francisco T. Mañosa",
+        "Leandro V. Locsin",
+        "Juan F. Nakpil"
+      ],
+      "reference": "LESSON_3.2-ARCHITECTURE-FASHION-THEATER-AND-HISTORICAL-LIT.pdf",
+      "term": "Carlos Quirino"
+    }
+  ]
+}

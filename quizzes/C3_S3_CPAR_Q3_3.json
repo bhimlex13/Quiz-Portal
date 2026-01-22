@@ -1,0 +1,220 @@
+{
+  "quizInfo": {
+    "Subject": "Contemporary Philippine Arts from the Regions",
+    "Term": "Third Quarter",
+    "Title": "National Artists in Visual Arts",
+    "LastModified": "23 January 2026",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "LESSON_3.1-VISUAL-ARTISTS"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "Who is known as the 'Grand Old Man of the Philippine Art'?",
+      "answer": "Fernando Amorsolo",
+      "choices": [
+        "Fernando Amorsolo",
+        "Carlos Francisco",
+        "Victorio Edades",
+        "Vicente Manansala"
+      ],
+      "reference": "LESSON_3.1-VISUAL-ARTISTS.pptx.pdf",
+      "term": "Fernando Amorsolo"
+    },
+    {
+      "question": "What technique is Fernando Amorsolo known for, which makes the subjects of his painting seem to glow?",
+      "answer": "Backlighting",
+      "choices": [
+        "Backlighting",
+        "Cubism",
+        "Abstraction",
+        "Minimalism"
+      ],
+      "reference": "LESSON_3.1-VISUAL-ARTISTS.pptx.pdf",
+      "term": "Fernando Amorsolo"
+    },
+    {
+      "question": "Who is the muralist from Angono, Rizal, known for his historical paintings like 'Blood Compact'?",
+      "answer": "Carlos 'Botong' Francisco",
+      "choices": [
+        "Carlos 'Botong' Francisco",
+        "Fernando Amorsolo",
+        "Cesar Legaspi",
+        "Hernando Ocampo"
+      ],
+      "reference": "LESSON_3.1-VISUAL-ARTISTS.pptx.pdf",
+      "term": "Carlos Francisco"
+    },
+    {
+      "question": "Who is the National Artist known for classical sculpture and created the 'UP Oblation'?",
+      "answer": "Guillermo Tolentino",
+      "choices": [
+        "Guillermo Tolentino",
+        "Napoleon Abueva",
+        "Arturo Luz",
+        "Abdulmari Asia Imao"
+      ],
+      "reference": "LESSON_3.1-VISUAL-ARTISTS.pptx.pdf",
+      "term": "Guillermo Tolentino"
+    },
+    {
+      "question": "Who is known as the 'Father of Modern Philippine Sculpture'?",
+      "answer": "Napoleon Abueva",
+      "choices": [
+        "Napoleon Abueva",
+        "Guillermo Tolentino",
+        "J. Elizalde Navarro",
+        "Eduardo Castrillo"
+      ],
+      "reference": "LESSON_3.1-VISUAL-ARTISTS.pptx.pdf",
+      "term": "Napoleon Abueva"
+    },
+    {
+      "question": "Who holds the title of being the youngest National Artist awardee at the age of 46?",
+      "answer": "Napoleon Abueva",
+      "choices": [
+        "Napoleon Abueva",
+        "Fernando Amorsolo",
+        "Benedicto Cabrera",
+        "Ang Kiukok"
+      ],
+      "reference": "LESSON_3.1-VISUAL-ARTISTS.pptx.pdf",
+      "term": "Napoleon Abueva"
+    },
+    {
+      "question": "Who is known as the 'Father of Modern Philippine Painting'?",
+      "answer": "Victorio Edades",
+      "choices": [
+        "Victorio Edades",
+        "Fernando Amorsolo",
+        "Vicente Manansala",
+        "Cesar Legaspi"
+      ],
+      "reference": "LESSON_3.1-VISUAL-ARTISTS.pptx.pdf",
+      "term": "Victorio Edades"
+    },
+    {
+      "question": "Who developed the style of transparent cubism, as seen in his work 'Madonna of the Slums'?",
+      "answer": "Vicente Manansala",
+      "choices": [
+        "Vicente Manansala",
+        "Cesar Legaspi",
+        "Ang Kiukok",
+        "Hernando Ocampo"
+      ],
+      "reference": "LESSON_3.1-VISUAL-ARTISTS.pptx.pdf",
+      "term": "Vicente Manansala"
+    },
+    {
+      "question": "Who is a self-taught painter known for his abstract and non-objective works like 'Genesis'?",
+      "answer": "Hernando Ocampo",
+      "choices": [
+        "Hernando Ocampo",
+        "Jose Joya",
+        "Federico Aguilar Alcuaz",
+        "Arturo Luz"
+      ],
+      "reference": "LESSON_3.1-VISUAL-ARTISTS.pptx.pdf",
+      "term": "Hernando Ocampo"
+    },
+    {
+      "question": "Who is a Neo-Realist known for using geometric fragmentation in works like 'Gadgets'?",
+      "answer": "Cesar Legaspi",
+      "choices": [
+        "Cesar Legaspi",
+        "Vicente Manansala",
+        "Romeo Tabuena",
+        "Anita Magsaysay-Ho"
+      ],
+      "reference": "LESSON_3.1-VISUAL-ARTISTS.pptx.pdf",
+      "term": "Cesar Legaspi"
+    },
+    {
+      "question": "Who is a minimalist artist known for his geometric abstracts and works like 'Bagong Taon'?",
+      "answer": "Arturo Luz",
+      "choices": [
+        "Arturo Luz",
+        "J. Elizalde Navarro",
+        "Ang Kiukok",
+        "Jose Joya"
+      ],
+      "reference": "LESSON_3.1-VISUAL-ARTISTS.pptx.pdf",
+      "term": "Arturo Luz"
+    },
+    {
+      "question": "Who is known for his mixed media works and sculptures such as 'I'm Sorry Jesus, I Can't Attend Mass'?",
+      "answer": "J. Elizalde Navarro",
+      "choices": [
+        "J. Elizalde Navarro",
+        "Napoleon Abueva",
+        "Abdulmari Asia Imao",
+        "Federico Aguilar Alcuaz"
+      ],
+      "reference": "LESSON_3.1-VISUAL-ARTISTS.pptx.pdf",
+      "term": "J. Elizalde Navarro"
+    },
+    {
+      "question": "Who is known for his expressionist works depicting angst and sorrow, such as 'Dog Fight'?",
+      "answer": "Ang Kiukok",
+      "choices": [
+        "Ang Kiukok",
+        "BenCab",
+        "Jose Joya",
+        "Victorio Edades"
+      ],
+      "reference": "LESSON_3.1-VISUAL-ARTISTS.pptx.pdf",
+      "term": "Ang Kiukok"
+    },
+    {
+      "question": "Who is the National Artist known for his 'Sabel' series?",
+      "answer": "Benedicto 'BenCab' Cabrera",
+      "choices": [
+        "Benedicto 'BenCab' Cabrera",
+        "Ang Kiukok",
+        "Francisco Coching",
+        "Jose Joya"
+      ],
+      "reference": "LESSON_3.1-VISUAL-ARTISTS.pptx.pdf",
+      "term": "BenCab"
+    },
+    {
+      "question": "Who is the first National Artist from Mindanao known for using the Sarimanok motif?",
+      "answer": "Abdulmari Asia Imao",
+      "choices": [
+        "Abdulmari Asia Imao",
+        "Federico Aguilar Alcuaz",
+        "J. Elizalde Navarro",
+        "Napoleon Abueva"
+      ],
+      "reference": "LESSON_3.1-VISUAL-ARTISTS.pptx.pdf",
+      "term": "Abdulmari Asia Imao"
+    },
+    {
+      "question": "Who is known as the 'Dean of Filipino Illustrators'?",
+      "answer": "Francisco Coching",
+      "choices": [
+        "Francisco Coching",
+        "Larry Alcala",
+        "Mars Ravelo",
+        "Nonoy Marcelo"
+      ],
+      "reference": "LESSON_3.1-VISUAL-ARTISTS.pptx.pdf",
+      "term": "Francisco Coching"
+    },
+    {
+      "question": "Who is an abstract expressionist known for works like 'Granadean Arabesque'?",
+      "answer": "Jose Joya",
+      "choices": [
+        "Jose Joya",
+        "Hernando Ocampo",
+        "Federico Aguilar Alcuaz",
+        "Cesar Legaspi"
+      ],
+      "reference": "LESSON_3.1-VISUAL-ARTISTS.pptx.pdf",
+      "term": "Jose Joya"
+    }
+  ]
+}
