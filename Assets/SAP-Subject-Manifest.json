@@ -3,7 +3,7 @@
         {
             "Subject_ID": "C3_S2_PHILO",
             "Subject_Name": "Philosophy",
-            "Subject_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_EA.png",
+            "Subject_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_DDC.png",
             "Subject_Status": "Active",
             "Subject_Module": [
                 {
@@ -64,7 +64,7 @@
         {
             "Subject_ID": "C3_S2_MIL",
             "Subject_Name": "Media Information Technology",
-            "Subject_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_EDP.png",
+            "Subject_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_EA.png",
             "Subject_Status": "Active",
             "Subject_Module": [
                 {
@@ -103,7 +103,7 @@
         {
             "Subject_ID": "C3_S3_CPAR",
             "Subject_Name": "Contemporary Philippine Arts",
-            "Subject_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_GB_Demo.png",
+            "Subject_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_MST_Demo.png",
             "Subject_Status": "Active",
             "Subject_Module": [
                 {
@@ -206,6 +206,67 @@
                             "Subfolder_Name": "Weeks 9-10: Artistic Techniques & Printmaking",
                             "Subfolder_Description": "Quiz covering Weeks 9-10: Collage, Decollage, Graffiti, Land Art, Digital Arts, Mixed Media, and Printmaking matrices.",
                             "Subfolder_Link": "quizPlayer.html?Quiz=C3_S3_CPAR_Q3_9",
+                            "Subfolder_Author": [
+                                "Alexander Oro"
+                            ],
+                            "Subfolder_LastModified": "23 January 2026",
+                            "Subfolder_Status": "Active"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Subject_ID": "C3_S4_PR2",
+            "Subject_Name": "Practical Research 2",
+            "Subject_Thumbnail": "Assets/Images/Thumbnails/Thumbnail_MIS_Demo.png",
+            "Subject_Status": "Active",
+            "Subject_Module": [
+                {
+                    "Module_ID": "C3_S4_PR2_Q3",
+                    "Module_Name": "Third Quarter",
+                    "Module_Thumbnail": "Assets/Images/Thumbnails/OLD_Thumbnail_Prefinals_1.png",
+                    "Module_Status": "Active",
+                    "Module_LastModified": "23 January 2026",
+                    "Module_Subfolders": [
+                        {
+                            "Subfolder_ID": "C3_S4_PR2_Q3_1",
+                            "Subfolder_Name": "Quantitative Research: Characteristics and Kinds",
+                            "Subfolder_Description": "Quiz covering Lesson 1: Characteristics, strengths, weaknesses, and types of quantitative research.",
+                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S4_PR2_Q3_1",
+                            "Subfolder_Author": [
+                                "Alexander Oro"
+                            ],
+                            "Subfolder_LastModified": "23 January 2026",
+                            "Subfolder_Status": "Active"
+                        },
+                        {
+                            "Subfolder_ID": "C3_S4_PR2_Q3_2",
+                            "Subfolder_Name": "The Importance of Quantitative Research Across Fields",
+                            "Subfolder_Description": "Quiz covering Lesson 2: Applications of quantitative research in Business, Arts, and Environmental Science.",
+                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S4_PR2_Q3_2",
+                            "Subfolder_Author": [
+                                "Alexander Oro"
+                            ],
+                            "Subfolder_LastModified": "23 January 2026",
+                            "Subfolder_Status": "Active"
+                        },
+                        {
+                            "Subfolder_ID": "C3_S4_PR2_Q3_3",
+                            "Subfolder_Name": "Nature of Variables",
+                            "Subfolder_Description": "Quiz covering Lesson 3: Definition of variables, types (Discrete, Continuous, Nominal, Ordinal), and classification.",
+                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S4_PR2_Q3_3",
+                            "Subfolder_Author": [
+                                "Alexander Oro"
+                            ],
+                            "Subfolder_LastModified": "23 January 2026",
+                            "Subfolder_Status": "Active"
+                        },
+                        {
+                            "Subfolder_ID": "C3_S4_PR2_Q3_4",
+                            "Subfolder_Name": "Identifying the Inquiry and Stating the Problem",
+                            "Subfolder_Description": "Quiz covering Lesson 4: Research title, background, problem statement, hypothesis, and S.O.S.",
+                            "Subfolder_Link": "quizPlayer.html?Quiz=C3_S4_PR2_Q3_4",
                             "Subfolder_Author": [
                                 "Alexander Oro"
                             ],

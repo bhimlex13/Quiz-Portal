@@ -1,0 +1,196 @@
+{
+  "quizInfo": {
+    "Subject": "Practical Research 2",
+    "Term": "Third Quarter",
+    "Title": "Characteristics, Strengths, Weaknesses, and Kinds of Quantitative Research",
+    "LastModified": "23 January 2026",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "Lesson 1"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "What is defined as a systematic process of studying a topic to discover new information or knowledge?",
+      "answer": "Research",
+      "choices": [
+        "Research",
+        "Inquiry",
+        "Analysis",
+        "Hypothesis"
+      ],
+      "reference": "Lesson 1.pptx",
+      "term": "Introduction"
+    },
+    {
+      "question": "Which characteristic of quantitative research ensures that data gathering and analysis are unaffected by the researcher’s intuition?",
+      "answer": "Objectivity",
+      "choices": [
+        "Objectivity",
+        "Subjectivity",
+        "Replicability",
+        "Flexibility"
+      ],
+      "reference": "Lesson 1.pptx",
+      "term": "Characteristics"
+    },
+    {
+      "question": "What is required to obtain a more meaningful statistical result in quantitative research?",
+      "answer": "Large Sample Size",
+      "choices": [
+        "Large Sample Size",
+        "Small Sample Size",
+        "Expert Opinion",
+        "Case Study"
+      ],
+      "reference": "Lesson 1.pptx",
+      "term": "Characteristics"
+    },
+    {
+      "question": "How is data typically presented in quantitative research for better conveyance and interpretation?",
+      "answer": "Concise Visual Presentation",
+      "choices": [
+        "Concise Visual Presentation",
+        "Narrative Description",
+        "Audio Recordings",
+        "Field Notes"
+      ],
+      "reference": "Lesson 1.pptx",
+      "term": "Characteristics"
+    },
+    {
+      "question": "What allows for a less time-consuming data analysis in quantitative research?",
+      "answer": "Faster Data Analysis",
+      "choices": [
+        "Faster Data Analysis",
+        "Manual Coding",
+        "Thematic Analysis",
+        "Narrative Analysis"
+      ],
+      "reference": "Lesson 1.pptx",
+      "term": "Characteristics"
+    },
+    {
+      "question": "What characteristic refers to the ability to repeat the quantitative method to verify findings?",
+      "answer": "High Replicability",
+      "choices": [
+        "High Replicability",
+        "Flexibility",
+        "Subjectivity",
+        "Uniqueness"
+      ],
+      "reference": "Lesson 1.pptx",
+      "term": "Characteristics"
+    },
+    {
+      "question": "What is a major advantage of quantitative research regarding data collection?",
+      "answer": "Fast and Easy Data Collection",
+      "choices": [
+        "Fast and Easy Data Collection",
+        "Deep exploration of problems",
+        "Comprehensive explanation of experiences",
+        "Flexible research design"
+      ],
+      "reference": "Lesson 1.pptx",
+      "term": "Advantages"
+    },
+    {
+      "question": "What is a disadvantage of quantitative research regarding the depth of data?",
+      "answer": "It lacks the necessary data to explore a problem or concept in depth",
+      "choices": [
+        "It lacks the necessary data to explore a problem or concept in depth",
+        "It is too subjective",
+        "It cannot be replicated",
+        "It is too costly"
+      ],
+      "reference": "Lesson 1.pptx",
+      "term": "Disadvantages"
+    },
+    {
+      "question": "Which research design is used to describe a particular phenomenon by observing it as it occurs in nature?",
+      "answer": "Descriptive Design",
+      "choices": [
+        "Descriptive Design",
+        "Correlational Design",
+        "Experimental Design",
+        "Quasi-Experimental Design"
+      ],
+      "reference": "Lesson 1.pptx",
+      "term": "Kinds of Quantitative Research"
+    },
+    {
+      "question": "Which research design identifies the relationship between variables without considering cause and effect?",
+      "answer": "Correlational Design",
+      "choices": [
+        "Correlational Design",
+        "Descriptive Design",
+        "Ex Post Facto Design",
+        "Experimental Design"
+      ],
+      "reference": "Lesson 1.pptx",
+      "term": "Kinds of Quantitative Research"
+    },
+    {
+      "question": "Which design looks at possible causes of an already occurring phenomenon, meaning 'after the fact'?",
+      "answer": "Ex Post Facto Design",
+      "choices": [
+        "Ex Post Facto Design",
+        "Quasi-Experimental Design",
+        "Correlational Design",
+        "Descriptive Design"
+      ],
+      "reference": "Lesson 1.pptx",
+      "term": "Kinds of Quantitative Research"
+    },
+    {
+      "question": "Which design is used to establish cause-and-effect relationships but lacks random assignment?",
+      "answer": "Quasi-Experimental Design",
+      "choices": [
+        "Quasi-Experimental Design",
+        "Experimental Design",
+        "Descriptive Design",
+        "Correlational Design"
+      ],
+      "reference": "Lesson 1.pptx",
+      "term": "Kinds of Quantitative Research"
+    },
+    {
+      "question": "Which design provides a more conclusive result because it uses random assignment and experimental manipulations?",
+      "answer": "Experimental Design",
+      "choices": [
+        "Experimental Design",
+        "Quasi-Experimental Design",
+        "Ex Post Facto Design",
+        "Descriptive Design"
+      ],
+      "reference": "Lesson 1.pptx",
+      "term": "Kinds of Quantitative Research"
+    },
+    {
+      "question": "What is a disadvantage of quantitative research regarding the participants' responses?",
+      "answer": "The participants are limited to choose only from the given responses",
+      "choices": [
+        "The participants are limited to choose only from the given responses",
+        "The participants can express their feelings freely",
+        "The participants are interviewed in depth",
+        "The participants create the questions"
+      ],
+      "reference": "Lesson 1.pptx",
+      "term": "Disadvantages"
+    },
+    {
+      "question": "What is a disadvantage of quantitative research regarding cost?",
+      "answer": "A large sample size makes data collection more costly",
+      "choices": [
+        "A large sample size makes data collection more costly",
+        "It is free to conduct",
+        "It is cheaper than qualitative research",
+        "Data analysis is expensive"
+      ],
+      "reference": "Lesson 1.pptx",
+      "term": "Disadvantages"
+    }
+  ]
+}

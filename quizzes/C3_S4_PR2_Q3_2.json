@@ -1,0 +1,112 @@
+{
+  "quizInfo": {
+    "Subject": "Practical Research 2",
+    "Term": "Third Quarter",
+    "Title": "The Importance of Quantitative Research Across Fields",
+    "LastModified": "23 January 2026",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "Lesson 2"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "Throughout history, what has paved the way to finding meaningful solutions to difficulties?",
+      "answer": "Quantitative Research",
+      "choices": [
+        "Quantitative Research",
+        "Qualitative Research",
+        "Opinion Polls",
+        "Guesswork"
+      ],
+      "reference": "Lesson 2.pdf",
+      "term": "Introduction"
+    },
+    {
+      "question": "What field uses quantitative research to offer device marketing strategies and improve marketability?",
+      "answer": "Business",
+      "choices": [
+        "Business",
+        "Arts and Design",
+        "Environmental Science",
+        "Education"
+      ],
+      "reference": "Lesson 2.pdf",
+      "term": "Business"
+    },
+    {
+      "question": "Which specific study example belongs to the field of Business?",
+      "answer": "Effectiveness of Facebook ads on sales",
+      "choices": [
+        "Effectiveness of Facebook ads on sales",
+        "The effects of music on learning",
+        "Causes of climate change",
+        "Relationship between color and architectural space"
+      ],
+      "reference": "Lesson 2.pdf",
+      "term": "Business"
+    },
+    {
+      "question": "Which field uses quantitative research to show the relationship between color and architectural space?",
+      "answer": "Arts and Design",
+      "choices": [
+        "Arts and Design",
+        "Business",
+        "Environmental Science",
+        "Medical Services"
+      ],
+      "reference": "Lesson 2.pdf",
+      "term": "Arts and Design"
+    },
+    {
+      "question": "Which study example investigates the effects of music on learning and behavior?",
+      "answer": "Arts and Design",
+      "choices": [
+        "Arts and Design",
+        "Business",
+        "Environmental Science",
+        "Engineering"
+      ],
+      "reference": "Lesson 2.pdf",
+      "term": "Arts and Design"
+    },
+    {
+      "question": "Which field uses quantitative research to determine the causes and effects of climate change?",
+      "answer": "Environmental Science",
+      "choices": [
+        "Environmental Science",
+        "Business",
+        "Arts and Design",
+        "Humanities"
+      ],
+      "reference": "Lesson 2.pdf",
+      "term": "Environmental Science"
+    },
+    {
+      "question": "What involves the maximization of multimedia and adaptation for recreation, business marketing, and lifestyle changes?",
+      "answer": "Arts and Design",
+      "choices": [
+        "Arts and Design",
+        "Environmental Science",
+        "Business",
+        "Social Science"
+      ],
+      "reference": "Lesson 2.pdf",
+      "term": "Arts and Design"
+    },
+    {
+      "question": "What is undeniable about quantitative research regarding man's quest?",
+      "answer": "Its value to discover the unknown and improve underlying conditions",
+      "choices": [
+        "Its value to discover the unknown and improve underlying conditions",
+        "Its ability to make people rich",
+        "Its focus on subjective feelings",
+        "Its lack of structure"
+      ],
+      "reference": "Lesson 2.pdf",
+      "term": "Introduction"
+    }
+  ]
+}

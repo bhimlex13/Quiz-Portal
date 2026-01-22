@@ -1,0 +1,220 @@
+{
+  "quizInfo": {
+    "Subject": "Practical Research 2",
+    "Term": "Third Quarter",
+    "Title": "Identifying the Inquiry and Stating the Problem",
+    "LastModified": "23 January 2026",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "Lesson 4"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "According to the guidelines, how many words are typically sufficient to describe a research study?",
+      "answer": "5 to 15 words",
+      "choices": [
+        "5 to 15 words",
+        "10 to 20 words",
+        "20 to 30 words",
+        "Less than 5 words"
+      ],
+      "reference": "Lesson 4.pdf",
+      "term": "Research Title"
+    },
+    {
+      "question": "Which phrases should be AVOIDED in a research title?",
+      "answer": "The study of / An analysis of",
+      "choices": [
+        "The study of / An analysis of",
+        "The effect of",
+        "The relationship between",
+        "The impact of"
+      ],
+      "reference": "Lesson 4.pdf",
+      "term": "Research Title"
+    },
+    {
+      "question": "What part of the research paper provides an overview of the research problem and clarifies important terminologies?",
+      "answer": "Background of the Study",
+      "choices": [
+        "Background of the Study",
+        "Statement of the Problem",
+        "Significance of the Study",
+        "Methodology"
+      ],
+      "reference": "Lesson 4.pdf",
+      "term": "Background of the Study"
+    },
+    {
+      "question": "What refers to the 'blind spot' or the missing information that the study aims to fill?",
+      "answer": "Research Gap",
+      "choices": [
+        "Research Gap",
+        "Research Hypothesis",
+        "Research Title",
+        "Research Variable"
+      ],
+      "reference": "Lesson 4.pdf",
+      "term": "Background of the Study"
+    },
+    {
+      "question": "Which part of the research states the general and specific goals of the study?",
+      "answer": "Statement of the Problem",
+      "choices": [
+        "Statement of the Problem",
+        "Hypothesis",
+        "Scope and Delimitation",
+        "Definition of Terms"
+      ],
+      "reference": "Lesson 4.pdf",
+      "term": "Statement of the Problem"
+    },
+    {
+      "question": "Which type of research question asks 'What is this?' and is also called a factor-naming question?",
+      "answer": "Factor-isolating Question",
+      "choices": [
+        "Factor-isolating Question",
+        "Factor-relating Question",
+        "Situation-relating Question",
+        "Situation-producing Question"
+      ],
+      "reference": "Lesson 4.pdf",
+      "term": "Statement of the Problem"
+    },
+    {
+      "question": "Which type of research question asks 'What is happening here?' and looks at relationships between factors?",
+      "answer": "Factor-relating Question",
+      "choices": [
+        "Factor-relating Question",
+        "Factor-isolating Question",
+        "Situation-relating Question",
+        "Situation-producing Question"
+      ],
+      "reference": "Lesson 4.pdf",
+      "term": "Statement of the Problem"
+    },
+    {
+      "question": "Which type of research question asks 'What will happen if...?' and usually yields a hypothesis testing?",
+      "answer": "Situation-relating Question",
+      "choices": [
+        "Situation-relating Question",
+        "Factor-relating Question",
+        "Factor-isolating Question",
+        "Situation-producing Question"
+      ],
+      "reference": "Lesson 4.pdf",
+      "term": "Statement of the Problem"
+    },
+    {
+      "question": "Which type of research question asks 'How can I make it happen?' and establishes goals for action?",
+      "answer": "Situation-producing Question",
+      "choices": [
+        "Situation-producing Question",
+        "Situation-relating Question",
+        "Factor-relating Question",
+        "Factor-isolating Question"
+      ],
+      "reference": "Lesson 4.pdf",
+      "term": "Statement of the Problem"
+    },
+    {
+      "question": "What is a tentative prediction about the relationship between two or more variables?",
+      "answer": "Hypothesis",
+      "choices": [
+        "Hypothesis",
+        "Theory",
+        "Conclusion",
+        "Observation"
+      ],
+      "reference": "Lesson 4.pdf",
+      "term": "Hypothesis"
+    },
+    {
+      "question": "Which hypothesis states that there is NO relationship or significant difference between variables?",
+      "answer": "Null Hypothesis",
+      "choices": [
+        "Null Hypothesis",
+        "Alternative Hypothesis",
+        "Directional Hypothesis",
+        "Complex Hypothesis"
+      ],
+      "reference": "Lesson 4.pdf",
+      "term": "Hypothesis"
+    },
+    {
+      "question": "Which hypothesis states that there IS a relationship or significant difference between variables?",
+      "answer": "Alternative Hypothesis",
+      "choices": [
+        "Alternative Hypothesis",
+        "Null Hypothesis",
+        "Simple Hypothesis",
+        "Statistical Hypothesis"
+      ],
+      "reference": "Lesson 4.pdf",
+      "term": "Hypothesis"
+    },
+    {
+      "question": "What section identifies the beneficiaries and the benefits they will receive from the study?",
+      "answer": "Significance of the Study",
+      "choices": [
+        "Significance of the Study",
+        "Scope and Delimitation",
+        "Definition of Terms",
+        "Statement of the Problem"
+      ],
+      "reference": "Lesson 4.pdf",
+      "term": "Significance of the Study"
+    },
+    {
+      "question": "What specifies the coverage of the study, such as variables, population, and timeline?",
+      "answer": "Scope",
+      "choices": [
+        "Scope",
+        "Delimitation",
+        "Limitation",
+        "Gap"
+      ],
+      "reference": "Lesson 4.pdf",
+      "term": "Scope and Delimitation"
+    },
+    {
+      "question": "What cites factors that are NOT included or are excluded from the study?",
+      "answer": "Delimitation",
+      "choices": [
+        "Delimitation",
+        "Scope",
+        "Significance",
+        "Hypothesis"
+      ],
+      "reference": "Lesson 4.pdf",
+      "term": "Scope and Delimitation"
+    },
+    {
+      "question": "Which type of definition is taken from a dictionary or standard reference?",
+      "answer": "Conceptual Definition",
+      "choices": [
+        "Conceptual Definition",
+        "Operational Definition",
+        "Theoretical Definition",
+        "Technical Definition"
+      ],
+      "reference": "Lesson 4.pdf",
+      "term": "Definition of Terms"
+    },
+    {
+      "question": "Which type of definition explains the meaning of a term based on how it is USED in the study?",
+      "answer": "Operational Definition",
+      "choices": [
+        "Operational Definition",
+        "Conceptual Definition",
+        "Lexical Definition",
+        "Standard Definition"
+      ],
+      "reference": "Lesson 4.pdf",
+      "term": "Definition of Terms"
+    }
+  ]
+}

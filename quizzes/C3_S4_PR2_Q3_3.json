@@ -1,0 +1,196 @@
+{
+  "quizInfo": {
+    "Subject": "Practical Research 2",
+    "Term": "Third Quarter",
+    "Title": "Nature of Variables",
+    "LastModified": "23 January 2026",
+    "Authors": [
+      "Alexander Oro"
+    ],
+    "References": [
+      "Lesson 3"
+    ]
+  },
+  "quizData": [
+    {
+      "question": "What is defined as any factor or property that a researcher measures, controls, or manipulates?",
+      "answer": "Variable",
+      "choices": [
+        "Variable",
+        "Data",
+        "Hypothesis",
+        "Theory"
+      ],
+      "reference": "Lesson 3.pptx",
+      "term": "Nature of Variables"
+    },
+    {
+      "question": "Which type of variable is countable and has a true zero value (meaning 'none')?",
+      "answer": "Discrete Variable",
+      "choices": [
+        "Discrete Variable",
+        "Continuous Variable",
+        "Nominal Variable",
+        "Ordinal Variable"
+      ],
+      "reference": "Lesson 3.pptx",
+      "term": "Quantitative Variable"
+    },
+    {
+      "question": "Which type of variable can take on decimal or fractional values and is often measured rather than counted?",
+      "answer": "Continuous Variable",
+      "choices": [
+        "Continuous Variable",
+        "Discrete Variable",
+        "Nominal Variable",
+        "Dichotomous Variable"
+      ],
+      "reference": "Lesson 3.pptx",
+      "term": "Quantitative Variable"
+    },
+    {
+      "question": "What is another name for a Discrete Variable?",
+      "answer": "Ratio Variable",
+      "choices": [
+        "Ratio Variable",
+        "Interval Variable",
+        "Nominal Variable",
+        "Ordinal Variable"
+      ],
+      "reference": "Lesson 3.pptx",
+      "term": "Quantitative Variable"
+    },
+    {
+      "question": "What is another name for a Continuous Variable?",
+      "answer": "Interval Variable",
+      "choices": [
+        "Interval Variable",
+        "Ratio Variable",
+        "Nominal Variable",
+        "Ordinal Variable"
+      ],
+      "reference": "Lesson 3.pptx",
+      "term": "Quantitative Variable"
+    },
+    {
+      "question": "Which of the following is an example of a Discrete Variable?",
+      "answer": "Number of absences",
+      "choices": [
+        "Number of absences",
+        "Temperature in Fahrenheit",
+        "Weight of Pechay",
+        "Speed of a car"
+      ],
+      "reference": "Lesson 3.pptx",
+      "term": "Examples"
+    },
+    {
+      "question": "Which of the following is an example of a Continuous Variable?",
+      "answer": "Temperature in Fahrenheit",
+      "choices": [
+        "Temperature in Fahrenheit",
+        "Number of covid 19 positive cases",
+        "Number of registered cars",
+        "Educational Level"
+      ],
+      "reference": "Lesson 3.pptx",
+      "term": "Examples"
+    },
+    {
+      "question": "What kind of variable is 'Variety of Tomato Plant'?",
+      "answer": "Nominal",
+      "choices": [
+        "Nominal",
+        "Ordinal",
+        "Discrete",
+        "Continuous"
+      ],
+      "reference": "Lesson 3.pptx",
+      "term": "Qualitative Variable"
+    },
+    {
+      "question": "What kind of variable is 'Educational Level of parents' (e.g., high school, college grad)?",
+      "answer": "Ordinal",
+      "choices": [
+        "Ordinal",
+        "Nominal",
+        "Discrete",
+        "Continuous"
+      ],
+      "reference": "Lesson 3.pptx",
+      "term": "Qualitative Variable"
+    },
+    {
+      "question": "What kind of variable is 'Online seller satisfaction rating' (1-5 stars)?",
+      "answer": "Ordinal",
+      "choices": [
+        "Ordinal",
+        "Nominal",
+        "Ratio",
+        "Dichotomous"
+      ],
+      "reference": "Lesson 3.pptx",
+      "term": "Qualitative Variable"
+    },
+    {
+      "question": "What kind of variable is 'Color of Alcohol packaging'?",
+      "answer": "Nominal",
+      "choices": [
+        "Nominal",
+        "Ordinal",
+        "Interval",
+        "Ratio"
+      ],
+      "reference": "Lesson 3.pptx",
+      "term": "Qualitative Variable"
+    },
+    {
+      "question": "What kind of variable is 'Weight of Pechay harvested'?",
+      "answer": "Continuous",
+      "choices": [
+        "Continuous",
+        "Discrete",
+        "Nominal",
+        "Ordinal"
+      ],
+      "reference": "Lesson 3.pptx",
+      "term": "Quantitative Variable"
+    },
+    {
+      "question": "What kind of variable is 'Number of covid 19 positive cases'?",
+      "answer": "Discrete",
+      "choices": [
+        "Discrete",
+        "Continuous",
+        "Nominal",
+        "Ordinal"
+      ],
+      "reference": "Lesson 3.pptx",
+      "term": "Quantitative Variable"
+    },
+    {
+      "question": "What kind of variable is 'Sexual Orientation of Students'?",
+      "answer": "Dichotomous/Nominal",
+      "choices": [
+        "Dichotomous/Nominal",
+        "Ordinal",
+        "Interval",
+        "Ratio"
+      ],
+      "reference": "Lesson 3.pptx",
+      "term": "Qualitative Variable"
+    },
+    {
+      "question": "Which of the following statements is TRUE about discrete variables?",
+      "answer": "They are countable and whole numbers.",
+      "choices": [
+        "They are countable and whole numbers.",
+        "They can be decimals or fractions.",
+        "They have no true zero.",
+        "They are used for categories without order."
+      ],
+      "reference": "Lesson 3.pptx",
+      "term": "Discrete Variable"
+    }
+  ]
+}
